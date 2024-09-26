@@ -24,7 +24,7 @@ app.add_middleware(
 
 
 # Define ping endpoint
-@app.get("/ping")
+@app.get("/api/v1/ping")
 async def ping():
     return "pong"
 
