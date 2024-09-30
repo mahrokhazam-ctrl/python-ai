@@ -32,7 +32,7 @@ def get_cro_response(user_query: str) -> str:
         Based on the user query you need to fetch all the Contract Research Organizations (CRO), and provide their details in the defined structured JSON format and if any key value is not there then keep it blank and if there are multiple CRO then return the array of data and maximum possible results.
         Replace <ExampleName>, {{state:<ExampleState>, country:<ExampleCountry>}}, <ExampleSpecialization>, <ExampleServices>, <ExampleSpecialties>, <ExampleDescription> and <ExampleWebsite> with generated values.
 
-        I need the json object in response; do not send any other json or characters. I need to extract json from your response with json.loads() function in python. Please do not create any data from yourself.
+        I need the json object in response; do not send any other json or characters. I need to extract json from your response with json.loads() function in python. Please do not create any data from yourself. List minimum 20 records.
         Sample output:
         {{
         "name": "Innovaderm",
