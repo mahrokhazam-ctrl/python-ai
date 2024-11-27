@@ -76,7 +76,7 @@ def get_freelancer_response(user_query: str) -> str:
         "hourly_rate": "$20-$150"
         }}
         """
-        #print("PROMPT:::::", PROMPT)
+     print("PROMPT:::::", PROMPT)
 
         # Step 4: Pass the modified query to the OpenAI API
         openai_response = generate_openai_response(PROMPT, user_query)
@@ -85,4 +85,4 @@ def get_freelancer_response(user_query: str) -> str:
 
     except Exception as e:
         # Handle and log exceptions if necessary
-        raise Exception(f"Error while fetching freelancer response: {str(e)}")
+        raise Exception(f"Error while fetching freelancer response:: {str(e)}")
