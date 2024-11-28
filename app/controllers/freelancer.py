@@ -26,11 +26,12 @@ def process_skill_chunks(skill_chunks, input_skill):
 
                     The response should strictly adhere to this format:
                     {{
-                        "skills": ["<Skill1>", "<Skill2>", ...]
+                        "skills": ["<Skill1>", "<Skill2>"]
                     }}
                     
                     The above given format is just an example json that you have to generate.
-                    Replace `<Skill1>, <Skill2>, ...` with the appropriate skills from the list. No explanation, comments, or additional information should be included. Do not return the markup format also.
+                    Replace [`<Skill1>, <Skill2>]` with generated values from the list: {chunk}. If no relevant skills are found, return an empty array.
+                    No explanation, comments, or additional information should be included. Do not return the markup format also.
                     sample output:
                     {{
                         "skills": ["Angular Js"]
@@ -60,8 +61,11 @@ def process_skill_chunks(skill_chunks, input_skill):
             # Call OpenAI API with the chunked data
             response = generate_openai_response(prompt, input_skill, json_schema)
             parsed_response = json.loads(response)
-            responses.extend(parsed_response["skills"])
-            print("parsed_response",parsed_response)
+            
+            # Filter to include only skills present in the current chunk
+            valid_skills = [skill for skill in parsed_response["skills"] if skill in chunk]
+            responses.extend(valid_skills)
+            #print("Valid skills:", valid_skills)
 
         except json.JSONDecodeError as err:
             print("Error decoding JSON response:", response)
@@ -69,6 +73,7 @@ def process_skill_chunks(skill_chunks, input_skill):
         except Exception as e:
             print(f"Error processing chunk: {str(e)}")
     return responses
+
 
 
 def get_freelancer_response(user_query: str) -> str:
@@ -91,10 +96,11 @@ def get_freelancer_response(user_query: str) -> str:
 
         # Step 1: Process each chunk to find the best matches
         filtered_skills = process_skill_chunks(skill_chunks, user_query)
-        print("filtered_skills::",filtered_skills)
+        print("filtered_skills:: ",filtered_skills)
 
         # Step 2: Aggregate results from all chunks
         formatted_skills = ", ".join(filtered_skills)
+        print("formatted_skills:: ", formatted_skills)
 
         # Step 3: Construct the prompt
         PROMPT = f"""
