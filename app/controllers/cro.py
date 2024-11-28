@@ -54,4 +54,4 @@ def get_cro_response(user_query: str) -> str:
 
     except Exception as e:
         # Handle and log exceptions if necessary
-        raise Exception(f"Error while fetching freelancer response: {str(e)}")
+        raise Exception(f"Error while fetching CROs response: {str(e)}")

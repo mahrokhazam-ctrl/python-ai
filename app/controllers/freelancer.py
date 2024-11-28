@@ -1,54 +1,102 @@
 import requests
-import json
-from app.utils.openai_client import generate_openai_response  # Adjust path if necessary
 import os
 from dotenv import load_dotenv
+from app.utils.openai_client import generate_openai_response
+import json  # Import to parse JSON strings
 
 load_dotenv()
-# Define and get the third-party API URL from env
+
 GET_SKILL_API_URL = os.getenv("GET_SKILL_API_URL")
 GET_COUNTRY_API_URL = os.getenv("GET_COUNTRY_API_URL")
 
 
-import requests
+def chunk_array_with_overlap(skill_array, max_length=100):
+    """Chunk the skill array into manageable pieces."""
+    for i in range(0, len(skill_array), max_length):
+        yield skill_array[i:i + max_length]
+
+
+def process_skill_chunks(skill_chunks, input_skill):
+    """Send each skill chunk to the OpenAI API and get responses."""
+    responses = []
+    for chunk in skill_chunks:
+        prompt = f"""
+                    The user will only send you the query. Based on the query, return the most similar skill(s) from the provided list: {chunk}.
+                    Respond **only** with a valid JSON object that can be parsed using `json.loads()` in Python. Do not include any additional text, examples, markup, or characters before or after the JSON object.
+
+                    The response should strictly adhere to this format:
+                    {{
+                        "skills": ["<Skill1>", "<Skill2>", ...]
+                    }}
+                    
+                    The above given format is just an example json that you have to generate.
+                    Replace `<Skill1>, <Skill2>, ...` with the appropriate skills from the list. No explanation, comments, or additional information should be included. Do not return the markup format also.
+                    sample output:
+                    {{
+                        "skills": ["Angular Js"]
+                    }}
+
+                """
+        try:
+            json_schema = {
+                "type": "json_schema",
+                "json_schema": {
+                    "name": "skills_schema",
+                    "schema": {
+                        "type": "object",
+                        "properties": {
+                            "skills": {
+                                "description": "A list of skills relevant to the query",
+                                "type": "array",
+                                "items": {
+                                    "type": "string"
+                                }
+                            }
+                        },
+                        "additionalProperties": False
+                    }
+                }
+            }
+            # Call OpenAI API with the chunked data
+            response = generate_openai_response(prompt, input_skill, json_schema)
+            parsed_response = json.loads(response)
+            responses.extend(parsed_response["skills"])
+            print("parsed_response",parsed_response)
+
+        except json.JSONDecodeError as err:
+            print("Error decoding JSON response:", response)
+            responses.append(None)
+        except Exception as e:
+            print(f"Error processing chunk: {str(e)}")
+    return responses
+
 
 def get_freelancer_response(user_query: str) -> str:
     try:
-        # API URLs
-        #GET_SKILL_API_URL = 'http://localhost/connectresearch/get_tax.php?tax=skill'
-        #GET_COUNTRY_API_URL = 'http://localhost/connectresearch/get_tax.php?tax=country'
+        headers = {"User-Agent": "FastAPI-Client/1.0", "Accept": "application/json"}
 
-        headers = {
-            "User-Agent": "FastAPI-Client/1.0",
-            "Accept": "application/json"  # Expect JSON responses
-        }
-
-        # Fetch country data
+        # Fetch and format country data
         country_response = requests.get(GET_COUNTRY_API_URL, headers=headers)
         if country_response.status_code != 200:
             raise Exception(f"Error fetching data from getcountry API: {country_response.status_code}")
         country_data = country_response.json()  # Parse as JSON
-        #print("Country data:", country_data)
-         # Format country_data into a comma-separated string for the prompt
-        formatted_country = ", ".join(country_data)  # Assuming `skill_data` is a list of skill strings
-        #print("Formatted country:", formatted_country)
-        
+        formatted_country = ", ".join(country_data)
 
-        # Fetch skill data
+        # Fetch and chunk skill data
         skill_response = requests.get(GET_SKILL_API_URL, headers=headers)
         if skill_response.status_code != 200:
             raise Exception(f"Error fetching data from getskills API: {skill_response.status_code}")
         skill_data = skill_response.json()  # Parse as JSON
-        #print("Skill data:", skill_data)
+        skill_chunks = list(chunk_array_with_overlap(skill_data, max_length=500))
 
-        # Format skill_data into a comma-separated string for the prompt
-        formatted_skills = ", ".join(skill_data)  # Assuming `skill_data` is a list of skill strings
-        #print("Formatted Skills:", formatted_skills)
+        # Step 1: Process each chunk to find the best matches
+        filtered_skills = process_skill_chunks(skill_chunks, user_query)
+        print("filtered_skills::",filtered_skills)
 
-        #earnings_data = ["Any amount", "0-100", "100-1000", "1000-10000", "Greater than 10000"]
+        # Step 2: Aggregate results from all chunks
+        formatted_skills = ", ".join(filtered_skills)
 
-
-        # Constants
+        # Step 3: Construct the prompt
         PROMPT = f"""
         you are an AI tool, you have to generate the data in this format:
         {{
@@ -76,13 +124,10 @@ def get_freelancer_response(user_query: str) -> str:
         "hourly_rate": "$20-$150"
         }}
         """
-     print("PROMPT:::::", PROMPT)
 
-        # Step 4: Pass the modified query to the OpenAI API
-        openai_response = generate_openai_response(PROMPT, user_query)
-
-        return openai_response
+        # Generate OpenAI response
+        final_response = generate_openai_response(PROMPT, user_query)
+        return final_response
 
     except Exception as e:
-        # Handle and log exceptions if necessary
-        raise Exception(f"Error while fetching freelancer response:: {str(e)}")
+        raise Exception(f"Error while fetching freelancer response: {str(e)}")

@@ -8,7 +8,7 @@ OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 
 # Function to interact with OpenAI using the `requests` library
-def generate_openai_response(PROMPT, user_query):
+def generate_openai_response(PROMPT, user_query, json_schema=""):
     url = "https://api.openai.com/v1/chat/completions"
     headers = {
         "Content-Type": "application/json",
@@ -19,10 +19,15 @@ def generate_openai_response(PROMPT, user_query):
         {"role": "user", "content": user_query}
     ]
     data = {
-        "model": "gpt-4o",
         "messages": messages,
-        "temperature": 0.7
+        "temperature": 0.7,
     }
+
+    if json_schema:
+        data["response_format"] = json_schema
+        data["model"] = "gpt-4o-mini"
+    else:
+        data["model"] = "gpt-4o"
     
     response = requests.post(url, headers=headers, json=data)
     
