@@ -61,7 +61,7 @@ def process_single_chunk(chunk, input_skill):
         
         # Filter to include only skills present in the current chunk
         valid_skills = [skill for skill in parsed_response["skills"] if skill in chunk]
-        print("Valid skills:", valid_skills)
+        print("Valid skills::", valid_skills)
         return valid_skills
 
     except json.JSONDecodeError as err:
