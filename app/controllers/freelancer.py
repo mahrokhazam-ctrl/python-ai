@@ -132,6 +132,7 @@ def get_freelancer_response(user_query: str) -> str:
         Replace <ExampleKeyword>, <ExampleSkill>, <ExampleEarnings>, <ExampleProjectsWorked>, <ExampleLocation> and <ExampleRate> with generated values. If you think the user has not provided any value for a given key, keep that key blank.
         Based on the user query, provide simple string titles.
         I need the json object in response; do not send any other json or characters. I need to extract json from your response with json.loads() function in python.
+        note:- The keyword should be maximum one or two word only and that word will not in the skills
         Sample output:
         {{
         "keyword": "Frontend Developer",
