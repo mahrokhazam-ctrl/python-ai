@@ -1,0 +1,5227 @@
+[
+    {
+        "skill": "Acquired Brain Injury",
+        "synonyms": "Brain Trauma, ABI, Head Injury",
+        "parent_skill": "Neurology"
+    },
+    {
+        "skill": "Activated Sludge",
+        "synonyms": "Biological Wastewater Treatment, Aerobic Sludge",
+        "parent_skill": "Environmental Science"
+    },
+    {
+        "skill": "Active Pharmaceutical Ingredients",
+        "synonyms": "API, Drug Substances, Bulk Active Compounds",
+        "parent_skill": "Pharmaceutical Science"
+    },
+    {
+        "skill": "Activities of Daily Living",
+        "synonyms": "ADL, Routine Activities, Self-Care Tasks",
+        "parent_skill": "Occupational Therapy"
+    },
+    {
+        "skill": "Acupressure",
+        "synonyms": "Pressure Therapy, Meridian Therapy",
+        "parent_skill": "Alternative Medicine"
+    },
+    {
+        "skill": "Acupuncture",
+        "synonyms": "Needle Therapy, TCM",
+        "parent_skill": "Alternative Medicine"
+    },
+    {
+        "skill": "Acute",
+        "synonyms": "Sudden Onset, Short-Term, Immediate",
+        "parent_skill": "Medical Conditions"
+    },
+    {
+        "skill": "Acute Care",
+        "synonyms": "Intensive Care, Emergency Care, Critical Care",
+        "parent_skill": "Healthcare"
+    },
+    {
+        "skill": "Acute Coronary Syndrome",
+        "synonyms": "ACS, Myocardial Infarction, Heart Attack",
+        "parent_skill": "Cardiology"
+    },
+    {
+        "skill": "Acute Pain Management",
+        "synonyms": "Pain Relief, Analgesics, Pain Therapy",
+        "parent_skill": "Pain Management"
+    },
+    {
+        "skill": "Acute Rehabilitation",
+        "synonyms": "Short-Term Rehab, Post-Acute Rehab",
+        "parent_skill": "Rehabilitation Medicine"
+    },
+    {
+        "skill": "Addiction Medicine",
+        "synonyms": "Substance Abuse Treatment, Drug Dependency Medicine",
+        "parent_skill": "Psychiatry, Medicine"
+    },
+    {
+        "skill": "Addiction Psychiatry",
+        "synonyms": "Psychiatric Addiction Treatment",
+        "parent_skill": "Psychiatry"
+    },
+    {
+        "skill": "Addiction Recovery",
+        "synonyms": "Substance Abuse Recovery, Rehabilitation Programs",
+        "parent_skill": "Psychiatry, Social Work"
+    },
+    {
+        "skill": "Addictive Disorders",
+        "synonyms": "Substance Use Disorders, Behavioral Addictions",
+        "parent_skill": "Psychiatry, Behavioral Health"
+    },
+    {
+        "skill": "Adherence",
+        "synonyms": "Compliance, Treatment Adherence",
+        "parent_skill": "Healthcare"
+    },
+    {
+        "skill": "Adjuvants",
+        "synonyms": "Vaccine Enhancers, Immune Boosters",
+        "parent_skill": "Immunology, Vaccinology"
+    },
+    {
+        "skill": "Adult Stem Cells",
+        "synonyms": "ASC, Mesenchymal Stem Cells, Regenerative Cells",
+        "parent_skill": "Regenerative Medicine"
+    },
+    {
+        "skill": "Aerosol Science",
+        "synonyms": "Particle Science, Airborne Particulates",
+        "parent_skill": "Environmental Science"
+    },
+    {
+        "skill": "Aerospace Medicine",
+        "synonyms": "Aviation Medicine, Space Medicine",
+        "parent_skill": "Medicine, Aerospace"
+    },
+    {
+        "skill": "Affinity Chromatography",
+        "synonyms": "Protein Purification, Ligand Binding",
+        "parent_skill": "Analytical Chemistry"
+    },
+    {
+        "skill": "Affordable Care Act",
+        "synonyms": "ACA, Obamacare, Healthcare Reform",
+        "parent_skill": "Policy and Regulation"
+    },
+    {
+        "skill": "Agarose Gel Electrophoresis",
+        "synonyms": "DNA Gel Electrophoresis, Protein Gel Analysis",
+        "parent_skill": "Molecular Biology"
+    },
+    {
+        "skill": "Agoraphobia",
+        "synonyms": "Fear of Open Spaces, Anxiety Disorder",
+        "parent_skill": "Psychiatry"
+    },
+    {
+        "skill": "Agricultural Research",
+        "synonyms": "Farming Research, Crop Studies",
+        "parent_skill": "Agriculture"
+    },
+    {
+        "skill": "Agriculture",
+        "synonyms": "Farming, Agri-Business",
+        "parent_skill": "Agriculture"
+    },
+    {
+        "skill": "Agrochemicals",
+        "synonyms": "Agricultural Chemicals, Pesticides, Fertilizers",
+        "parent_skill": "Agriculture, Chemistry"
+    },
+    {
+        "skill": "AHA",
+        "synonyms": "American Heart Association, Heart Health",
+        "parent_skill": "Cardiology"
+    },
+    {
+        "skill": "Aging in Place",
+        "synonyms": "Elderly Independence, Home Aging Support",
+        "parent_skill": "Gerontology, Social Work"
+    },
+    {
+        "skill": "Algae",
+        "synonyms": "Aquatic Plants, Microalgae, Seaweed",
+        "parent_skill": "Biology, Environmental Science"
+    },
+    {
+        "skill": "Allergic Rhinitis",
+        "synonyms": "Hay Fever, Nasal Allergy",
+        "parent_skill": "Allergy and Immunology"
+    },
+    {
+        "skill": "Allergy",
+        "synonyms": "Hypersensitivity, Immune Response",
+        "parent_skill": "Allergy and Immunology"
+    },
+    {
+        "skill": "Allied Health",
+        "synonyms": "Paramedics, Health Technicians",
+        "parent_skill": "Healthcare Support"
+    },
+    {
+        "skill": "ALS",
+        "synonyms": "Amyotrophic Lateral Sclerosis, Lou Gehrig's Disease",
+        "parent_skill": "Neurology"
+    },
+    {
+        "skill": "Alternative Medicine",
+        "synonyms": "Complementary Medicine, Holistic Medicine",
+        "parent_skill": "Healthcare"
+    },
+    {
+        "skill": "Alzheimer's Care",
+        "synonyms": "Dementia Care, Memory Care",
+        "parent_skill": "Geriatric Care"
+    },
+    {
+        "skill": "Alzheimer's Disease",
+        "synonyms": "Dementia, Neurodegenerative Disorders",
+        "parent_skill": "Neurology"
+    },
+    {
+        "skill": "1H NMR",
+        "synonyms": "Proton NMR, Nuclear Magnetic Resonance",
+        "parent_skill": "Analytical Chemistry"
+    },
+    {
+        "skill": "21 CFR",
+        "synonyms": "FDA Regulations, Federal Regulations",
+        "parent_skill": "Regulatory Affairs"
+    },
+    {
+        "skill": "21 CFR Part 11",
+        "synonyms": "FDA Part 11, Electronic Records Compliance",
+        "parent_skill": "Regulatory Affairs"
+    },
+    {
+        "skill": "AAAHC",
+        "synonyms": "Healthcare Accreditation, Ambulatory Health Care",
+        "parent_skill": "Healthcare Quality"
+    },
+    {
+        "skill": "AACR2",
+        "synonyms": "Cataloging Standards, Bibliographic Standards",
+        "parent_skill": "Library Science"
+    },
+    {
+        "skill": "Abdominal",
+        "synonyms": "Abdomen, GI",
+        "parent_skill": "Medical Imaging, Anatomy"
+    },
+    {
+        "skill": "Abdominal Imaging",
+        "synonyms": "CT Scan Abdomen, GI Imaging",
+        "parent_skill": "Medical Imaging"
+    },
+    {
+        "skill": "ABLS",
+        "synonyms": "Advanced Burn Life Support, Burn Care Certification",
+        "parent_skill": "Emergency Medicine"
+    },
+    {
+        "skill": "Abnormal Psychology",
+        "synonyms": "Psychopathology, Mental Disorders",
+        "parent_skill": "Psychology"
+    },
+    {
+        "skill": "Aboriginal Health",
+        "synonyms": "Indigenous Health, First Nations Health",
+        "parent_skill": "Community Health"
+    },
+    {
+        "skill": "ABO Certified",
+        "synonyms": "ABO Diplomate, Optometry Certification",
+        "parent_skill": "Vision Science"
+    },
+    {
+        "skill": "ABR",
+        "synonyms": "American Board of Radiology, Radiation Certification",
+        "parent_skill": "Radiology"
+    },
+    {
+        "skill": "Absorption",
+        "synonyms": "Uptake, Assimilation",
+        "parent_skill": "Chemistry, Biology"
+    },
+    {
+        "skill": "Absorption Spectroscopy",
+        "synonyms": "UV-Vis, Infrared Spectroscopy, Spectrometry",
+        "parent_skill": "Analytical Chemistry"
+    },
+    {
+        "skill": "Abstracting",
+        "synonyms": "Information Summarization, Data Reduction",
+        "parent_skill": "Research"
+    },
+    {
+        "skill": "Abstracts",
+        "synonyms": "Summaries, Synopses",
+        "parent_skill": "Research, Academic Writing"
+    },
+    {
+        "skill": "Abuse Prevention",
+        "synonyms": "Violence Prevention, Harm Reduction",
+        "parent_skill": "Public Health"
+    },
+    {
+        "skill": "ABV",
+        "synonyms": "Alcohol By Volume, Alcohol Percentage",
+        "parent_skill": "Food Science, Chemistry"
+    },
+    {
+        "skill": "Academia",
+        "synonyms": "Academic Sector, University Systems",
+        "parent_skill": "Education"
+    },
+    {
+        "skill": "Academic Achievement",
+        "synonyms": "Scholarly Success, Educational Milestones",
+        "parent_skill": "Education"
+    },
+    {
+        "skill": "Academic Administration",
+        "synonyms": "University Management, Higher Education Leadership",
+        "parent_skill": "Education"
+    },
+    {
+        "skill": "Academic Advising",
+        "synonyms": "Student Guidance, Educational Counseling",
+        "parent_skill": "Education"
+    },
+    {
+        "skill": "Academic Background",
+        "synonyms": "Educational History, Scholarly Experience",
+        "parent_skill": "Education"
+    },
+    {
+        "skill": "Academic Development",
+        "synonyms": "Faculty Development, Student Enrichment Programs",
+        "parent_skill": "Education"
+    },
+    {
+        "skill": "Academic Editing",
+        "synonyms": "Manuscript Review, Journal Editing",
+        "parent_skill": "Academic Writing"
+    },
+    {
+        "skill": "Academic English",
+        "synonyms": "Scholarly English, Research Writing",
+        "parent_skill": "Academic Writing, ESL"
+    },
+    {
+        "skill": "Academic Journals",
+        "synonyms": "Scholarly Journals, Peer-Reviewed Publications",
+        "parent_skill": "Academic Publishing"
+    },
+    {
+        "skill": "Academic Libraries",
+        "synonyms": "University Libraries, Research Libraries",
+        "parent_skill": "Library Science"
+    },
+    {
+        "skill": "Academic Medical Centers",
+        "synonyms": "University Hospitals, Teaching Hospitals",
+        "parent_skill": "Healthcare, Education"
+    },
+    {
+        "skill": "Academic Medicine",
+        "synonyms": "Medical Education, University Medical Research",
+        "parent_skill": "Healthcare, Education"
+    },
+    {
+        "skill": "Academic Program Development",
+        "synonyms": "Curriculum Development, Educational Design",
+        "parent_skill": "Education"
+    },
+    {
+        "skill": "Academic Program Management",
+        "synonyms": "University Program Oversight, Curriculum Coordination",
+        "parent_skill": "Education"
+    },
+    {
+        "skill": "Academic Publishing",
+        "synonyms": "Scholarly Publishing, Peer-Reviewed Publishing",
+        "parent_skill": "Publishing"
+    },
+    {
+        "skill": "Academic Research",
+        "synonyms": "University Research, Scholarly Studies",
+        "parent_skill": "Research"
+    },
+    {
+        "skill": "Academic Support Services",
+        "synonyms": "Tutoring, Counseling Services",
+        "parent_skill": "Education"
+    },
+    {
+        "skill": "Academic Tutoring",
+        "synonyms": "Study Support, Academic Coaching",
+        "parent_skill": "Education"
+    },
+    {
+        "skill": "Academic Writing",
+        "synonyms": "Scholarly Writing, Research Writing",
+        "parent_skill": "Academic Skills"
+    },
+    {
+        "skill": "ACBS",
+        "synonyms": "Association for Contextual Behavioral Science",
+        "parent_skill": "Behavioral Science, Psychology"
+    },
+    {
+        "skill": "ACE Certified",
+        "synonyms": "Certified Personal Trainer, ACE Certification",
+        "parent_skill": "Fitness, Health Science"
+    },
+    {
+        "skill": "ACE Certified Personal Trainer",
+        "synonyms": "Fitness Trainer Certification, Exercise Science",
+        "parent_skill": "Fitness, Health Science"
+    },
+    {
+        "skill": "ACLS",
+        "synonyms": "Advanced Cardiovascular Life Support, Emergency Resuscitation",
+        "parent_skill": "Emergency Medicine"
+    },
+    {
+        "skill": "ACLS Instruction",
+        "synonyms": "ACLS Training, Resuscitation Education",
+        "parent_skill": "Emergency Medicine, Education"
+    },
+    {
+        "skill": "Acne",
+        "synonyms": "Skin Condition, Pimples",
+        "parent_skill": "Dermatology"
+    },
+    {
+        "skill": "Acne Treatment",
+        "synonyms": "Skin Care, Dermatologic Therapy",
+        "parent_skill": "Dermatology"
+    },
+    {
+        "skill": "Ambient Air Monitoring",
+        "synonyms": "Air Quality Analysis, Environmental Air Sampling",
+        "parent_skill": "Environmental Science"
+    },
+    {
+        "skill": "Ambulatory",
+        "synonyms": "Mobile Care, Outpatient Care",
+        "parent_skill": "Healthcare"
+    },
+    {
+        "skill": "Ambulatory Care",
+        "synonyms": "Outpatient Services, Day Care Units",
+        "parent_skill": "Healthcare"
+    },
+    {
+        "skill": "Ambulatory Surgery",
+        "synonyms": "Outpatient Surgery, Day Surgery",
+        "parent_skill": "Healthcare"
+    },
+    {
+        "skill": "Amino Acids",
+        "synonyms": "Protein Building Blocks, Organic Compounds",
+        "parent_skill": "Chemistry, Biochemistry"
+    },
+    {
+        "skill": "Amphibians",
+        "synonyms": "Frogs, Salamanders",
+        "parent_skill": "Zoology"
+    },
+    {
+        "skill": "Analytical Chemistry",
+        "synonyms": "Chemical Analysis, Instrumental Analysis",
+        "parent_skill": "Chemistry"
+    },
+    {
+        "skill": "Analytical Method Validation",
+        "synonyms": "Method Qualification, Analytical Accuracy",
+        "parent_skill": "Analytical Chemistry"
+    },
+    {
+        "skill": "Analytical Ultracentrifugation",
+        "synonyms": "Ultracentrifuge Analysis, Particle Sedimentation",
+        "parent_skill": "Analytical Chemistry"
+    },
+    {
+        "skill": "ANDA",
+        "synonyms": "Abbreviated New Drug Application, Generic Drugs",
+        "parent_skill": "Regulatory Affairs, Pharmaceuticals"
+    },
+    {
+        "skill": "ANDAs",
+        "synonyms": "ANDA Applications, Generic Drug Approvals",
+        "parent_skill": "Regulatory Affairs, Pharmaceuticals"
+    },
+    {
+        "skill": "Andrology",
+        "synonyms": "Male Reproductive Health, Men's Health",
+        "parent_skill": "Reproductive Medicine"
+    },
+    {
+        "skill": "Anemia",
+        "synonyms": "Low Hemoglobin, Blood Disorder",
+        "parent_skill": "Hematology"
+    },
+    {
+        "skill": "Anesthesia",
+        "synonyms": "Pain Block, Sedation",
+        "parent_skill": "Anesthesiology"
+    },
+    {
+        "skill": "Anesthesiology",
+        "synonyms": "Anesthesia Science, Pain Management",
+        "parent_skill": "Medicine"
+    },
+    {
+        "skill": "Angiogenesis",
+        "synonyms": "Blood Vessel Formation, Vascular Growth",
+        "parent_skill": "Biology, Oncology"
+    },
+    {
+        "skill": "Angiography",
+        "synonyms": "Blood Vessel Imaging, X-Ray Angiogram",
+        "parent_skill": "Medical Imaging"
+    },
+    {
+        "skill": "Angioplasty",
+        "synonyms": "Artery Widening, Coronary Angioplasty",
+        "parent_skill": "Cardiology, Surgery"
+    },
+    {
+        "skill": "Animal Behavior",
+        "synonyms": "Ethology, Animal Actions, Behavioral Ecology",
+        "parent_skill": "Zoology"
+    },
+    {
+        "skill": "Animal Care",
+        "synonyms": "Veterinary Care, Animal Husbandry",
+        "parent_skill": "Veterinary Science"
+    },
+    {
+        "skill": "Animal Health",
+        "synonyms": "Veterinary Health, Livestock Health",
+        "parent_skill": "Veterinary Science"
+    },
+    {
+        "skill": "Animal Models",
+        "synonyms": "Preclinical Models, Experimental Animals",
+        "parent_skill": "Biomedical Research"
+    },
+    {
+        "skill": "Animal Nutrition",
+        "synonyms": "Livestock Feeding, Veterinary Nutrition",
+        "parent_skill": "Veterinary Science"
+    },
+    {
+        "skill": "Animal Science",
+        "synonyms": "Veterinary Studies, Zoological Science",
+        "parent_skill": "Veterinary Science"
+    },
+    {
+        "skill": "Animal Surgery",
+        "synonyms": "Veterinary Surgery, Animal Operations",
+        "parent_skill": "Veterinary Medicine"
+    },
+    {
+        "skill": "Animal Welfare",
+        "synonyms": "Animal Rights, Ethical Treatment of Animals",
+        "parent_skill": "Veterinary Science, Ethics"
+    },
+    {
+        "skill": "Antibacterial",
+        "synonyms": "Antibiotic, Antimicrobial Agents",
+        "parent_skill": "Microbiology, Medicine"
+    },
+    {
+        "skill": "Antibodies",
+        "synonyms": "Immunoglobulins, Monoclonal Antibodies",
+        "parent_skill": "Immunology, Medicine"
+    },
+    {
+        "skill": "Anticoagulation",
+        "synonyms": "Blood Thinners, Antithrombotic Therapy",
+        "parent_skill": "Hematology, Cardiology"
+    },
+    {
+        "skill": "Aphasia",
+        "synonyms": "Speech Disorder, Language Impairment",
+        "parent_skill": "Neurology, Speech Therapy"
+    },
+    {
+        "skill": "Apheresis",
+        "synonyms": "Blood Filtration, Plasmapheresis",
+        "parent_skill": "Hematology, Medicine"
+    },
+    {
+        "skill": "Apoptosis",
+        "synonyms": "Programmed Cell Death, Cell Cycle Regulation",
+        "parent_skill": "Cell Biology, Oncology"
+    },
+    {
+        "skill": "Applied Behavior Analysis",
+        "synonyms": "ABA, Behavioral Therapy",
+        "parent_skill": "Psychology, Autism Interventions"
+    },
+    {
+        "skill": "Aptamers",
+        "synonyms": "Nucleic Acid Ligands, Targeted Therapy",
+        "parent_skill": "Molecular Biology, Biochemistry"
+    },
+    {
+        "skill": "Aquatic Ecology",
+        "synonyms": "Freshwater Ecology, Marine Ecosystems",
+        "parent_skill": "Environmental Science"
+    },
+    {
+        "skill": "Aquatic Toxicology",
+        "synonyms": "Water Pollution Impact, Ecotoxicology",
+        "parent_skill": "Environmental Science"
+    },
+    {
+        "skill": "Aromatherapy",
+        "synonyms": "Essential Oils Therapy, Holistic Therapy",
+        "parent_skill": "Alternative Medicine"
+    },
+    {
+        "skill": "Aseptic Processing",
+        "synonyms": "Sterile Manufacturing, Cleanroom Operations",
+        "parent_skill": "Pharmaceutical Science"
+    },
+    {
+        "skill": "Aseptic Technique",
+        "synonyms": "Sterile Technique, Contamination Prevention",
+        "parent_skill": "Laboratory Practices"
+    },
+    {
+        "skill": "Asperger's",
+        "synonyms": "Autism Spectrum Disorder, High-Functioning Autism",
+        "parent_skill": "Psychiatry, Developmental Disorders"
+    },
+    {
+        "skill": "Asthma",
+        "synonyms": "Respiratory Disorder, Chronic Airway Inflammation",
+        "parent_skill": "Pulmonology"
+    },
+    {
+        "skill": "Astrobiology",
+        "synonyms": "Exobiology, Life in Space",
+        "parent_skill": "Space Science, Biology"
+    },
+    {
+        "skill": "Atherosclerosis",
+        "synonyms": "Artery Hardening, Plaque Formation",
+        "parent_skill": "Cardiology, Vascular Medicine"
+    },
+    {
+        "skill": "Atopic Dermatitis",
+        "synonyms": "Eczema, Skin Inflammation",
+        "parent_skill": "Dermatology"
+    },
+    {
+        "skill": "Atrial Fibrillation",
+        "synonyms": "Irregular Heartbeat, AFib",
+        "parent_skill": "Cardiology"
+    },
+    {
+        "skill": "Auger Electron Spectroscopy",
+        "synonyms": "Auger Analysis, Surface Element Analysis",
+        "parent_skill": "Analytical Chemistry"
+    },
+    {
+        "skill": "Auricular Acupuncture",
+        "synonyms": "Ear Acupuncture, Auriculotherapy",
+        "parent_skill": "Alternative Medicine"
+    },
+    {
+        "skill": "Autism Spectrum Disorders",
+        "synonyms": "Autism, ASD",
+        "parent_skill": "Developmental Disorders, Psychiatry"
+    },
+    {
+        "skill": "Ayurveda",
+        "synonyms": "Traditional Indian Medicine, Holistic Healing",
+        "parent_skill": "Alternative Medicine"
+    },
+    {
+        "skill": "Back Pain",
+        "synonyms": "Spinal Pain, Lumbar Pain",
+        "parent_skill": "Pain Management, Orthopedics"
+    },
+    {
+        "skill": "Bacterial Cell Culture",
+        "synonyms": "Microbial Culture, Bacteria Cultivation",
+        "parent_skill": "Microbiology"
+    },
+    {
+        "skill": "Bacterial Culture",
+        "synonyms": "Bacteria Growth, Microbial Propagation",
+        "parent_skill": "Microbiology"
+    },
+    {
+        "skill": "Bacterial Transformation",
+        "synonyms": "Genetic Transformation, DNA Uptake in Bacteria",
+        "parent_skill": "Molecular Biology"
+    },
+    {
+        "skill": "Bacteriology",
+        "synonyms": "Bacteria Studies, Microbial Science",
+        "parent_skill": "Microbiology"
+    },
+    {
+        "skill": "Bariatrics",
+        "synonyms": "Obesity Medicine, Weight Management",
+        "parent_skill": "Medicine"
+    },
+    {
+        "skill": "Bariatric Surgery",
+        "synonyms": "Weight Loss Surgery, Obesity Surgery",
+        "parent_skill": "Surgery, Medicine"
+    },
+    {
+        "skill": "Behavioral Health",
+        "synonyms": "Mental Health, Emotional Wellbeing",
+        "parent_skill": "Psychiatry, Psychology"
+    },
+    {
+        "skill": "Behavioral Neuroscience",
+        "synonyms": "Neurobehavior, Brain and Behavior Studies",
+        "parent_skill": "Neuroscience, Psychology"
+    },
+    {
+        "skill": "Behavioral Problems",
+        "synonyms": "Behavioral Disorders, Conduct Issues",
+        "parent_skill": "Psychiatry, Psychology"
+    },
+    {
+        "skill": "Behavioral Science",
+        "synonyms": "Behavior Studies, Human Behavior Analysis",
+        "parent_skill": "Psychology"
+    },
+    {
+        "skill": "Behavioral Segmentation",
+        "synonyms": "Consumer Behavior Analysis, Psychographic Segmentation",
+        "parent_skill": "Marketing, Behavioral Science"
+    },
+    {
+        "skill": "Behavior Change",
+        "synonyms": "Behavioral Adaptation, Habit Modification",
+        "parent_skill": "Psychology, Public Health"
+    },
+    {
+        "skill": "Behavior Management",
+        "synonyms": "Conduct Management, Behavior Therapy",
+        "parent_skill": "Psychology, Education"
+    },
+    {
+        "skill": "Behavior Modification",
+        "synonyms": "Habit Reversal, Behavior Therapy",
+        "parent_skill": "Psychology"
+    },
+    {
+        "skill": "Binding Assays",
+        "synonyms": "Ligand Binding Studies, Biochemical Assays",
+        "parent_skill": "Biochemistry, Molecular Biology"
+    },
+    {
+        "skill": "Biochemistry",
+        "synonyms": "Chemical Biology, Molecular Biology",
+        "parent_skill": "Chemistry"
+    },
+    {
+        "skill": "Biodiversity",
+        "synonyms": "Biological Diversity, Species Richness",
+        "parent_skill": "Environmental Science, Biology"
+    },
+    {
+        "skill": "Biofuels",
+        "synonyms": "Renewable Energy, Biomass Fuels",
+        "parent_skill": "Environmental Science, Energy"
+    },
+    {
+        "skill": "Bio-identical Hormone Replacement",
+        "synonyms": "Hormone Therapy, BHRT",
+        "parent_skill": "Endocrinology, Alternative Medicine"
+    },
+    {
+        "skill": "Bioinformatics",
+        "synonyms": "Computational Biology, Biological Data Analysis",
+        "parent_skill": "Biology, Computer Science"
+    },
+    {
+        "skill": "Biology",
+        "synonyms": "Life Sciences, Biological Science",
+        "parent_skill": "Natural Sciences"
+    },
+    {
+        "skill": "Biomarkers",
+        "synonyms": "Biological Indicators, Molecular Markers",
+        "parent_skill": "Biochemistry, Clinical Research"
+    },
+    {
+        "skill": "Biomaterials",
+        "synonyms": "Biocompatible Materials, Biomedical Materials",
+        "parent_skill": "Biomedical Engineering"
+    },
+    {
+        "skill": "Biomechanics",
+        "synonyms": "Mechanical Biology, Biophysical Engineering",
+        "parent_skill": "Biomedical Engineering"
+    },
+    {
+        "skill": "Biomedical Engineering",
+        "synonyms": "BME, Bioengineering",
+        "parent_skill": "Engineering, Healthcare"
+    },
+    {
+        "skill": "Biometrics",
+        "synonyms": "Biostatistics, Biometric Identification",
+        "parent_skill": "Data Science, Security"
+    },
+    {
+        "skill": "Biopharmaceuticals",
+        "synonyms": "Biologics, Biotech Drugs",
+        "parent_skill": "Biotechnology, Pharmaceuticals"
+    },
+    {
+        "skill": "Biophysics",
+        "synonyms": "Physical Biology, Biological Physics",
+        "parent_skill": "Physics, Biology"
+    },
+    {
+        "skill": "Biostatistics",
+        "synonyms": "Statistical Analysis, Bio-Data Analysis",
+        "parent_skill": "Data Science, Biology"
+    },
+    {
+        "skill": "Biotechnology",
+        "synonyms": "Biotech, Genetic Engineering",
+        "parent_skill": "Biology, Technology"
+    },
+    {
+        "skill": "Bladder Cancer",
+        "synonyms": "Bladder Tumors, Urothelial Cancer",
+        "parent_skill": "Oncology"
+    },
+    {
+        "skill": "Bone",
+        "synonyms": "Skeletal System, Osseous Tissue",
+        "parent_skill": "Anatomy, Orthopedics"
+    },
+    {
+        "skill": "Bone Densitometry",
+        "synonyms": "Bone Density Measurement, DXA",
+        "parent_skill": "Radiology, Orthopedics"
+    },
+    {
+        "skill": "Bone Density",
+        "synonyms": "Bone Mineral Density, Skeletal Health",
+        "parent_skill": "Orthopedics, Radiology"
+    },
+    {
+        "skill": "Bone Grafting",
+        "synonyms": "Bone Augmentation, Osteoplasty",
+        "parent_skill": "Surgery, Orthopedics"
+    },
+    {
+        "skill": "Bone Marrow Transplantation",
+        "synonyms": "Hematopoietic Stem Cell Transplantation",
+        "parent_skill": "Hematology, Oncology"
+    },
+    {
+        "skill": "Brain Injury",
+        "synonyms": "Head Trauma, Neurological Damage",
+        "parent_skill": "Neurology"
+    },
+    {
+        "skill": "Brain Tumors",
+        "synonyms": "Brain Neoplasms, Neurological Tumors",
+        "parent_skill": "Oncology, Neurology"
+    },
+    {
+        "skill": "Breast",
+        "synonyms": "Mammary Glands, Chest Anatomy",
+        "parent_skill": "Anatomy"
+    },
+    {
+        "skill": "Breast Augmentation",
+        "synonyms": "Breast Enlargement, Cosmetic Surgery",
+        "parent_skill": "Plastic Surgery"
+    },
+    {
+        "skill": "Breast Cancer",
+        "synonyms": "Mammary Carcinoma, Breast Tumors",
+        "parent_skill": "Oncology"
+    },
+    {
+        "skill": "Breast Cancer Research",
+        "synonyms": "Oncology Research, Mammary Tumor Studies",
+        "parent_skill": "Research, Oncology"
+    },
+    {
+        "skill": "Breast Imaging",
+        "synonyms": "Mammography, Breast Radiology",
+        "parent_skill": "Radiology"
+    },
+    {
+        "skill": "Business Development",
+        "synonyms": "Strategic Growth, Market Expansion",
+        "parent_skill": "Business Management"
+    },
+    {
+        "skill": "Business Process Improvement",
+        "synonyms": "BPI, Workflow Optimization",
+        "parent_skill": "Operations Management"
+    },
+    {
+        "skill": "Brand Management",
+        "synonyms": "Branding, Marketing Strategy",
+        "parent_skill": "Marketing"
+    },
+    {
+        "skill": "Clinical Trials",
+        "synonyms": "Clinical Studies, Human Research",
+        "parent_skill": "Clinical Research"
+    },
+    {
+        "skill": "Regulatory Affairs",
+        "synonyms": "FDA Compliance, Health Canada Regulations",
+        "parent_skill": "Compliance, Healthcare"
+    },
+    {
+        "skill": "Good Manufacturing Practices (GMP)",
+        "synonyms": "GMP Compliance, Manufacturing Standards",
+        "parent_skill": "Pharmaceuticals, Quality Assurance"
+    },
+    {
+        "skill": "FDA Submissions",
+        "synonyms": "Regulatory Filings, FDA Applications",
+        "parent_skill": "Regulatory Affairs"
+    },
+    {
+        "skill": "ICH Guidelines",
+        "synonyms": "International Standards, Regulatory Guidelines",
+        "parent_skill": "Regulatory Affairs"
+    },
+    {
+        "skill": "Pharmacovigilance",
+        "synonyms": "Drug Safety, Adverse Event Reporting",
+        "parent_skill": "Clinical Research, Regulatory Affairs"
+    },
+    {
+        "skill": "Project Management",
+        "synonyms": "PM, Project Coordination",
+        "parent_skill": "Business Management"
+    },
+    {
+        "skill": "Market Access",
+        "synonyms": "Market Entry, Pricing Strategies",
+        "parent_skill": "Business Development"
+    },
+    {
+        "skill": "Health Economics and Outcomes Research (HEOR)",
+        "synonyms": "Cost-Effectiveness Analysis, Patient Outcomes",
+        "parent_skill": "Health Economics, Research"
+    },
+    {
+        "skill": "Medical Affairs",
+        "synonyms": "Medical Information, Clinical Liaison",
+        "parent_skill": "Healthcare, Pharmaceuticals"
+    },
+    {
+        "skill": "Quality Assurance",
+        "synonyms": "QA, Process Validation",
+        "parent_skill": "Manufacturing, Pharmaceuticals"
+    },
+    {
+        "skill": "Quality Control",
+        "synonyms": "QC, Product Testing",
+        "parent_skill": "Manufacturing, Pharmaceuticals"
+    },
+    {
+        "skill": "Supply Chain Management",
+        "synonyms": "SCM, Logistics",
+        "parent_skill": "Operations, Business Management"
+    },
+    {
+        "skill": "Drug Development",
+        "synonyms": "Pharmaceutical R&D, Drug Discovery",
+        "parent_skill": "Pharmaceuticals"
+    },
+    {
+        "skill": "Pharmaceutical Manufacturing",
+        "synonyms": "Drug Production, Pharma Industry",
+        "parent_skill": "Pharmaceuticals"
+    },
+    {
+        "skill": "Medical Devices",
+        "synonyms": "Medical Equipment, Healthcare Devices",
+        "parent_skill": "Healthcare, Engineering"
+    },
+    {
+        "skill": "Process Validation",
+        "synonyms": "Manufacturing Validation, Process Qualification",
+        "parent_skill": "Quality Assurance, Pharmaceuticals"
+    },
+    {
+        "skill": "Clinical Research",
+        "synonyms": "Clinical Studies, Medical Research",
+        "parent_skill": "Healthcare, Research"
+    },
+    {
+        "skill": "Scientific Writing",
+        "synonyms": "Research Writing, Technical Documentation",
+        "parent_skill": "Academic Writing, Research"
+    },
+    {
+        "skill": "Data Management",
+        "synonyms": "Database Administration, Data Analysis",
+        "parent_skill": "Data Science"
+    },
+    {
+        "skill": "Health Informatics",
+        "synonyms": "Medical IT, Healthcare Information Systems",
+        "parent_skill": "Healthcare, IT"
+    },
+    {
+        "skill": "Regulatory Submissions",
+        "synonyms": "Compliance Filings, Regulatory Filings",
+        "parent_skill": "Regulatory Affairs"
+    },
+    {
+        "skill": "Compliance Management",
+        "synonyms": "Risk Management, Regulatory Compliance",
+        "parent_skill": "Business Management, Healthcare"
+    },
+    {
+        "skill": "R&D Management",
+        "synonyms": "Research and Development Leadership, Innovation Management",
+        "parent_skill": "Business Management"
+    },
+    {
+        "skill": "Cancer",
+        "synonyms": "Oncology, Tumors",
+        "parent_skill": "Healthcare"
+    },
+    {
+        "skill": "Cancer Biology",
+        "synonyms": "Oncobiology, Tumor Biology",
+        "parent_skill": "Biology, Oncology"
+    },
+    {
+        "skill": "Cancer Epidemiology",
+        "synonyms": "Cancer Trends, Oncology Population Studies",
+        "parent_skill": "Epidemiology, Oncology"
+    },
+    {
+        "skill": "Cancer Research",
+        "synonyms": "Oncology Research, Tumor Studies",
+        "parent_skill": "Research, Healthcare"
+    },
+    {
+        "skill": "Cancer Screening",
+        "synonyms": "Early Detection, Oncology Diagnostics",
+        "parent_skill": "Oncology, Healthcare"
+    },
+    {
+        "skill": "Cardiac Anesthesia",
+        "synonyms": "Heart Surgery Sedation, Cardiovascular Anesthesia",
+        "parent_skill": "Anesthesiology, Cardiology"
+    },
+    {
+        "skill": "Cardiac Monitoring",
+        "synonyms": "Heart Monitoring, Cardiac Diagnostics",
+        "parent_skill": "Cardiology, Medical Devices"
+    },
+    {
+        "skill": "Cardiac MRI",
+        "synonyms": "Cardiac Magnetic Resonance Imaging, Heart Imaging",
+        "parent_skill": "Medical Imaging, Cardiology"
+    },
+    {
+        "skill": "Cardiac Rehabilitation",
+        "synonyms": "Heart Rehab, Cardiovascular Recovery",
+        "parent_skill": "Rehabilitation Medicine, Cardiology"
+    },
+    {
+        "skill": "Cardiac Rhythm Management",
+        "synonyms": "Arrhythmia Management, Pacemaker Therapy",
+        "parent_skill": "Cardiology, Medical Devices"
+    },
+    {
+        "skill": "Cardiology",
+        "synonyms": "Heart Health, Cardiovascular Medicine",
+        "parent_skill": "Medicine"
+    },
+    {
+        "skill": "Cardiovascular Imaging",
+        "synonyms": "Heart Imaging, Vascular Imaging",
+        "parent_skill": "Medical Imaging, Cardiology"
+    },
+    {
+        "skill": "Cardiovascular Fitness",
+        "synonyms": "Aerobic Fitness, Heart Health Training",
+        "parent_skill": "Fitness, Preventive Medicine"
+    },
+    {
+        "skill": "CAPA",
+        "synonyms": "Corrective and Preventive Actions, Quality Improvement",
+        "parent_skill": "Quality Assurance"
+    },
+    {
+        "skill": "Case Management",
+        "synonyms": "Patient Case Coordination, Healthcare Case Oversight",
+        "parent_skill": "Healthcare Management"
+    },
+    {
+        "skill": "Chronic Care Management",
+        "synonyms": "Long-Term Care, Chronic Disease Support",
+        "parent_skill": "Healthcare, Public Health"
+    },
+    {
+        "skill": "Chronic Fatigue",
+        "synonyms": "Fatigue Syndrome, Persistent Exhaustion",
+        "parent_skill": "Healthcare, Internal Medicine"
+    },
+    {
+        "skill": "Chronic Illness",
+        "synonyms": "Long-Term Illness, Chronic Conditions",
+        "parent_skill": "Healthcare"
+    },
+    {
+        "skill": "Chronic Pain",
+        "synonyms": "Persistent Pain, Pain Management",
+        "parent_skill": "Healthcare, Pain Medicine"
+    },
+    {
+        "skill": "Cell Biology",
+        "synonyms": "Cellular Biology, Cytology",
+        "parent_skill": "Biology"
+    },
+    {
+        "skill": "Cell Adhesion",
+        "synonyms": "Cellular Binding, Cell Interaction",
+        "parent_skill": "Cell Biology, Biochemistry"
+    },
+    {
+        "skill": "Cell-Based Assays",
+        "synonyms": "In Vitro Testing, Cellular Assays",
+        "parent_skill": "Molecular Biology, Biotechnology"
+    },
+    {
+        "skill": "Cell Culture",
+        "synonyms": "Tissue Culture, Cellular Propagation",
+        "parent_skill": "Molecular Biology, Biochemistry"
+    },
+    {
+        "skill": "Cell Migration",
+        "synonyms": "Cellular Movement, Cytokinesis",
+        "parent_skill": "Cell Biology, Biophysics"
+    },
+    {
+        "skill": "Cell Signaling",
+        "synonyms": "Signal Transduction, Cellular Communication",
+        "parent_skill": "Cell Biology, Biochemistry"
+    },
+    {
+        "skill": "Chromatography",
+        "synonyms": "Separation Techniques, Analytical Chemistry",
+        "parent_skill": "Biochemistry, Analytical Chemistry"
+    },
+    {
+        "skill": "Clinical Data Management",
+        "synonyms": "Clinical Data Collection, Data Integrity",
+        "parent_skill": "Clinical Research, Data Management"
+    },
+    {
+        "skill": "Clinical Decision Support",
+        "synonyms": "CDS Systems, Evidence-Based Decision Making",
+        "parent_skill": "Clinical Research, IT"
+    },
+    {
+        "skill": "Clinical Development",
+        "synonyms": "Drug Development, Clinical Trials",
+        "parent_skill": "Pharmaceuticals, Clinical Research"
+    },
+    {
+        "skill": "Clinical Monitoring",
+        "synonyms": "Clinical Trial Oversight, Patient Safety Monitoring",
+        "parent_skill": "Clinical Research"
+    },
+    {
+        "skill": "Clinical Nutrition",
+        "synonyms": "Therapeutic Nutrition, Medical Dietetics",
+        "parent_skill": "Nutrition, Healthcare"
+    },
+    {
+        "skill": "Clinical Pharmacology",
+        "synonyms": "Drug Action Studies, Therapeutics",
+        "parent_skill": "Pharmacology, Clinical Research"
+    },
+    {
+        "skill": "Clinical Pharmacy",
+        "synonyms": "Pharmaceutical Care, Patient Medication Therapy",
+        "parent_skill": "Pharmacy, Healthcare"
+    },
+    {
+        "skill": "Clinical Psychology",
+        "synonyms": "Therapy, Psychological Assessment",
+        "parent_skill": "Psychology"
+    },
+    {
+        "skill": "Clinical Study Design",
+        "synonyms": "Protocol Development, Study Planning",
+        "parent_skill": "Clinical Research"
+    },
+    {
+        "skill": "Clinical Supervision",
+        "synonyms": "Therapist Oversight, Counselor Mentorship",
+        "parent_skill": "Psychology, Clinical Training"
+    },
+    {
+        "skill": "Clinical Toxicology",
+        "synonyms": "Toxic Substance Studies, Poison Control",
+        "parent_skill": "Toxicology, Healthcare"
+    },
+    {
+        "skill": "Cleaning Validation",
+        "synonyms": "Equipment Sterilization Validation, Hygiene Protocols",
+        "parent_skill": "Quality Assurance"
+    },
+    {
+        "skill": "Compliance Oversight",
+        "synonyms": "Regulatory Compliance Management, Standards Monitoring",
+        "parent_skill": "Business Management"
+    },
+    {
+        "skill": "Cognitive Neuroscience",
+        "synonyms": "Brain Function Studies, Neurocognition",
+        "parent_skill": "Neuroscience, Psychology"
+    },
+    {
+        "skill": "Cognitive Psychology",
+        "synonyms": "Mental Processes, Cognitive Science",
+        "parent_skill": "Psychology"
+    },
+    {
+        "skill": "Cognitive Rehabilitation",
+        "synonyms": "Cognitive Therapy, Brain Injury Rehabilitation",
+        "parent_skill": "Psychology, Rehabilitation Medicine"
+    },
+    {
+        "skill": "Computed Tomography",
+        "synonyms": "CT Scans, Diagnostic Imaging",
+        "parent_skill": "Medical Imaging"
+    },
+    {
+        "skill": "Computational Biology",
+        "synonyms": "Bioinformatics, Systems Biology",
+        "parent_skill": "Biology, Computer Science"
+    },
+    {
+        "skill": "Confocal Microscopy",
+        "synonyms": "Laser Scanning Microscopy, 3D Imaging",
+        "parent_skill": "Microscopy, Biophysics"
+    },
+    {
+        "skill": "Connective Tissue",
+        "synonyms": "Fibrous Tissue, Structural Biology",
+        "parent_skill": "Anatomy, Orthopedics"
+    },
+    {
+        "skill": "Conservation Issues",
+        "synonyms": "Environmental Protection, Biodiversity Loss",
+        "parent_skill": "Environmental Science"
+    },
+    {
+        "skill": "Consultative Selling",
+        "synonyms": "Advisory Sales, Needs-Based Selling",
+        "parent_skill": "Sales, Business Development"
+    },
+    {
+        "skill": "Consumer Behaviour",
+        "synonyms": "Buyer Behavior, Customer Insights",
+        "parent_skill": "Marketing, Behavioral Science"
+    },
+    {
+        "skill": "Contact Lenses",
+        "synonyms": "Eye Lenses, Vision Correction",
+        "parent_skill": "Optometry"
+    },
+    {
+        "skill": "Contract Research Organization (CRO) Management",
+        "synonyms": "CRO Oversight, Clinical Trial Management",
+        "parent_skill": "Clinical Research"
+    },
+    {
+        "skill": "Cryogenics",
+        "synonyms": "Low-Temperature Physics, Cryotechnology",
+        "parent_skill": "Physics"
+    },
+    {
+        "skill": "Cryopreservation",
+        "synonyms": "Tissue Freezing, Cell Storage",
+        "parent_skill": "Biochemistry, Biology"
+    },
+    {
+        "skill": "Cryostat",
+        "synonyms": "Cold Chamber, Microtome Freezer",
+        "parent_skill": "Laboratory Equipment"
+    },
+    {
+        "skill": "Crystallography",
+        "synonyms": "Crystal Structure Analysis, X-Ray Diffraction",
+        "parent_skill": "Chemistry, Material Science"
+    },
+    {
+        "skill": "Critical Care",
+        "synonyms": "Intensive Care, Emergency Medicine",
+        "parent_skill": "Healthcare, Medicine"
+    },
+    {
+        "skill": "Critical Care Medicine",
+        "synonyms": "ICU Medicine, Acute Care",
+        "parent_skill": "Medicine, Critical Care"
+    },
+    {
+        "skill": "Critical Illness",
+        "synonyms": "Severe Disease, Life-Threatening Conditions",
+        "parent_skill": "Healthcare"
+    },
+    {
+        "skill": "Crop Protection",
+        "synonyms": "Pest Control, Agrochemical Use",
+        "parent_skill": "Agriculture"
+    },
+    {
+        "skill": "Cytology",
+        "synonyms": "Cellular Studies, Microscopic Biology",
+        "parent_skill": "Biology"
+    },
+    {
+        "skill": "Chromatin Immunoprecipitation",
+        "synonyms": "ChIP, Protein-DNA Interaction Analysis",
+        "parent_skill": "Molecular Biology, Genetics"
+    },
+    {
+        "skill": "CRO Management",
+        "synonyms": "Contract Research Oversight, CRO Coordination",
+        "parent_skill": "Clinical Research"
+    },
+    {
+        "skill": "CRF Design",
+        "synonyms": "Case Report Form Design, Clinical Data Form Design",
+        "parent_skill": "Clinical Research"
+    },
+    {
+        "skill": "CVD (Cardiovascular Disease)",
+        "synonyms": "Heart Disease, Vascular Disorders",
+        "parent_skill": "Cardiology, Medicine"
+    },
+    {
+        "skill": "Clinical Study Reports",
+        "synonyms": "CSR, Clinical Research Documentation",
+        "parent_skill": "Clinical Research, Writing"
+    },
+    {
+        "skill": "Cardiac Imaging",
+        "synonyms": "Heart Scans, Cardiovascular Imaging",
+        "parent_skill": "Medical Imaging, Cardiology"
+    },
+    {
+        "skill": "Cataract Surgery",
+        "synonyms": "Lens Replacement Surgery, Eye Surgery",
+        "parent_skill": "Ophthalmology"
+    },
+    {
+        "skill": "Coronary Rehabilitation",
+        "synonyms": "Heart Rehab, Cardiovascular Recovery",
+        "parent_skill": "Rehabilitation Medicine, Cardiology"
+    },
+    {
+        "skill": "Cystic Fibrosis",
+        "synonyms": "CF, Genetic Lung Disease",
+        "parent_skill": "Pulmonology, Genetics"
+    },
+    {
+        "skill": "Cytogenetics",
+        "synonyms": "Chromosomal Studies, Genetic Testing",
+        "parent_skill": "Genetics, Biology"
+    },
+    {
+        "skill": "Cytokines",
+        "synonyms": "Immune Signaling Molecules, Cell Communication",
+        "parent_skill": "Immunology, Biochemistry"
+    },
+    {
+        "skill": "Cytometry",
+        "synonyms": "Flow Cytometry, Cell Sorting",
+        "parent_skill": "Molecular Biology, Laboratory Science"
+    },
+    {
+        "skill": "Cytopathology",
+        "synonyms": "Cellular Pathology, Diagnostic Cytology",
+        "parent_skill": "Pathology, Biology"
+    },
+    {
+        "skill": "Cytoskeleton",
+        "synonyms": "Cellular Framework, Actin Filaments",
+        "parent_skill": "Cell Biology, Biochemistry"
+    },
+    {
+        "skill": "Cytotoxicity",
+        "synonyms": "Cell Death Studies, Toxic Cell Effects",
+        "parent_skill": "Toxicology, Cell Biology"
+    },
+    {
+        "skill": "Diabetes",
+        "synonyms": "Diabetes Mellitus, Blood Sugar Disorders",
+        "parent_skill": "Endocrinology, Medicine"
+    },
+    {
+        "skill": "Diabetes Management",
+        "synonyms": "Diabetes Care, Blood Glucose Control",
+        "parent_skill": "Endocrinology, Public Health"
+    },
+    {
+        "skill": "Diagnostic Ultrasound",
+        "synonyms": "Sonography, Medical Ultrasound",
+        "parent_skill": "Medical Imaging"
+    },
+    {
+        "skill": "Dialysis",
+        "synonyms": "Renal Replacement Therapy, Kidney Treatment",
+        "parent_skill": "Nephrology, Medicine"
+    },
+    {
+        "skill": "Dietetics",
+        "synonyms": "Nutrition Science, Diet Therapy",
+        "parent_skill": "Nutrition"
+    },
+    {
+        "skill": "Diet Planning",
+        "synonyms": "Meal Planning, Personalized Nutrition",
+        "parent_skill": "Nutrition"
+    },
+    {
+        "skill": "Digital Mammography",
+        "synonyms": "Breast Imaging, Mammogram Technology",
+        "parent_skill": "Radiology"
+    },
+    {
+        "skill": "Digital Radiography",
+        "synonyms": "X-Ray Imaging, Flat-Panel Detectors",
+        "parent_skill": "Medical Imaging"
+    },
+    {
+        "skill": "Differential Diagnosis",
+        "synonyms": "Diagnostic Reasoning, Clinical Decision Making",
+        "parent_skill": "Medicine"
+    },
+    {
+        "skill": "Digital Signal Processing",
+        "synonyms": "DSP, Signal Analysis",
+        "parent_skill": "Engineering, Data Science"
+    },
+    {
+        "skill": "Developmental Disabilities",
+        "synonyms": "Intellectual Disabilities, Developmental Disorders",
+        "parent_skill": "Psychiatry, Public Health"
+    },
+    {
+        "skill": "Dermatology",
+        "synonyms": "Skin Medicine, Skin Disorders",
+        "parent_skill": "Medicine"
+    },
+    {
+        "skill": "Dermal Fillers",
+        "synonyms": "Injectable Fillers, Wrinkle Treatments",
+        "parent_skill": "Cosmetic Medicine, Dermatology"
+    },
+    {
+        "skill": "Dentistry",
+        "synonyms": "Dental Care, Oral Medicine",
+        "parent_skill": "Medicine"
+    },
+    {
+        "skill": "Dental Surgery",
+        "synonyms": "Oral Surgery, Tooth Extraction",
+        "parent_skill": "Dentistry"
+    },
+    {
+        "skill": "Dental Assisting",
+        "synonyms": "Dental Support, Dental Office Assistance",
+        "parent_skill": "Dentistry"
+    },
+    {
+        "skill": "Dental Restoration",
+        "synonyms": "Tooth Repair, Dental Fillings",
+        "parent_skill": "Dentistry"
+    },
+    {
+        "skill": "Dental Care",
+        "synonyms": "Oral Hygiene, Dental Services",
+        "parent_skill": "Dentistry"
+    },
+    {
+        "skill": "Directed Evolution",
+        "synonyms": "Protein Engineering, Artificial Selection",
+        "parent_skill": "Molecular Biology, Biochemistry"
+    },
+    {
+        "skill": "Disease Management",
+        "synonyms": "Chronic Disease Care, Condition Monitoring",
+        "parent_skill": "Healthcare"
+    },
+    {
+        "skill": "Disordered Eating",
+        "synonyms": "Eating Disorders, Nutritional Therapy",
+        "parent_skill": "Psychiatry, Nutrition"
+    },
+    {
+        "skill": "Dosimetry",
+        "synonyms": "Radiation Dosage Measurement, Radiation Safety",
+        "parent_skill": "Radiology, Oncology"
+    },
+    {
+        "skill": "Drosophila",
+        "synonyms": "Fruit Fly Research, Model Organisms",
+        "parent_skill": "Genetics, Biology"
+    },
+    {
+        "skill": "Drug Accountability",
+        "synonyms": "Medication Inventory, Drug Tracking",
+        "parent_skill": "Pharmaceuticals, Clinical Research"
+    },
+    {
+        "skill": "Drug Delivery",
+        "synonyms": "Drug Administration, Controlled Release Systems",
+        "parent_skill": "Pharmaceuticals, Biochemistry"
+    },
+    {
+        "skill": "Drug Design",
+        "synonyms": "Medicinal Chemistry, Pharmacological Design",
+        "parent_skill": "Pharmaceuticals, Chemistry"
+    },
+    {
+        "skill": "Drug Discovery",
+        "synonyms": "Pharmaceutical R&D, Lead Compound Identification",
+        "parent_skill": "Pharmaceuticals, Biotechnology"
+    },
+    {
+        "skill": "Drug Eluting Stents",
+        "synonyms": "DES, Coated Stents",
+        "parent_skill": "Cardiology, Medical Devices"
+    },
+    {
+        "skill": "Drug Interactions",
+        "synonyms": "Medication Interactions, Drug Synergies",
+        "parent_skill": "Pharmacology, Medicine"
+    },
+    {
+        "skill": "Drug Metabolism",
+        "synonyms": "Biotransformation, Pharmacokinetics",
+        "parent_skill": "Pharmacology, Biochemistry"
+    },
+    {
+        "skill": "Drug Safety",
+        "synonyms": "Pharmacovigilance, Adverse Drug Reactions",
+        "parent_skill": "Clinical Research, Regulatory Affairs"
+    },
+    {
+        "skill": "Drug Testing",
+        "synonyms": "Medication Testing, Clinical Testing",
+        "parent_skill": "Clinical Research"
+    },
+    {
+        "skill": "Dyslipidemia",
+        "synonyms": "High Cholesterol, Lipid Disorders",
+        "parent_skill": "Endocrinology, Cardiology"
+    },
+    {
+        "skill": "Dysphagia",
+        "synonyms": "Difficulty Swallowing, Swallowing Disorders",
+        "parent_skill": "Gastroenterology, Speech Therapy"
+    },
+    {
+        "skill": "Dystonia",
+        "synonyms": "Muscle Spasms, Movement Disorders",
+        "parent_skill": "Neurology, Psychiatry"
+    },
+    {
+        "skill": "DNA",
+        "synonyms": "Deoxyribonucleic Acid, Genetic Material",
+        "parent_skill": "Genetics, Molecular Biology"
+    },
+    {
+        "skill": "DNA Damage",
+        "synonyms": "Genetic Damage, Mutagenesis",
+        "parent_skill": "Molecular Biology, Oncology"
+    },
+    {
+        "skill": "DNA Electrophoresis",
+        "synonyms": "Gel Electrophoresis, DNA Separation Techniques",
+        "parent_skill": "Molecular Biology, Laboratory Science"
+    },
+    {
+        "skill": "DNA Extraction",
+        "synonyms": "DNA Isolation, Genetic Material Extraction",
+        "parent_skill": "Molecular Biology, Biochemistry"
+    },
+    {
+        "skill": "DNA Fingerprinting",
+        "synonyms": "Genetic Profiling, Forensic Genetics",
+        "parent_skill": "Genetics, Forensics"
+    },
+    {
+        "skill": "DNA Ligation",
+        "synonyms": "Molecular Cloning, Genetic Fragment Joining",
+        "parent_skill": "Molecular Biology, Biochemistry"
+    },
+    {
+        "skill": "DNA Manipulation",
+        "synonyms": "Genetic Engineering, DNA Editing",
+        "parent_skill": "Genetics, Molecular Biology"
+    },
+    {
+        "skill": "DNA Methylation",
+        "synonyms": "Epigenetic Modifications, Gene Silencing",
+        "parent_skill": "Genetics, Epigenetics"
+    },
+    {
+        "skill": "DNA Microarray",
+        "synonyms": "Gene Expression Profiling, Genomic Arrays",
+        "parent_skill": "Molecular Biology, Biotechnology"
+    },
+    {
+        "skill": "DNA Quantification",
+        "synonyms": "Genetic Measurement, Nucleic Acid Quantification",
+        "parent_skill": "Molecular Biology, Biochemistry"
+    },
+    {
+        "skill": "DNA Recombination",
+        "synonyms": "Genetic Recombination, Homologous Recombination",
+        "parent_skill": "Genetics, Molecular Biology"
+    },
+    {
+        "skill": "DNA Repair",
+        "synonyms": "Genetic Repair Mechanisms, DNA Damage Recovery",
+        "parent_skill": "Molecular Biology, Oncology"
+    },
+    {
+        "skill": "DNA Replication",
+        "synonyms": "Genetic Duplication, DNA Synthesis",
+        "parent_skill": "Molecular Biology, Genetics"
+    },
+    {
+        "skill": "DNA Sequencing",
+        "synonyms": "Genomic Sequencing, Nucleic Acid Sequencing",
+        "parent_skill": "Genetics, Molecular Biology"
+    },
+    {
+        "skill": "Eczema",
+        "synonyms": "Atopic Dermatitis, Skin Inflammation",
+        "parent_skill": "Dermatology"
+    },
+    {
+        "skill": "Edema",
+        "synonyms": "Swelling, Fluid Retention",
+        "parent_skill": "Medicine, Cardiology"
+    },
+    {
+        "skill": "Electro-mechanical Troubleshooting",
+        "synonyms": "Electrical and Mechanical Diagnostics, System Repairs",
+        "parent_skill": "Engineering, Maintenance"
+    },
+    {
+        "skill": "ELISA",
+        "synonyms": "Enzyme-Linked Immunosorbent Assay, Antibody Testing",
+        "parent_skill": "Biochemistry, Immunology"
+    },
+    {
+        "skill": "ELISPOT",
+        "synonyms": "Enzyme-Linked Immunospot Assay, Immune Response Assay",
+        "parent_skill": "Immunology, Laboratory Science"
+    },
+    {
+        "skill": "Embryology",
+        "synonyms": "Developmental Biology, Prenatal Development",
+        "parent_skill": "Biology"
+    },
+    {
+        "skill": "Embryonic Stem Cells",
+        "synonyms": "ESCs, Pluripotent Stem Cells",
+        "parent_skill": "Cell Biology, Regenerative Medicine"
+    },
+    {
+        "skill": "Emergency Medicine",
+        "synonyms": "Acute Care, Urgent Care",
+        "parent_skill": "Medicine"
+    },
+    {
+        "skill": "Endangered Species",
+        "synonyms": "Threatened Species, Conservation Biology",
+        "parent_skill": "Environmental Science, Ecology"
+    },
+    {
+        "skill": "Endocrinology",
+        "synonyms": "Hormone Studies, Glandular Disorders",
+        "parent_skill": "Medicine"
+    },
+    {
+        "skill": "Endoscopy",
+        "synonyms": "Internal Visualization, Minimally Invasive Imaging",
+        "parent_skill": "Medicine, Gastroenterology"
+    },
+    {
+        "skill": "Environmental Epidemiology",
+        "synonyms": "Environmental Health Studies, Population Impact Analysis",
+        "parent_skill": "Epidemiology, Environmental Science"
+    },
+    {
+        "skill": "Environmental Health",
+        "synonyms": "Eco-Health, Public Health and Environment",
+        "parent_skill": "Public Health, Environmental Science"
+    },
+    {
+        "skill": "Environmental Impact Assessment",
+        "synonyms": "EIA, Environmental Risk Analysis",
+        "parent_skill": "Environmental Policy"
+    },
+    {
+        "skill": "Environmental Monitoring",
+        "synonyms": "Pollution Monitoring, Eco-Monitoring",
+        "parent_skill": "Environmental Science"
+    },
+    {
+        "skill": "Environmental Policy",
+        "synonyms": "Environmental Regulation, Eco-Governance",
+        "parent_skill": "Public Policy, Environmental Science"
+    },
+    {
+        "skill": "Environmental Toxicology",
+        "synonyms": "Ecotoxicology, Pollution Toxicology",
+        "parent_skill": "Environmental Science, Chemistry"
+    },
+    {
+        "skill": "Enzyme Activity",
+        "synonyms": "Biocatalysis, Enzyme Function",
+        "parent_skill": "Biochemistry, Biotechnology"
+    },
+    {
+        "skill": "Enzyme Assays",
+        "synonyms": "Enzymatic Testing, Biochemical Assays",
+        "parent_skill": "Biochemistry, Laboratory Science"
+    },
+    {
+        "skill": "Enzyme Kinetics",
+        "synonyms": "Enzymatic Reaction Rates, Biochemical Dynamics",
+        "parent_skill": "Biochemistry"
+    },
+    {
+        "skill": "Enzyme Technology",
+        "synonyms": "Industrial Enzymes, Biocatalyst Applications",
+        "parent_skill": "Biotechnology, Biochemistry"
+    },
+    {
+        "skill": "Epidemiology",
+        "synonyms": "Population Health Studies, Disease Trends",
+        "parent_skill": "Public Health"
+    },
+    {
+        "skill": "Epigenetics",
+        "synonyms": "Gene Regulation, DNA Methylation Studies",
+        "parent_skill": "Genetics, Molecular Biology"
+    },
+    {
+        "skill": "Epitaxy",
+        "synonyms": "Crystal Growth, Thin Film Deposition",
+        "parent_skill": "Material Science, Engineering"
+    },
+    {
+        "skill": "Evidence-Based Medicine",
+        "synonyms": "EBM, Clinical Decision Making",
+        "parent_skill": "Medicine, Healthcare"
+    },
+    {
+        "skill": "Evolutionary Biology",
+        "synonyms": "Evolution Studies, Phylogenetics",
+        "parent_skill": "Biology"
+    },
+    {
+        "skill": "Experimental Design",
+        "synonyms": "Research Design, Study Design",
+        "parent_skill": "Research, Statistics"
+    },
+    {
+        "skill": "Eye Surgery",
+        "synonyms": "Ophthalmic Surgery, Vision Correction Surgery",
+        "parent_skill": "Ophthalmology, Medicine"
+    },
+    {
+        "skill": "Eye Tracking",
+        "synonyms": "Gaze Tracking, Eye Movement Analysis",
+        "parent_skill": "Neuroscience, Behavioral Science"
+    },
+    {
+        "skill": "Family Medicine",
+        "synonyms": "General Practice, Primary Care",
+        "parent_skill": "Medicine"
+    },
+    {
+        "skill": "Family Planning",
+        "synonyms": "Contraception, Reproductive Health",
+        "parent_skill": "Healthcare, Public Health"
+    },
+    {
+        "skill": "FDA",
+        "synonyms": "Food and Drug Administration, US Regulatory Body",
+        "parent_skill": "Regulatory Affairs"
+    },
+    {
+        "skill": "FDA GMP",
+        "synonyms": "FDA Good Manufacturing Practices, FDA Compliance",
+        "parent_skill": "Regulatory Affairs, Manufacturing"
+    },
+    {
+        "skill": "Fatigue Management",
+        "synonyms": "Energy Management, Exhaustion Mitigation",
+        "parent_skill": "Occupational Health, Healthcare"
+    },
+    {
+        "skill": "Fatty Acids",
+        "synonyms": "Lipids, Omega-3 and Omega-6",
+        "parent_skill": "Biochemistry, Nutrition"
+    },
+    {
+        "skill": "Fault Analysis",
+        "synonyms": "Failure Analysis, Fault Detection",
+        "parent_skill": "Engineering, Maintenance"
+    },
+    {
+        "skill": "Fault Resolution",
+        "synonyms": "Problem Solving, System Repair",
+        "parent_skill": "Engineering, Maintenance"
+    },
+    {
+        "skill": "Feasibility Studies",
+        "synonyms": "Project Viability Assessment, Feasibility Analysis",
+        "parent_skill": "Research, Project Management"
+    },
+    {
+        "skill": "Feeding Disorders",
+        "synonyms": "Eating Issues, Dysphagia",
+        "parent_skill": "Healthcare, Nutrition"
+    },
+    {
+        "skill": "Fellowships in Healthcare",
+        "synonyms": "Medical Fellowships, Healthcare Training",
+        "parent_skill": "Medicine, Education"
+    },
+    {
+        "skill": "Fermentation",
+        "synonyms": "Microbial Fermentation, Biofermentation",
+        "parent_skill": "Biotechnology, Food Science"
+    },
+    {
+        "skill": "Fermentation Process Development",
+        "synonyms": "Bioprocessing, Fermentation Optimization",
+        "parent_skill": "Biotechnology, Food Science"
+    },
+    {
+        "skill": "Fermentation Technology",
+        "synonyms": "Biotech Fermentation, Industrial Fermentation",
+        "parent_skill": "Biotechnology"
+    },
+    {
+        "skill": "Fertility",
+        "synonyms": "Reproductive Health, Conception",
+        "parent_skill": "Medicine, Reproductive Health"
+    },
+    {
+        "skill": "Fertility Enhancement",
+        "synonyms": "Fertility Treatment, Reproductive Assistance",
+        "parent_skill": "Medicine, Reproductive Health"
+    },
+    {
+        "skill": "Fetal Echocardiography",
+        "synonyms": "Prenatal Heart Imaging, Fetal Cardiac Ultrasound",
+        "parent_skill": "Medical Imaging, Obstetrics"
+    },
+    {
+        "skill": "Fetal Monitoring",
+        "synonyms": "Prenatal Monitoring, Fetal Health Assessment",
+        "parent_skill": "Obstetrics, Healthcare"
+    },
+    {
+        "skill": "Fibromyalgia",
+        "synonyms": "Chronic Pain Syndrome, Widespread Pain",
+        "parent_skill": "Rheumatology, Pain Medicine"
+    },
+    {
+        "skill": "First Aid",
+        "synonyms": "Emergency Care, Basic Life Support",
+        "parent_skill": "Healthcare"
+    },
+    {
+        "skill": "First Responder",
+        "synonyms": "Emergency Responder, EMS",
+        "parent_skill": "Healthcare, Emergency Medicine"
+    },
+    {
+        "skill": "Fisheries Science",
+        "synonyms": "Aquatic Resource Management, Fishery Research",
+        "parent_skill": "Environmental Science"
+    },
+    {
+        "skill": "Flow Cytometry",
+        "synonyms": "Cell Sorting, Fluorescence-Activated Cell Sorting",
+        "parent_skill": "Molecular Biology, Immunology"
+    },
+    {
+        "skill": "Fluid Dynamics",
+        "synonyms": "Fluid Mechanics, Hydrodynamics",
+        "parent_skill": "Physics, Engineering"
+    },
+    {
+        "skill": "Fluorescence",
+        "synonyms": "Light Emission, Luminescence",
+        "parent_skill": "Biophysics, Chemistry"
+    },
+    {
+        "skill": "Fluorescence Microscopy",
+        "synonyms": "Fluorophore Imaging, Molecular Fluorescence",
+        "parent_skill": "Microscopy, Laboratory Science"
+    },
+    {
+        "skill": "Fluorescence Spectroscopy",
+        "synonyms": "Spectrofluorometry, Fluorometric Analysis",
+        "parent_skill": "Analytical Chemistry, Biophysics"
+    },
+    {
+        "skill": "Fluorometer",
+        "synonyms": "Fluorescence Measurement Device, Fluorescence Detector",
+        "parent_skill": "Laboratory Equipment"
+    },
+    {
+        "skill": "Fluoroscopy",
+        "synonyms": "X-Ray Fluoroscopy, Real-Time Imaging",
+        "parent_skill": "Medical Imaging"
+    },
+    {
+        "skill": "FMEA (Failure Mode and Effects Analysis)",
+        "synonyms": "Risk Assessment, Process Improvement",
+        "parent_skill": "Quality Assurance, Engineering"
+    },
+    {
+        "skill": "Forensic Toxicology",
+        "synonyms": "Drug Testing, Poison Analysis",
+        "parent_skill": "Forensics, Toxicology"
+    },
+    {
+        "skill": "Food Microbiology",
+        "synonyms": "Microbial Food Safety, Foodborne Pathogens",
+        "parent_skill": "Microbiology, Food Science"
+    },
+    {
+        "skill": "Food Packaging",
+        "synonyms": "Food Storage, Packaging Design",
+        "parent_skill": "Food Science, Packaging Technology"
+    },
+    {
+        "skill": "Food Processing",
+        "synonyms": "Food Manufacturing, Food Production Techniques",
+        "parent_skill": "Food Science"
+    },
+    {
+        "skill": "Food Safety",
+        "synonyms": "Food Hygiene, Foodborne Illness Prevention",
+        "parent_skill": "Food Science, Public Health"
+    },
+    {
+        "skill": "Food Science",
+        "synonyms": "Nutritional Science, Food Technology",
+        "parent_skill": "Science, Food Industry"
+    },
+    {
+        "skill": "Forensic Analysis",
+        "synonyms": "Criminal Evidence Analysis, Investigative Testing",
+        "parent_skill": "Forensics, Laboratory Science"
+    },
+    {
+        "skill": "Forensic Psychology",
+        "synonyms": "Criminal Behavior Analysis, Psychological Profiling",
+        "parent_skill": "Psychology, Forensics"
+    },
+    {
+        "skill": "Formulation",
+        "synonyms": "Product Development, Drug Composition",
+        "parent_skill": "Pharmaceuticals, Chemistry"
+    },
+    {
+        "skill": "FPLC (Fast Protein Liquid Chromatography)",
+        "synonyms": "Protein Purification, Chromatography",
+        "parent_skill": "Biochemistry, Laboratory Science"
+    },
+    {
+        "skill": "Fragrance",
+        "synonyms": "Perfume Development, Aromatics",
+        "parent_skill": "Chemistry, Consumer Products"
+    },
+    {
+        "skill": "Filtration",
+        "synonyms": "Separation Processes, Membrane Filtration",
+        "parent_skill": "Chemistry, Engineering"
+    },
+    {
+        "skill": "FTIR (Fourier-Transform Infrared Spectroscopy)",
+        "synonyms": "FTIR Analysis, Infrared Spectroscopy",
+        "parent_skill": "Analytical Chemistry"
+    },
+    {
+        "skill": "Gait Analysis",
+        "synonyms": "Walking Analysis, Biomechanics Assessment",
+        "parent_skill": "Biomechanics, Physical Therapy"
+    },
+    {
+        "skill": "Gastroenterology",
+        "synonyms": "Digestive Health, GI Disorders",
+        "parent_skill": "Medicine"
+    },
+    {
+        "skill": "Gas Chromatography",
+        "synonyms": "GC, Chromatographic Separation",
+        "parent_skill": "Analytical Chemistry"
+    },
+    {
+        "skill": "Generic Drugs",
+        "synonyms": "Off-Patent Drugs, Bioequivalent Medications",
+        "parent_skill": "Pharmaceuticals"
+    },
+    {
+        "skill": "Genetics",
+        "synonyms": "Genetic Studies, Heredity Science",
+        "parent_skill": "Biology"
+    },
+    {
+        "skill": "Genetic Algorithms",
+        "synonyms": "Evolutionary Computation, AI Optimization",
+        "parent_skill": "Computer Science, AI"
+    },
+    {
+        "skill": "Genomics",
+        "synonyms": "Genome Studies, Genomic Science",
+        "parent_skill": "Genetics, Biotechnology"
+    },
+    {
+        "skill": "Geriatric Rehabilitation",
+        "synonyms": "Elderly Rehab, Senior Physical Therapy",
+        "parent_skill": "Rehabilitation Medicine"
+    },
+    {
+        "skill": "Geriatric Psychiatry",
+        "synonyms": "Elderly Mental Health, Geriatric Psychology",
+        "parent_skill": "Psychiatry"
+    },
+    {
+        "skill": "Geriatric Nursing",
+        "synonyms": "Elderly Care Nursing, Senior Nursing",
+        "parent_skill": "Nursing, Geriatrics"
+    },
+    {
+        "skill": "Glucose Testing",
+        "synonyms": "Blood Sugar Testing, Diabetes Monitoring",
+        "parent_skill": "Endocrinology, Medicine"
+    },
+    {
+        "skill": "Glycomics",
+        "synonyms": "Carbohydrate Analysis, Sugar Biology",
+        "parent_skill": "Biochemistry, Molecular Biology"
+    },
+    {
+        "skill": "Glycosylation",
+        "synonyms": "Carbohydrate Modification, Glycan Biology",
+        "parent_skill": "Biochemistry, Molecular Biology"
+    },
+    {
+        "skill": "Global Drug Development",
+        "synonyms": "International Drug R&D, Global Pharma Strategy",
+        "parent_skill": "Pharmaceuticals"
+    },
+    {
+        "skill": "Global Regulatory Compliance",
+        "synonyms": "International Compliance Standards, Global Regulations",
+        "parent_skill": "Regulatory Affairs"
+    },
+    {
+        "skill": "GPCRs",
+        "synonyms": "G Protein-Coupled Receptors, Cell Surface Receptors",
+        "parent_skill": "Molecular Biology, Pharmacology"
+    },
+    {
+        "skill": "Hematology",
+        "synonyms": "Blood Studies, Hematologic Disorders",
+        "parent_skill": "Medicine"
+    },
+    {
+        "skill": "Healthcare Management",
+        "synonyms": "Hospital Management, Medical Administration",
+        "parent_skill": "Business Management, Healthcare"
+    },
+    {
+        "skill": "Healthcare Information Technology",
+        "synonyms": "Health IT, Medical IT",
+        "parent_skill": "IT, Healthcare"
+    },
+    {
+        "skill": "Healthcare Reimbursement",
+        "synonyms": "Medical Billing, Health Insurance Claims",
+        "parent_skill": "Healthcare, Finance"
+    },
+    {
+        "skill": "Health Economics",
+        "synonyms": "Healthcare Cost Analysis, Economic Evaluations",
+        "parent_skill": "Public Health, Economics"
+    },
+    {
+        "skill": "Health Policy",
+        "synonyms": "Healthcare Policy, Health Governance",
+        "parent_skill": "Public Policy, Healthcare"
+    },
+    {
+        "skill": "Health Promotion",
+        "synonyms": "Public Health Campaigns, Preventive Health",
+        "parent_skill": "Public Health"
+    },
+    {
+        "skill": "Hepatology",
+        "synonyms": "Liver Health, Hepatic Medicine",
+        "parent_skill": "Medicine"
+    },
+    {
+        "skill": "Hematopathology",
+        "synonyms": "Blood Pathology, Hematologic Analysis",
+        "parent_skill": "Pathology, Hematology"
+    },
+    {
+        "skill": "Hematologic Malignancies",
+        "synonyms": "Blood Cancers, Hematologic Tumors",
+        "parent_skill": "Hematology, Oncology"
+    },
+    {
+        "skill": "Hematopoiesis",
+        "synonyms": "Blood Cell Formation, Hemopoiesis",
+        "parent_skill": "Hematology, Molecular Biology"
+    },
+    {
+        "skill": "Hepatobiliary Surgery",
+        "synonyms": "Liver and Bile Duct Surgery, Hepatic Surgery",
+        "parent_skill": "Surgery, Medicine"
+    },
+    {
+        "skill": "High Availability Clustering",
+        "synonyms": "Redundant Systems, Cluster Computing",
+        "parent_skill": "IT, Engineering"
+    },
+    {
+        "skill": "Histology",
+        "synonyms": "Tissue Studies, Microscopic Anatomy",
+        "parent_skill": "Biology, Medicine"
+    },
+    {
+        "skill": "Histopathology",
+        "synonyms": "Tissue Pathology, Microscopic Pathology",
+        "parent_skill": "Pathology, Medicine"
+    },
+    {
+        "skill": "Hospital Pharmacy",
+        "synonyms": "Clinical Pharmacy, Inpatient Pharmacy",
+        "parent_skill": "Pharmacy, Healthcare"
+    },
+    {
+        "skill": "Hospital Revenue Cycle",
+        "synonyms": "Hospital Billing, Healthcare Revenue Management",
+        "parent_skill": "Healthcare, Finance"
+    },
+    {
+        "skill": "Human Nutrition",
+        "synonyms": "Dietary Science, Nutritional Studies",
+        "parent_skill": "Nutrition"
+    },
+    {
+        "skill": "Human Physiology",
+        "synonyms": "Body Functions, Physiological Processes",
+        "parent_skill": "Biology, Medicine"
+    },
+    {
+        "skill": "Hydrogeology",
+        "synonyms": "Groundwater Science, Water Resources",
+        "parent_skill": "Environmental Science, Geology"
+    },
+    {
+        "skill": "Hydrology",
+        "synonyms": "Water Cycle Studies, Aquatic Science",
+        "parent_skill": "Environmental Science"
+    },
+    {
+        "skill": "ICH-GCP (Good Clinical Practice)",
+        "synonyms": "GCP Compliance, Clinical Research Standards",
+        "parent_skill": "Regulatory Affairs, Clinical Research"
+    },
+    {
+        "skill": "Immunology",
+        "synonyms": "Immune System Studies, Immunological Science",
+        "parent_skill": "Medicine, Biology"
+    },
+    {
+        "skill": "Identity Management",
+        "synonyms": "Access Control, User Authentication",
+        "parent_skill": "IT, Cybersecurity"
+    },
+    {
+        "skill": "ICD-10 and ICD-9 Coding",
+        "synonyms": "Medical Coding, Healthcare Classification",
+        "parent_skill": "Healthcare, IT"
+    },
+    {
+        "skill": "ICU Nursing",
+        "synonyms": "Intensive Care Nursing, Critical Care Nursing",
+        "parent_skill": "Nursing, Healthcare"
+    },
+    {
+        "skill": "Hyperion Financial Reporting",
+        "synonyms": "Financial Planning Software, Hyperion Reports",
+        "parent_skill": "Finance, IT"
+    },
+    {
+        "skill": "Healthcare Consulting",
+        "synonyms": "Medical Advisory, Hospital Strategy Consulting",
+        "parent_skill": "Business Consulting, Healthcare"
+    },
+    {
+        "skill": "Hyperpigmentation Studies",
+        "synonyms": "Skin Pigment Research, Dermatological Studies",
+        "parent_skill": "Dermatology"
+    },
+    {
+        "skill": "Hybridoma Technology",
+        "synonyms": "Monoclonal Antibody Production, Cell Fusion",
+        "parent_skill": "Immunology, Biotechnology"
+    },
+    {
+        "skill": "Hydraulic Systems in Research",
+        "synonyms": "Fluid Power Systems, Hydraulic Equipment",
+        "parent_skill": "Engineering, Research"
+    },
+    {
+        "skill": "High-Performance Computing in Healthcare",
+        "synonyms": "HPC in Medicine, Advanced Medical Computing",
+        "parent_skill": "IT, Healthcare"
+    },
+    {
+        "skill": "HIPAA Compliance",
+        "synonyms": "Medical Data Privacy, HIPAA Regulations",
+        "parent_skill": "Regulatory Affairs, IT"
+    },
+    {
+        "skill": "Human Rights in Health Research",
+        "synonyms": "Ethical Standards in Research, Health Rights",
+        "parent_skill": "Bioethics, Public Health"
+    },
+    {
+        "skill": "HIT (Health Information Technology)",
+        "synonyms": "Healthcare IT, Medical Informatics",
+        "parent_skill": "IT, Healthcare"
+    },
+    {
+        "skill": "Immunoassays",
+        "synonyms": "Antibody Testing, ELISA",
+        "parent_skill": "Immunology, Laboratory Science"
+    },
+    {
+        "skill": "Immunochemistry",
+        "synonyms": "Immunological Chemistry, Antibody Chemistry",
+        "parent_skill": "Immunology, Biochemistry"
+    },
+    {
+        "skill": "Immunohistochemistry",
+        "synonyms": "IHC, Tissue Staining",
+        "parent_skill": "Pathology, Laboratory Science"
+    },
+    {
+        "skill": "In Vitro Toxicology",
+        "synonyms": "Laboratory Toxicology, Cellular Toxicity Testing",
+        "parent_skill": "Toxicology, Laboratory Science"
+    },
+    {
+        "skill": "In Vivo Studies",
+        "synonyms": "Animal Studies, Live Organism Research",
+        "parent_skill": "Preclinical Research"
+    },
+    {
+        "skill": "Ion Chromatography",
+        "synonyms": "IC, Ion Separation",
+        "parent_skill": "Analytical Chemistry"
+    },
+    {
+        "skill": "In Situ Hybridization",
+        "synonyms": "ISH, Genetic Localization",
+        "parent_skill": "Molecular Biology, Genetics"
+    },
+    {
+        "skill": "International Regulatory Affairs",
+        "synonyms": "Global Compliance, Cross-Border Regulations",
+        "parent_skill": "Regulatory Affairs"
+    },
+    {
+        "skill": "Integrated Pest Management",
+        "synonyms": "IPM, Sustainable Pest Control",
+        "parent_skill": "Agriculture, Environmental Science"
+    },
+    {
+        "skill": "Instrument Calibration",
+        "synonyms": "Equipment Validation, Instrument Accuracy",
+        "parent_skill": "Laboratory Science, Engineering"
+    },
+    {
+        "skill": "Inhalation Toxicology",
+        "synonyms": "Respiratory Toxicology, Aerosol Studies",
+        "parent_skill": "Toxicology, Environmental Science"
+    },
+    {
+        "skill": "Infectious Diseases Research",
+        "synonyms": "Pathogen Studies, Communicable Diseases Research",
+        "parent_skill": "Microbiology, Healthcare"
+    },
+    {
+        "skill": "Clinical Trials Management",
+        "synonyms": "CTM, Clinical Study Oversight",
+        "parent_skill": "Clinical Research, Project Management"
+    },
+    {
+        "skill": "Medical Writing",
+        "synonyms": "Scientific Writing, Clinical Documentation",
+        "parent_skill": "Healthcare, Research"
+    },
+    {
+        "skill": "Laboratory Information Management Systems (LIMS)",
+        "synonyms": "Laboratory Data Management, LIMS Software",
+        "parent_skill": "IT, Laboratory Science"
+    },
+    {
+        "skill": "Quality Assurance (QA) in Life Sciences",
+        "synonyms": "QA Standards, Quality Control Practices",
+        "parent_skill": "Life Sciences, Quality Management"
+    },
+    {
+        "skill": "Good Laboratory Practices (GLP)",
+        "synonyms": "GLP Compliance, Laboratory Standards",
+        "parent_skill": "Regulatory Affairs, Laboratory Science"
+    },
+    {
+        "skill": "Drug Development and Design",
+        "synonyms": "Pharmaceutical R&D, Drug Discovery",
+        "parent_skill": "Pharmaceuticals"
+    },
+    {
+        "skill": "Molecular Biology Techniques",
+        "synonyms": "DNA/RNA Methods, Protein Techniques",
+        "parent_skill": "Molecular Biology, Biotechnology"
+    },
+    {
+        "skill": "Gene Editing (CRISPR, TALEN)",
+        "synonyms": "Genome Editing, Genetic Engineering",
+        "parent_skill": "Genetics, Biotechnology"
+    },
+    {
+        "skill": "Cell Culture Techniques",
+        "synonyms": "Tissue Culturing, Cellular Growth Methods",
+        "parent_skill": "Molecular Biology, Laboratory Science"
+    },
+    {
+        "skill": "Mass Spectrometry (LC-MS/MS, GC-MS)",
+        "synonyms": "Mass Analysis, Spectroscopic Techniques",
+        "parent_skill": "Analytical Chemistry"
+    },
+    {
+        "skill": "Regulatory Submission Preparation",
+        "synonyms": "Submission Dossiers, Filing for Approval",
+        "parent_skill": "Regulatory Affairs"
+    },
+    {
+        "skill": "Environmental Health and Safety (EHS)",
+        "synonyms": "Workplace Safety, Eco-Health Regulations",
+        "parent_skill": "Environmental Science, Public Health"
+    },
+    {
+        "skill": "Isoelectric Focusing",
+        "synonyms": "Protein Separation, pH Gradient Electrophoresis",
+        "parent_skill": "Biochemistry, Laboratory Science"
+    },
+    {
+        "skill": "Isothermal Titration Calorimetry",
+        "synonyms": "ITC, Thermodynamic Analysis",
+        "parent_skill": "Biophysics, Chemistry"
+    },
+    {
+        "skill": "Karyotyping",
+        "synonyms": "Chromosome Analysis, Genetic Mapping",
+        "parent_skill": "Genetics, Laboratory Science"
+    },
+    {
+        "skill": "Kinases",
+        "synonyms": "Enzymatic Activity, Phosphorylation Studies",
+        "parent_skill": "Biochemistry, Molecular Biology"
+    },
+    {
+        "skill": "Kinetics",
+        "synonyms": "Reaction Rates, Enzyme Dynamics",
+        "parent_skill": "Biochemistry, Chemistry"
+    },
+    {
+        "skill": "Immunofluorescence",
+        "synonyms": "IF, Fluorescence-Based Staining",
+        "parent_skill": "Immunology, Laboratory Science"
+    },
+    {
+        "skill": "Immunohematology",
+        "synonyms": "Blood Group Studies, Transfusion Medicine",
+        "parent_skill": "Hematology, Immunology"
+    },
+    {
+        "skill": "In Vivo",
+        "synonyms": "Animal Studies, Live Organism Research",
+        "parent_skill": "Preclinical Research"
+    },
+    {
+        "skill": "In Vitro",
+        "synonyms": "Laboratory Studies, Cell-Based Assays",
+        "parent_skill": "Laboratory Science, Molecular Biology"
+    },
+    {
+        "skill": "IR Spectroscopy",
+        "synonyms": "Infrared Spectroscopy, IR Analysis",
+        "parent_skill": "Analytical Chemistry"
+    },
+    {
+        "skill": "ISPE",
+        "synonyms": "International Society for Pharmaceutical Engineering",
+        "parent_skill": "Pharmaceuticals, Engineering"
+    },
+    {
+        "skill": "ISO 13485",
+        "synonyms": "Medical Device Quality Standards",
+        "parent_skill": "Regulatory Affairs, Healthcare"
+    },
+    {
+        "skill": "ISO 14971",
+        "synonyms": "Medical Device Risk Management Standards",
+        "parent_skill": "Regulatory Affairs"
+    },
+    {
+        "skill": "ISO 17025",
+        "synonyms": "Laboratory Accreditation Standards",
+        "parent_skill": "Regulatory Affairs, Laboratory Science"
+    },
+    {
+        "skill": "IVDD",
+        "synonyms": "In Vitro Diagnostic Devices, IVD Regulations",
+        "parent_skill": "Medical Devices, Diagnostics"
+    },
+    {
+        "skill": "IVD",
+        "synonyms": "In Vitro Diagnostics, Diagnostic Devices",
+        "parent_skill": "Medical Devices, Healthcare"
+    },
+    {
+        "skill": "IVF",
+        "synonyms": "In Vitro Fertilization, Assisted Reproductive Technology",
+        "parent_skill": "Reproductive Medicine"
+    },
+    {
+        "skill": "IVIG",
+        "synonyms": "Intravenous Immunoglobulin, Antibody Therapy",
+        "parent_skill": "Immunology, Medicine"
+    },
+    {
+        "skill": "IVIVC",
+        "synonyms": "In Vitro-In Vivo Correlation, Drug Absorption Studies",
+        "parent_skill": "Pharmacology, Clinical Research"
+    },
+    {
+        "skill": "Key Opinion Leaders",
+        "synonyms": "KOLs, Thought Leaders",
+        "parent_skill": "Healthcare, Marketing"
+    },
+    {
+        "skill": "Kinetic Modeling",
+        "synonyms": "Reaction Dynamics, Rate Equation Modeling",
+        "parent_skill": "Chemistry, Biochemistry"
+    },
+    {
+        "skill": "Knee Surgery",
+        "synonyms": "Knee Replacement, Orthopedic Surgery",
+        "parent_skill": "Medicine, Surgery"
+    },
+    {
+        "skill": "KOL (Key Opinion Leaders)",
+        "synonyms": "Industry Influencers, Expert Advisors",
+        "parent_skill": "Healthcare, Marketing"
+    },
+    {
+        "skill": "KOL Development",
+        "synonyms": "KOL Engagement, Expert Relationship Building",
+        "parent_skill": "Healthcare, Marketing"
+    },
+    {
+        "skill": "KOL Identification",
+        "synonyms": "Expert Targeting, Opinion Leader Selection",
+        "parent_skill": "Marketing, Business Development"
+    },
+    {
+        "skill": "KOL Management",
+        "synonyms": "KOL Engagement Strategies, Relationship Oversight",
+        "parent_skill": "Marketing, Healthcare"
+    },
+    {
+        "skill": "Kyphoplasty",
+        "synonyms": "Vertebral Augmentation, Spine Surgery",
+        "parent_skill": "Orthopedics, Medicine"
+    },
+    {
+        "skill": "Laboratory",
+        "synonyms": "Lab, Scientific Lab",
+        "parent_skill": "Laboratory Science"
+    },
+    {
+        "skill": "Laboratory Animal Medicine",
+        "synonyms": "Animal Research Medicine, Veterinary Research",
+        "parent_skill": "Veterinary Science, Laboratory Science"
+    },
+    {
+        "skill": "Laboratory Automation",
+        "synonyms": "Automated Lab Systems, Lab Process Automation",
+        "parent_skill": "Laboratory Science, IT"
+    },
+    {
+        "skill": "Laboratory Equipment",
+        "synonyms": "Lab Instruments, Lab Tools",
+        "parent_skill": "Laboratory Science"
+    },
+    {
+        "skill": "Laboratory Medicine",
+        "synonyms": "Clinical Pathology, Diagnostic Medicine",
+        "parent_skill": "Medicine"
+    },
+    {
+        "skill": "Laboratory Robotics",
+        "synonyms": "Robotic Lab Systems, Automation in Labs",
+        "parent_skill": "Laboratory Science, Robotics"
+    },
+    {
+        "skill": "Laboratory Safety",
+        "synonyms": "Lab Hazard Prevention, Lab Protocols",
+        "parent_skill": "Laboratory Science"
+    },
+    {
+        "skill": "Laboratory Skills",
+        "synonyms": "Lab Techniques, Experimental Skills",
+        "parent_skill": "Laboratory Science"
+    },
+    {
+        "skill": "Lentivirus",
+        "synonyms": "Retrovirus, Viral Vectors",
+        "parent_skill": "Molecular Biology, Virology"
+    },
+    {
+        "skill": "Leukemia",
+        "synonyms": "Blood Cancer, Hematologic Malignancy",
+        "parent_skill": "Hematology, Oncology"
+    },
+    {
+        "skill": "Life Sciences",
+        "synonyms": "Biological Sciences, Biosciences",
+        "parent_skill": "Science"
+    },
+    {
+        "skill": "Ligand Binding",
+        "synonyms": "Receptor-Ligand Interactions, Binding Assays",
+        "parent_skill": "Molecular Biology, Biochemistry"
+    },
+    {
+        "skill": "LIMS (Laboratory Information Management Systems)",
+        "synonyms": "Lab Data Management, LIMS Software",
+        "parent_skill": "IT, Laboratory Science"
+    },
+    {
+        "skill": "Lipidology",
+        "synonyms": "Study of Lipids, Lipid Disorders",
+        "parent_skill": "Biochemistry, Medicine"
+    },
+    {
+        "skill": "Lipidomics",
+        "synonyms": "Lipid Analysis, Lipid Profiling",
+        "parent_skill": "Biochemistry, Molecular Biology"
+    },
+    {
+        "skill": "Lipids",
+        "synonyms": "Fats, Fatty Acids",
+        "parent_skill": "Biochemistry"
+    },
+    {
+        "skill": "Lipid Disorders",
+        "synonyms": "Dyslipidemia, Hyperlipidemia",
+        "parent_skill": "Endocrinology, Medicine"
+    },
+    {
+        "skill": "Lipid Metabolism",
+        "synonyms": "Fat Metabolism, Lipid Biochemistry",
+        "parent_skill": "Biochemistry, Medicine"
+    },
+    {
+        "skill": "Liposomes",
+        "synonyms": "Vesicular Drug Delivery, Lipid-Based Systems",
+        "parent_skill": "Pharmaceuticals, Biochemistry"
+    },
+    {
+        "skill": "LOINC",
+        "synonyms": "Logical Observation Identifiers Names and Codes",
+        "parent_skill": "Medical Coding, IT"
+    },
+    {
+        "skill": "Local Anesthesia",
+        "synonyms": "Regional Anesthesia, Pain Block",
+        "parent_skill": "Medicine, Surgery"
+    },
+    {
+        "skill": "Lymphatic Drainage",
+        "synonyms": "Lymph Flow Therapy, Lymphatic Massage",
+        "parent_skill": "Rehabilitation Medicine, Physiotherapy"
+    },
+    {
+        "skill": "Lymphedema",
+        "synonyms": "Swelling due to Lymph Blockage, Lymphatic Edema",
+        "parent_skill": "Rehabilitation Medicine, Medicine"
+    },
+    {
+        "skill": "Lymphoma",
+        "synonyms": "Lymph Node Cancer, Hematologic Malignancy",
+        "parent_skill": "Hematology, Oncology"
+    },
+    {
+        "skill": "Lyophilization",
+        "synonyms": "Freeze Drying, Cryodesiccation",
+        "parent_skill": "Pharmaceuticals, Food Science"
+    },
+    {
+        "skill": "Major Depressive Disorder",
+        "synonyms": "MDD, Clinical Depression",
+        "parent_skill": "Psychiatry, Psychology"
+    },
+    {
+        "skill": "Malaria",
+        "synonyms": "Plasmodium Infection, Mosquito-Borne Disease",
+        "parent_skill": "Infectious Diseases, Public Health"
+    },
+    {
+        "skill": "MALDI-MS",
+        "synonyms": "Matrix-Assisted Laser Desorption Ionization Mass Spectrometry",
+        "parent_skill": "Mass Spectrometry"
+    },
+    {
+        "skill": "MALDI-TOF",
+        "synonyms": "MALDI Time-of-Flight, TOF Analysis",
+        "parent_skill": "Mass Spectrometry"
+    },
+    {
+        "skill": "Mammalian",
+        "synonyms": "Mammals, Mammalian Systems",
+        "parent_skill": "Zoology, Biology"
+    },
+    {
+        "skill": "Mammalian Cell Culture",
+        "synonyms": "Mammalian Tissue Culturing, In Vitro Cell Growth",
+        "parent_skill": "Molecular Biology, Biotechnology"
+    },
+    {
+        "skill": "Mammography",
+        "synonyms": "Breast Imaging, X-Ray Mammograms",
+        "parent_skill": "Medical Imaging"
+    },
+    {
+        "skill": "Managed Care",
+        "synonyms": "Healthcare Plans, Managed Healthcare",
+        "parent_skill": "Healthcare Management"
+    },
+    {
+        "skill": "Mass Spectrometry",
+        "synonyms": "MS, Spectrometric Analysis",
+        "parent_skill": "Analytical Chemistry"
+    },
+    {
+        "skill": "Maternal-Child Health",
+        "synonyms": "MCH, Mother and Child Health",
+        "parent_skill": "Public Health"
+    },
+    {
+        "skill": "Maternal Fetal Medicine",
+        "synonyms": "High-Risk Pregnancy Care, Fetal Health Medicine",
+        "parent_skill": "Obstetrics, Healthcare"
+    },
+    {
+        "skill": "MDRs",
+        "synonyms": "Multiple Drug Resistance, Drug-Resistant Strains",
+        "parent_skill": "Infectious Diseases, Medicine"
+    },
+    {
+        "skill": "MDS",
+        "synonyms": "Myelodysplastic Syndromes, Bone Marrow Disorders",
+        "parent_skill": "Hematology, Oncology"
+    },
+    {
+        "skill": "MDS 3.0",
+        "synonyms": "Minimum Data Set for Nursing Homes, Long-Term Care Standards",
+        "parent_skill": "Healthcare Management"
+    },
+    {
+        "skill": "Mechanical Ventilation",
+        "synonyms": "Respiratory Support, Ventilator Therapy",
+        "parent_skill": "Pulmonology, Critical Care"
+    },
+    {
+        "skill": "Medical Billing",
+        "synonyms": "Healthcare Billing, Claims Processing",
+        "parent_skill": "Healthcare, Finance"
+    },
+    {
+        "skill": "Medical Coding",
+        "synonyms": "ICD Coding, CPT Coding",
+        "parent_skill": "Healthcare, IT"
+    },
+    {
+        "skill": "Medical Diagnostics",
+        "synonyms": "Diagnostic Testing, Clinical Diagnostics",
+        "parent_skill": "Healthcare"
+    },
+    {
+        "skill": "Medical Education",
+        "synonyms": "Physician Training, Medical Instruction",
+        "parent_skill": "Education, Medicine"
+    },
+    {
+        "skill": "Medical Ethics",
+        "synonyms": "Healthcare Ethics, Bioethics",
+        "parent_skill": "Medicine, Bioethics"
+    },
+    {
+        "skill": "Medical Imaging",
+        "synonyms": "Radiology, Diagnostic Imaging",
+        "parent_skill": "Healthcare"
+    },
+    {
+        "skill": "Medical Physics",
+        "synonyms": "Radiation Physics, Imaging Physics",
+        "parent_skill": "Physics, Medicine"
+    },
+    {
+        "skill": "Medical Records",
+        "synonyms": "Patient Records, Health Documentation",
+        "parent_skill": "Healthcare, IT"
+    },
+    {
+        "skill": "Medical Terminology",
+        "synonyms": "Medical Vocabulary, Clinical Terms",
+        "parent_skill": "Healthcare"
+    },
+    {
+        "skill": "Medicinal Chemistry",
+        "synonyms": "Drug Chemistry, Pharmaceutical Chemistry",
+        "parent_skill": "Chemistry, Pharmaceuticals"
+    },
+    {
+        "skill": "Medication Adherence",
+        "synonyms": "Compliance with Medications, Treatment Adherence",
+        "parent_skill": "Healthcare, Medicine"
+    },
+    {
+        "skill": "Medication Administration",
+        "synonyms": "Drug Administration, Medication Delivery",
+        "parent_skill": "Healthcare, Medicine"
+    },
+    {
+        "skill": "Medication Errors",
+        "synonyms": "Prescription Errors, Administration Errors",
+        "parent_skill": "Healthcare, Patient Safety"
+    },
+    {
+        "skill": "Medication Therapy Management",
+        "synonyms": "MTM, Medication Counseling",
+        "parent_skill": "Pharmacy, Healthcare"
+    },
+    {
+        "skill": "Metabolic Syndrome",
+        "synonyms": "Syndrome X, Insulin Resistance Syndrome",
+        "parent_skill": "Endocrinology, Medicine"
+    },
+    {
+        "skill": "MHRA",
+        "synonyms": "Medicines and Healthcare Products Regulatory Agency",
+        "parent_skill": "Regulatory Affairs, Medicine"
+    },
+    {
+        "skill": "Microbiology",
+        "synonyms": "Microbial Science, Bacteriology",
+        "parent_skill": "Biology, Laboratory Science"
+    },
+    {
+        "skill": "miRNA",
+        "synonyms": "MicroRNA, Non-Coding RNA",
+        "parent_skill": "Genetics, Molecular Biology"
+    },
+    {
+        "skill": "Mitochondria",
+        "synonyms": "Cellular Powerhouses, Energy Organelles",
+        "parent_skill": "Cell Biology"
+    },
+    {
+        "skill": "Molecular & Cellular Biology",
+        "synonyms": "Molecular Biology, Cell Biology",
+        "parent_skill": "Biology"
+    },
+    {
+        "skill": "Molecular Biology",
+        "synonyms": "Molecular Science, Cellular Biochemistry",
+        "parent_skill": "Biology"
+    },
+    {
+        "skill": "Molecular Cloning",
+        "synonyms": "Gene Cloning, DNA Cloning",
+        "parent_skill": "Genetics, Molecular Biology"
+    },
+    {
+        "skill": "Molecular Cytogenetics",
+        "synonyms": "Chromosome Studies, Molecular Karyotyping",
+        "parent_skill": "Genetics, Laboratory Science"
+    },
+    {
+        "skill": "Molecular Diagnostics",
+        "synonyms": "Genomic Diagnostics, Precision Diagnostics",
+        "parent_skill": "Healthcare, Genetics"
+    },
+    {
+        "skill": "Molecular Dynamics",
+        "synonyms": "MD Simulations, Biomolecular Simulations",
+        "parent_skill": "Biophysics, Chemistry"
+    },
+    {
+        "skill": "Molecular Epidemiology",
+        "synonyms": "Genomic Epidemiology, Molecular Population Studies",
+        "parent_skill": "Epidemiology, Molecular Biology"
+    },
+    {
+        "skill": "Molecular Genetics",
+        "synonyms": "Genetic Engineering, Molecular DNA Studies",
+        "parent_skill": "Genetics, Molecular Biology"
+    },
+    {
+        "skill": "Molecular Imaging",
+        "synonyms": "Biomolecular Imaging, Functional Imaging",
+        "parent_skill": "Medical Imaging, Molecular Biology"
+    },
+    {
+        "skill": "Molecular Microbiology",
+        "synonyms": "Microbial Genetics, Microbial Molecular Biology",
+        "parent_skill": "Microbiology, Molecular Biology"
+    },
+    {
+        "skill": "Molecular Modeling",
+        "synonyms": "Computational Chemistry, Protein Modeling",
+        "parent_skill": "Biochemistry, Computational Biology"
+    },
+    {
+        "skill": "Molecular Oncology",
+        "synonyms": "Cancer Genetics, Oncobiology",
+        "parent_skill": "Oncology, Molecular Biology"
+    },
+    {
+        "skill": "Molecular Pharmacology",
+        "synonyms": "Drug-Target Interactions, Pharmacodynamics",
+        "parent_skill": "Pharmacology, Molecular Biology"
+    },
+    {
+        "skill": "Molecular Virology",
+        "synonyms": "Viral Genetics, Molecular Virus Studies",
+        "parent_skill": "Virology, Molecular Biology"
+    },
+    {
+        "skill": "Monoclonal Antibodies",
+        "synonyms": "mAbs, Targeted Antibodies",
+        "parent_skill": "Immunology, Biotechnology"
+    },
+    {
+        "skill": "Movement Disorders",
+        "synonyms": "Motor Dysfunction, Neurological Movement Disorders",
+        "parent_skill": "Neurology, Psychiatry"
+    },
+    {
+        "skill": "Mouse Handling",
+        "synonyms": "Rodent Handling, Laboratory Animal Care",
+        "parent_skill": "Laboratory Science"
+    },
+    {
+        "skill": "Mouse Models",
+        "synonyms": "Transgenic Mouse Studies, Murine Models",
+        "parent_skill": "Preclinical Research"
+    },
+    {
+        "skill": "MRI",
+        "synonyms": "Magnetic Resonance Imaging, Medical Scans",
+        "parent_skill": "Medical Imaging"
+    },
+    {
+        "skill": "MRSA",
+        "synonyms": "Methicillin-Resistant Staphylococcus Aureus, Antibiotic-Resistant Bacteria",
+        "parent_skill": "Microbiology, Infectious Diseases"
+    },
+    {
+        "skill": "Mucosal Immunology",
+        "synonyms": "Immune Response in Mucosal Tissues, Mucosal Defense",
+        "parent_skill": "Immunology, Medicine"
+    },
+    {
+        "skill": "Mutagenesis",
+        "synonyms": "Genetic Mutations, Mutation Studies",
+        "parent_skill": "Genetics, Molecular Biology"
+    },
+    {
+        "skill": "Mycobacteriology",
+        "synonyms": "Tuberculosis Research, Mycobacterial Studies",
+        "parent_skill": "Microbiology"
+    },
+    {
+        "skill": "Mycology",
+        "synonyms": "Fungal Studies, Fungi Research",
+        "parent_skill": "Microbiology"
+    },
+    {
+        "skill": "Mycotoxins",
+        "synonyms": "Fungal Toxins, Mold Toxins",
+        "parent_skill": "Microbiology, Toxicology"
+    },
+    {
+        "skill": "Myocardial Infarction",
+        "synonyms": "Heart Attack, Acute Coronary Syndrome",
+        "parent_skill": "Cardiology, Medicine"
+    },
+    {
+        "skill": "Nanobiotechnology",
+        "synonyms": "Bionanotechnology, Nano-Scale Biotechnology",
+        "parent_skill": "Biotechnology, Nanotechnology"
+    },
+    {
+        "skill": "Nanocomposites",
+        "synonyms": "Nano-Structured Materials, Composite Materials",
+        "parent_skill": "Nanotechnology, Material Science"
+    },
+    {
+        "skill": "Nanodrop",
+        "synonyms": "Nucleic Acid Quantification, Microvolume Spectrophotometry",
+        "parent_skill": "Laboratory Science, Biotechnology"
+    },
+    {
+        "skill": "Nanoelectronics",
+        "synonyms": "Nano-Scale Electronics, Molecular Electronics",
+        "parent_skill": "Nanotechnology, Engineering"
+    },
+    {
+        "skill": "Nanofabrication",
+        "synonyms": "Nano-Manufacturing, Nano-Patterning",
+        "parent_skill": "Nanotechnology, Material Science"
+    },
+    {
+        "skill": "Nanomaterials",
+        "synonyms": "Nano-Structured Materials, Nanostructures",
+        "parent_skill": "Material Science, Nanotechnology"
+    },
+    {
+        "skill": "Nanomedicine",
+        "synonyms": "Nano-Scale Medicine, Drug Delivery Systems",
+        "parent_skill": "Medicine, Nanotechnology"
+    },
+    {
+        "skill": "Nanoparticles",
+        "synonyms": "Nano-Scale Particles, Colloidal Particles",
+        "parent_skill": "Material Science, Nanotechnology"
+    },
+    {
+        "skill": "Nanophotonics",
+        "synonyms": "Nano-Scale Optics, Quantum Optics",
+        "parent_skill": "Physics, Nanotechnology"
+    },
+    {
+        "skill": "Nanoscience",
+        "synonyms": "Study of Nano-Scale Phenomena, Nano Research",
+        "parent_skill": "Nanotechnology"
+    },
+    {
+        "skill": "Nanostructures",
+        "synonyms": "Nano-Scale Structures, Nanoscale Architectures",
+        "parent_skill": "Nanotechnology, Material Science"
+    },
+    {
+        "skill": "Nanotechnology",
+        "synonyms": "Nano-Scale Engineering, Nano-Science Applications",
+        "parent_skill": "Engineering, Material Science"
+    },
+    {
+        "skill": "Nanowires",
+        "synonyms": "Nano-Scale Conductors, Molecular Wires",
+        "parent_skill": "Nanotechnology, Material Science"
+    },
+    {
+        "skill": "Natural Products",
+        "synonyms": "Bioactive Compounds, Phytochemicals",
+        "parent_skill": "Biochemistry, Pharmaceuticals"
+    },
+    {
+        "skill": "NCEs (New Chemical Entities)",
+        "synonyms": "Drug Leads, Novel Compounds",
+        "parent_skill": "Pharmaceuticals, Drug Development"
+    },
+    {
+        "skill": "Neglected Tropical Diseases",
+        "synonyms": "NTDs, Tropical Infectious Diseases",
+        "parent_skill": "Public Health, Infectious Diseases"
+    },
+    {
+        "skill": "Neonatal Nursing",
+        "synonyms": "Newborn Care Nursing, NICU Nursing",
+        "parent_skill": "Nursing, Pediatrics"
+    },
+    {
+        "skill": "Nephrology",
+        "synonyms": "Kidney Medicine, Renal Health",
+        "parent_skill": "Medicine"
+    },
+    {
+        "skill": "Neurodegeneration",
+        "synonyms": "Neurological Decline, Neurodegenerative Disorders",
+        "parent_skill": "Neurology, Medicine"
+    },
+    {
+        "skill": "Neuroimaging",
+        "synonyms": "Brain Imaging, Functional MRI",
+        "parent_skill": "Medical Imaging, Neurology"
+    },
+    {
+        "skill": "Neurological Disorders",
+        "synonyms": "Nervous System Disorders, Neuropathologies",
+        "parent_skill": "Neurology, Psychiatry"
+    },
+    {
+        "skill": "Neurology",
+        "synonyms": "Nervous System Studies, Brain and Nerve Medicine",
+        "parent_skill": "Medicine"
+    },
+    {
+        "skill": "Neuromuscular",
+        "synonyms": "Muscle and Nerve Interaction, Neuromotor Function",
+        "parent_skill": "Neurology, Physiology"
+    },
+    {
+        "skill": "Neuropharmacology",
+        "synonyms": "Brain Drug Studies, CNS Pharmacology",
+        "parent_skill": "Pharmacology, Neurology"
+    },
+    {
+        "skill": "Neurophysiology",
+        "synonyms": "Nervous System Physiology, Neural Function",
+        "parent_skill": "Neurology, Physiology"
+    },
+    {
+        "skill": "Neuropsychological Assessment",
+        "synonyms": "Cognitive Testing, Neurocognitive Assessment",
+        "parent_skill": "Psychology, Neurology"
+    },
+    {
+        "skill": "Neuropsychology",
+        "synonyms": "Brain and Behavior Studies, Cognitive Neuropsychology",
+        "parent_skill": "Psychology, Neuroscience"
+    },
+    {
+        "skill": "Neuroscience",
+        "synonyms": "Brain Science, Nervous System Studies",
+        "parent_skill": "Biology"
+    },
+    {
+        "skill": "Neurosurgery",
+        "synonyms": "Brain and Spine Surgery, Neurological Surgery",
+        "parent_skill": "Surgery, Neurology"
+    },
+    {
+        "skill": "NICE",
+        "synonyms": "National Guidelines, Health and Care Standards",
+        "parent_skill": "Regulatory Affairs"
+    },
+    {
+        "skill": "NICU (Neonatal Intensive Care Unit)",
+        "synonyms": "Newborn ICU, Neonatal Critical Care",
+        "parent_skill": "Pediatrics, Healthcare"
+    },
+    {
+        "skill": "NIH",
+        "synonyms": "National Institutes of Health, US Medical Research",
+        "parent_skill": "Research, Healthcare"
+    },
+    {
+        "skill": "NIR Spectroscopy",
+        "synonyms": "Near-Infrared Spectroscopy, NIR Analysis",
+        "parent_skill": "Analytical Chemistry"
+    },
+    {
+        "skill": "NMR (Nuclear Magnetic Resonance)",
+        "synonyms": "NMR Analysis, Magnetic Resonance Spectroscopy",
+        "parent_skill": "Biophysics, Analytical Chemistry"
+    },
+    {
+        "skill": "NMR Spectroscopy",
+        "synonyms": "NMR Analysis, Spectrometric Studies",
+        "parent_skill": "Analytical Chemistry"
+    },
+    {
+        "skill": "Northern Blotting",
+        "synonyms": "RNA Blotting, Molecular Hybridization",
+        "parent_skill": "Molecular Biology, Genetics"
+    },
+    {
+        "skill": "Nutraceuticals",
+        "synonyms": "Functional Foods, Medicinal Foods",
+        "parent_skill": "Nutrition, Pharmaceuticals"
+    },
+    {
+        "skill": "Nutrition",
+        "synonyms": "Dietary Science, Nutritional Studies",
+        "parent_skill": "Public Health, Medicine"
+    },
+    {
+        "skill": "Nutritional Analysis",
+        "synonyms": "Food Composition Analysis, Diet Assessment",
+        "parent_skill": "Nutrition"
+    },
+    {
+        "skill": "Nutritional Counseling",
+        "synonyms": "Diet Therapy, Nutrition Advice",
+        "parent_skill": "Healthcare, Nutrition"
+    },
+    {
+        "skill": "Nutrition Consulting",
+        "synonyms": "Dietary Planning, Nutritional Recommendations",
+        "parent_skill": "Healthcare, Nutrition"
+    },
+    {
+        "skill": "Nutrition Education",
+        "synonyms": "Nutrition Training, Diet Education",
+        "parent_skill": "Education, Healthcare"
+    },
+    {
+        "skill": "Nanoparticles",
+        "synonyms": "Nano-Scale Particles, Colloidal Particles",
+        "parent_skill": "Nanotechnology, Material Science"
+    },
+    {
+        "skill": "Nucleic Acid",
+        "synonyms": "DNA/RNA, Genetic Material",
+        "parent_skill": "Molecular Biology, Genetics"
+    },
+    {
+        "skill": "Nucleic Acid Extraction",
+        "synonyms": "DNA/RNA Isolation, Genetic Material Purification",
+        "parent_skill": "Molecular Biology, Biochemistry"
+    },
+    {
+        "skill": "Nuclear Medicine",
+        "synonyms": "Radiological Medicine, Molecular Imaging",
+        "parent_skill": "Medicine, Medical Imaging"
+    },
+    {
+        "skill": "Nuclear Pharmacy",
+        "synonyms": "Radiopharmaceuticals, Medical Isotopes",
+        "parent_skill": "Pharmacy, Nuclear Medicine"
+    },
+    {
+        "skill": "Oncology",
+        "synonyms": "Cancer Studies, Tumor Research",
+        "parent_skill": "Medicine"
+    },
+    {
+        "skill": "Oncology Clinical Research",
+        "synonyms": "Cancer Clinical Trials, Oncology Studies",
+        "parent_skill": "Clinical Research, Oncology"
+    },
+    {
+        "skill": "Oncology Nursing",
+        "synonyms": "Cancer Care Nursing, Chemotherapy Nursing",
+        "parent_skill": "Nursing, Oncology"
+    },
+    {
+        "skill": "Oligonucleotides",
+        "synonyms": "Short DNA/RNA Sequences, Synthetic Nucleotides",
+        "parent_skill": "Molecular Biology, Genetics"
+    },
+    {
+        "skill": "Oligonucleotide Synthesis",
+        "synonyms": "Nucleotide Chain Synthesis, DNA/RNA Synthesis",
+        "parent_skill": "Molecular Biology, Biochemistry"
+    },
+    {
+        "skill": "Ophthalmology",
+        "synonyms": "Eye Medicine, Vision Health",
+        "parent_skill": "Medicine"
+    },
+    {
+        "skill": "Optical Coherence Tomography",
+        "synonyms": "OCT, Retinal Imaging",
+        "parent_skill": "Medical Imaging, Ophthalmology"
+    },
+    {
+        "skill": "Optimization Algorithms",
+        "synonyms": "Computational Optimization, Optimization Models",
+        "parent_skill": "Computer Science, AI"
+    },
+    {
+        "skill": "Oral & Maxillofacial Surgery",
+        "synonyms": "Jaw Surgery, Dental Surgery",
+        "parent_skill": "Surgery, Dentistry"
+    },
+    {
+        "skill": "Organic Chemistry",
+        "synonyms": "Carbon Compound Chemistry, Organic Synthesis",
+        "parent_skill": "Chemistry"
+    },
+    {
+        "skill": "Organic Synthesis",
+        "synonyms": "Organic Compound Synthesis, Synthetic Chemistry",
+        "parent_skill": "Chemistry"
+    },
+    {
+        "skill": "Organizational Change Agent",
+        "synonyms": "Change Management, Business Transformation",
+        "parent_skill": "Business Management"
+    },
+    {
+        "skill": "Orphan Drugs",
+        "synonyms": "Rare Disease Drugs, Specialized Medicines",
+        "parent_skill": "Pharmaceuticals, Regulatory Affairs"
+    },
+    {
+        "skill": "Orthodontics",
+        "synonyms": "Dental Braces, Teeth Alignment",
+        "parent_skill": "Dentistry"
+    },
+    {
+        "skill": "Orthognathic Surgery",
+        "synonyms": "Corrective Jaw Surgery, Maxillofacial Surgery",
+        "parent_skill": "Surgery, Dentistry"
+    },
+    {
+        "skill": "Orthopedics",
+        "synonyms": "Bone and Joint Medicine, Musculoskeletal Health",
+        "parent_skill": "Medicine"
+    },
+    {
+        "skill": "Orthopedic Rehabilitation",
+        "synonyms": "Post-Surgical Recovery, Physical Therapy",
+        "parent_skill": "Rehabilitation Medicine"
+    },
+    {
+        "skill": "Outcomes Research",
+        "synonyms": "Patient Outcomes Analysis, Effectiveness Studies",
+        "parent_skill": "Public Health, Healthcare"
+    },
+    {
+        "skill": "Oxygen Therapy",
+        "synonyms": "Supplemental Oxygen, Respiratory Support",
+        "parent_skill": "Pulmonology, Medicine"
+    },
+    {
+        "skill": "Oxidative Stress",
+        "synonyms": "Reactive Oxygen Species, Cellular Oxidation Damage",
+        "parent_skill": "Biochemistry, Medicine"
+    },
+    {
+        "skill": "Oxidation",
+        "synonyms": "Oxidative Reactions, Electron Transfer",
+        "parent_skill": "Chemistry, Biochemistry"
+    },
+    {
+        "skill": "Pain Management",
+        "synonyms": "Pain Relief, Analgesic Therapy",
+        "parent_skill": "Medicine, Palliative Care"
+    },
+    {
+        "skill": "Palliative Care",
+        "synonyms": "End-of-Life Care, Comfort Care",
+        "parent_skill": "Healthcare, Medicine"
+    },
+    {
+        "skill": "Parasitology",
+        "synonyms": "Study of Parasites, Parasitic Infections",
+        "parent_skill": "Microbiology, Infectious Diseases"
+    },
+    {
+        "skill": "Parenteral Nutrition",
+        "synonyms": "Intravenous Feeding, IV Nutrition",
+        "parent_skill": "Nutrition, Medicine"
+    },
+    {
+        "skill": "Pathology",
+        "synonyms": "Disease Diagnosis, Histopathology",
+        "parent_skill": "Medicine, Laboratory Science"
+    },
+    {
+        "skill": "Patient Advocacy",
+        "synonyms": "Healthcare Advocacy, Patient Rights Support",
+        "parent_skill": "Healthcare, Public Health"
+    },
+    {
+        "skill": "Patient Counseling",
+        "synonyms": "Healthcare Counseling, Medical Advice",
+        "parent_skill": "Healthcare"
+    },
+    {
+        "skill": "Patient Education",
+        "synonyms": "Medical Education, Health Literacy",
+        "parent_skill": "Public Health, Healthcare"
+    },
+    {
+        "skill": "Patient Safety",
+        "synonyms": "Risk Mitigation, Healthcare Safety",
+        "parent_skill": "Healthcare, Quality Assurance"
+    },
+    {
+        "skill": "Patient Satisfaction",
+        "synonyms": "Patient Experience, Healthcare Outcomes",
+        "parent_skill": "Healthcare, Public Health"
+    },
+    {
+        "skill": "PEGylation",
+        "synonyms": "Polyethylene Glycol Conjugation, Drug Stabilization",
+        "parent_skill": "Biochemistry, Pharmaceuticals"
+    },
+    {
+        "skill": "Peptides",
+        "synonyms": "Short Protein Chains, Amino Acid Chains",
+        "parent_skill": "Biochemistry, Molecular Biology"
+    },
+    {
+        "skill": "Peptide Synthesis",
+        "synonyms": "Custom Peptides, Amino Acid Chain Assembly",
+        "parent_skill": "Biochemistry, Laboratory Science"
+    },
+    {
+        "skill": "Pharmaceutical Care",
+        "synonyms": "Patient Medication Therapy, Drug Therapy Management",
+        "parent_skill": "Pharmacy, Healthcare"
+    },
+    {
+        "skill": "Pharmaceutical Industry",
+        "synonyms": "Pharma Sector, Drug Manufacturing",
+        "parent_skill": "Business, Pharmaceuticals"
+    },
+    {
+        "skill": "Pharmaceutical Packaging",
+        "synonyms": "Drug Packaging, Pharma Packaging Solutions",
+        "parent_skill": "Manufacturing, Pharmaceuticals"
+    },
+    {
+        "skill": "Pharmaceutical Research",
+        "synonyms": "Drug R&D, Pharma Studies",
+        "parent_skill": "Research, Pharmaceuticals"
+    },
+    {
+        "skill": "Pharmaceutical Sales",
+        "synonyms": "Pharma Sales, Drug Marketing",
+        "parent_skill": "Business, Pharmaceuticals"
+    },
+    {
+        "skill": "Pharmaceutics",
+        "synonyms": "Drug Formulation, Dosage Forms",
+        "parent_skill": "Pharmaceuticals, Chemistry"
+    },
+    {
+        "skill": "Pharmacists",
+        "synonyms": "Drug Dispensers, Medication Experts",
+        "parent_skill": "Healthcare, Pharmacy"
+    },
+    {
+        "skill": "Pharmacoeconomics",
+        "synonyms": "Cost-Benefit Analysis, Drug Value Studies",
+        "parent_skill": "Economics, Healthcare"
+    },
+    {
+        "skill": "Pharmacokinetics",
+        "synonyms": "Drug Absorption Studies, PK Analysis",
+        "parent_skill": "Pharmacology, Clinical Research"
+    },
+    {
+        "skill": "Pharmacology",
+        "synonyms": "Drug Science, Medication Studies",
+        "parent_skill": "Medicine, Pharmaceuticals"
+    },
+    {
+        "skill": "Pharmacy",
+        "synonyms": "Drug Dispensing, Pharmacology Practice",
+        "parent_skill": "Healthcare, Pharmaceuticals"
+    },
+    {
+        "skill": "Pharmacy Automation",
+        "synonyms": "Automated Dispensing, Pharmacy Robotics",
+        "parent_skill": "Healthcare, IT"
+    },
+    {
+        "skill": "Pharmacy Benefit Management",
+        "synonyms": "PBM, Prescription Benefits Management",
+        "parent_skill": "Healthcare, Finance"
+    },
+    {
+        "skill": "Pharmacy Practice",
+        "synonyms": "Pharmaceutical Care Practice, Clinical Pharmacy",
+        "parent_skill": "Healthcare, Pharmacy"
+    },
+    {
+        "skill": "Pharmacy Technicians",
+        "synonyms": "Pharmacy Support Staff, Dispensing Assistants",
+        "parent_skill": "Pharmacy, Healthcare"
+    },
+    {
+        "skill": "Phase I",
+        "synonyms": "Early-Stage Clinical Trials, Safety Trials",
+        "parent_skill": "Clinical Research, Pharmaceuticals"
+    },
+    {
+        "skill": "Phase II",
+        "synonyms": "Mid-Stage Clinical Trials, Efficacy Trials",
+        "parent_skill": "Clinical Research, Pharmaceuticals"
+    },
+    {
+        "skill": "Phase III",
+        "synonyms": "Late-Stage Clinical Trials, Pre-Market Trials",
+        "parent_skill": "Clinical Research, Pharmaceuticals"
+    },
+    {
+        "skill": "Physical Chemistry",
+        "synonyms": "Thermodynamics, Chemical Kinetics",
+        "parent_skill": "Chemistry, Physics"
+    },
+    {
+        "skill": "Physiology",
+        "synonyms": "Biological Functions, Human Physiology Studies",
+        "parent_skill": "Biology, Medicine"
+    },
+    {
+        "skill": "PICC Lines",
+        "synonyms": "Peripherally Inserted Central Catheters, IV Access",
+        "parent_skill": "Medicine, Nursing"
+    },
+    {
+        "skill": "PIC Programming",
+        "synonyms": "Programmable Integrated Circuit Coding, Microcontroller Programming",
+        "parent_skill": "IT, Engineering"
+    },
+    {
+        "skill": "Pipetting",
+        "synonyms": "Liquid Handling, Laboratory Technique",
+        "parent_skill": "Laboratory Science"
+    },
+    {
+        "skill": "Plasmid Isolation",
+        "synonyms": "DNA Plasmid Extraction, Plasmid Purification",
+        "parent_skill": "Molecular Biology, Genetics"
+    },
+    {
+        "skill": "Point of Care",
+        "synonyms": "POC Testing, Bedside Diagnostics",
+        "parent_skill": "Healthcare, Clinical Research"
+    },
+    {
+        "skill": "Positron Emission Tomography",
+        "synonyms": "PET, Functional Imaging",
+        "parent_skill": "Medical Imaging"
+    },
+    {
+        "skill": "Prescription Drugs",
+        "synonyms": "Medications, Prescribed Pharmaceuticals",
+        "parent_skill": "Pharmacy, Healthcare"
+    },
+    {
+        "skill": "Preventive Maintenance",
+        "synonyms": "Equipment Maintenance, System Upkeep",
+        "parent_skill": "Engineering, Quality Assurance"
+    },
+    {
+        "skill": "Protein Aggregation",
+        "synonyms": "Misfolded Proteins, Amyloid Formation",
+        "parent_skill": "Biochemistry, Molecular Biology"
+    },
+    {
+        "skill": "Protein Chemistry",
+        "synonyms": "Protein Structure Analysis, Protein Biochemistry",
+        "parent_skill": "Biochemistry"
+    },
+    {
+        "skill": "Protein Chromatography",
+        "synonyms": "Protein Separation, Protein Purification",
+        "parent_skill": "Laboratory Science, Biochemistry"
+    },
+    {
+        "skill": "Protein Crystallization",
+        "synonyms": "Protein Structure Determination, Crystal Growth",
+        "parent_skill": "Biophysics, Molecular Biology"
+    },
+    {
+        "skill": "Protein Expression",
+        "synonyms": "Recombinant Protein Production, Protein Synthesis",
+        "parent_skill": "Biochemistry, Biotechnology"
+    },
+    {
+        "skill": "Protein Folding",
+        "synonyms": "Protein Structure Formation, Biophysical Studies",
+        "parent_skill": "Biochemistry, Molecular Biology"
+    },
+    {
+        "skill": "Protein Kinases",
+        "synonyms": "Enzyme Kinases, Kinase Activity",
+        "parent_skill": "Biochemistry, Molecular Biology"
+    },
+    {
+        "skill": "Protein Purification",
+        "synonyms": "Protein Separation, Protein Isolation",
+        "parent_skill": "Biochemistry, Laboratory Science"
+    },
+    {
+        "skill": "PSUR (Periodic Safety Update Report)",
+        "synonyms": "Drug Safety Reports, Pharmacovigilance Updates",
+        "parent_skill": "Regulatory Affairs, Pharmaceuticals"
+    },
+    {
+        "skill": "Psychiatry",
+        "synonyms": "Mental Health Medicine, Psychological Disorders",
+        "parent_skill": "Medicine"
+    },
+    {
+        "skill": "Psychological Assessment",
+        "synonyms": "Cognitive Testing, Behavioral Evaluation",
+        "parent_skill": "Psychology"
+    },
+    {
+        "skill": "Psychology",
+        "synonyms": "Human Behavior Studies, Mental Processes",
+        "parent_skill": "Social Science"
+    },
+    {
+        "skill": "Psychometrics",
+        "synonyms": "Psychological Testing, Behavioral Measurements",
+        "parent_skill": "Psychology"
+    },
+    {
+        "skill": "Psycho-oncology",
+        "synonyms": "Psychological Cancer Care, Psychosocial Oncology",
+        "parent_skill": "Oncology, Psychology"
+    },
+    {
+        "skill": "Psychopharmacology",
+        "synonyms": "Psychiatric Drug Studies, CNS Pharmacology",
+        "parent_skill": "Pharmacology, Psychiatry"
+    },
+    {
+        "skill": "Psychosocial Rehabilitation",
+        "synonyms": "Behavioral Therapy, Social Rehabilitation",
+        "parent_skill": "Psychology, Rehabilitation Medicine"
+    },
+    {
+        "skill": "Psychotherapy",
+        "synonyms": "Talk Therapy, Behavioral Therapy",
+        "parent_skill": "Psychiatry, Psychology"
+    },
+    {
+        "skill": "Pulmonary Diseases",
+        "synonyms": "Lung Diseases, Respiratory Disorders",
+        "parent_skill": "Pulmonology, Medicine"
+    },
+    {
+        "skill": "Pulmonary Hypertension",
+        "synonyms": "High Blood Pressure in Lungs, Pulmonary Arterial Hypertension",
+        "parent_skill": "Pulmonology"
+    },
+    {
+        "skill": "Pulmonary Rehabilitation",
+        "synonyms": "Lung Rehab, Respiratory Therapy",
+        "parent_skill": "Rehabilitation Medicine, Pulmonology"
+    },
+    {
+        "skill": "Pulmonology",
+        "synonyms": "Lung Medicine, Respiratory Health",
+        "parent_skill": "Medicine"
+    },
+    {
+        "skill": "Purification",
+        "synonyms": "Separation Techniques, Material Isolation",
+        "parent_skill": "Laboratory Science, Chemistry"
+    },
+    {
+        "skill": "qRT-PCR",
+        "synonyms": "Quantitative Reverse Transcription PCR, RNA Quantification",
+        "parent_skill": "Molecular Biology, Laboratory Science"
+    },
+    {
+        "skill": "Radiation Safety",
+        "synonyms": "Radiological Protection, Radiation Exposure Management",
+        "parent_skill": "Medical Physics, Healthcare"
+    },
+    {
+        "skill": "Radiation Therapy",
+        "synonyms": "Radiotherapy, Cancer Radiation Treatment",
+        "parent_skill": "Oncology, Medical Imaging"
+    },
+    {
+        "skill": "Radiographic Testing",
+        "synonyms": "X-Ray Testing, Non-Destructive Testing",
+        "parent_skill": "Medical Imaging, Quality Assurance"
+    },
+    {
+        "skill": "Radiology",
+        "synonyms": "Diagnostic Imaging, X-Ray Imaging",
+        "parent_skill": "Medical Imaging"
+    },
+    {
+        "skill": "Rare Diseases",
+        "synonyms": "Orphan Diseases, Rare Medical Conditions",
+        "parent_skill": "Medicine, Healthcare"
+    },
+    {
+        "skill": "Registered Nurses",
+        "synonyms": "RNs, Licensed Nurses",
+        "parent_skill": "Nursing, Healthcare"
+    },
+    {
+        "skill": "Regulations",
+        "synonyms": "Compliance Standards, Regulatory Laws",
+        "parent_skill": "Regulatory Affairs"
+    },
+    {
+        "skill": "Regulatory Compliance",
+        "synonyms": "Compliance Management, Standards Adherence",
+        "parent_skill": "Regulatory Affairs"
+    },
+    {
+        "skill": "Regulatory Documentation",
+        "synonyms": "Compliance Reports, Submission Dossiers",
+        "parent_skill": "Regulatory Affairs"
+    },
+    {
+        "skill": "Regulatory Examinations",
+        "synonyms": "Regulatory Audits, Compliance Testing",
+        "parent_skill": "Regulatory Affairs"
+    },
+    {
+        "skill": "Regulatory Guidelines",
+        "synonyms": "Compliance Standards, Regulatory Framework",
+        "parent_skill": "Regulatory Affairs"
+    },
+    {
+        "skill": "Regulatory Requirements",
+        "synonyms": "Compliance Rules, Regulatory Standards",
+        "parent_skill": "Regulatory Affairs"
+    },
+    {
+        "skill": "Rehabilitation",
+        "synonyms": "Physical Recovery, Functional Restoration",
+        "parent_skill": "Medicine"
+    },
+    {
+        "skill": "Reproductive Health",
+        "synonyms": "Sexual Health, Fertility Care",
+        "parent_skill": "Medicine, Public Health"
+    },
+    {
+        "skill": "Reproductive Justice",
+        "synonyms": "Reproductive Rights, Health Equity",
+        "parent_skill": "Public Health, Social Justice"
+    },
+    {
+        "skill": "Restriction Enzymes",
+        "synonyms": "Restriction Endonucleases, DNA Cleaving Enzymes",
+        "parent_skill": "Molecular Biology, Biochemistry"
+    },
+    {
+        "skill": "Rheumatoid Arthritis",
+        "synonyms": "RA, Autoimmune Joint Disease",
+        "parent_skill": "Rheumatology, Immunology"
+    },
+    {
+        "skill": "Rheumatology",
+        "synonyms": "Joint and Bone Medicine, Arthritis Studies",
+        "parent_skill": "Medicine"
+    },
+    {
+        "skill": "RNA",
+        "synonyms": "Ribonucleic Acid, Genetic Material",
+        "parent_skill": "Molecular Biology, Genetics"
+    },
+    {
+        "skill": "RNAi",
+        "synonyms": "RNA Interference, Gene Silencing",
+        "parent_skill": "Molecular Biology, Genetics"
+    },
+    {
+        "skill": "RNAseq",
+        "synonyms": "RNA Sequencing, Transcriptome Analysis",
+        "parent_skill": "Molecular Biology, Bioinformatics"
+    },
+    {
+        "skill": "RNA Biology",
+        "synonyms": "RNA Function Studies, Transcriptomics",
+        "parent_skill": "Molecular Biology, Biochemistry"
+    },
+    {
+        "skill": "RNA Isolation",
+        "synonyms": "RNA Extraction, RNA Purification",
+        "parent_skill": "Molecular Biology, Laboratory Science"
+    },
+    {
+        "skill": "Radioligand Binding",
+        "synonyms": "Receptor Binding Studies, Ligand-Receptor Interactions",
+        "parent_skill": "Molecular Biology, Biochemistry"
+    },
+    {
+        "skill": "Recombinant DNA",
+        "synonyms": "Genetic Engineering, DNA Cloning",
+        "parent_skill": "Molecular Biology, Genetics"
+    },
+    {
+        "skill": "Sarcoma",
+        "synonyms": "Soft Tissue Cancer, Bone Cancer",
+        "parent_skill": "Oncology"
+    },
+    {
+        "skill": "SBRT (Stereotactic Body Radiation Therapy)",
+        "synonyms": "Targeted Radiation Therapy, High-Precision Radiotherapy",
+        "parent_skill": "Oncology, Radiation Therapy"
+    },
+    {
+        "skill": "Scanning Electron Microscopy",
+        "synonyms": "SEM, Surface Imaging",
+        "parent_skill": "Microscopy, Material Science"
+    },
+    {
+        "skill": "Scanning Probe Microscopy",
+        "synonyms": "SPM, Nano-Scale Surface Imaging",
+        "parent_skill": "Microscopy, Nanotechnology"
+    },
+    {
+        "skill": "Scanning Tunneling Microscopy",
+        "synonyms": "STM, Surface Atomic Imaging",
+        "parent_skill": "Microscopy, Nanotechnology"
+    },
+    {
+        "skill": "Sciatica",
+        "synonyms": "Nerve Pain, Lumbar Radiculopathy",
+        "parent_skill": "Neurology, Pain Management"
+    },
+    {
+        "skill": "Science Communication",
+        "synonyms": "Scientific Outreach, Public Science Education",
+        "parent_skill": "Education, Research"
+    },
+    {
+        "skill": "Scientific Computing",
+        "synonyms": "Computational Science, Numerical Analysis",
+        "parent_skill": "IT, Research"
+    },
+    {
+        "skill": "Scientific Papers",
+        "synonyms": "Research Papers, Academic Publications",
+        "parent_skill": "Research, Writing"
+    },
+    {
+        "skill": "Sclerotherapy",
+        "synonyms": "Vein Treatment, Injection Therapy",
+        "parent_skill": "Medicine, Dermatology"
+    },
+    {
+        "skill": "Scoliosis",
+        "synonyms": "Spinal Curvature, Back Disorders",
+        "parent_skill": "Orthopedics, Medicine"
+    },
+    {
+        "skill": "Screening",
+        "synonyms": "Diagnostic Screening, Health Tests",
+        "parent_skill": "Healthcare, Public Health"
+    },
+    {
+        "skill": "SDS (Safety Data Sheet)",
+        "synonyms": "Chemical Safety Sheets, Material Safety Data Sheets",
+        "parent_skill": "Laboratory Science, Safety Compliance"
+    },
+    {
+        "skill": "Sedation",
+        "synonyms": "Anesthesia, Relaxation Therapy",
+        "parent_skill": "Medicine, Pain Management"
+    },
+    {
+        "skill": "Seizure",
+        "synonyms": "Convulsions, Epilepsy",
+        "parent_skill": "Neurology, Medicine"
+    },
+    {
+        "skill": "Selective Mutism",
+        "synonyms": "Anxiety Disorder, Speech Inhibition",
+        "parent_skill": "Psychiatry, Psychology"
+    },
+    {
+        "skill": "Selenium Testing",
+        "synonyms": "Mineral Testing, Selenium Deficiency Testing",
+        "parent_skill": "Biochemistry, Medicine"
+    },
+    {
+        "skill": "Semantic Technologies",
+        "synonyms": "Knowledge Representation, Ontology Development",
+        "parent_skill": "IT, AI"
+    },
+    {
+        "skill": "Semiconductor Industry",
+        "synonyms": "Chip Manufacturing, Semiconductor Engineering",
+        "parent_skill": "Engineering, Electronics"
+    },
+    {
+        "skill": "Sensory Evaluation",
+        "synonyms": "Taste Testing, Sensory Analysis",
+        "parent_skill": "Food Science, Product Development"
+    },
+    {
+        "skill": "Sensory Processing",
+        "synonyms": "Sensory Integration, Neural Sensory Function",
+        "parent_skill": "Neuroscience, Psychology"
+    },
+    {
+        "skill": "Sequence Alignment",
+        "synonyms": "Genomic Alignment, Bioinformatics Tools",
+        "parent_skill": "Molecular Biology, Genetics"
+    },
+    {
+        "skill": "Serial Dilutions",
+        "synonyms": "Dilution Technique, Concentration Adjustment",
+        "parent_skill": "Laboratory Science, Biochemistry"
+    },
+    {
+        "skill": "shRNA",
+        "synonyms": "Short Hairpin RNA, Gene Silencing",
+        "parent_skill": "Genetics, Molecular Biology"
+    },
+    {
+        "skill": "Site-directed Mutagenesis",
+        "synonyms": "Genetic Engineering, Targeted DNA Mutations",
+        "parent_skill": "Molecular Biology, Biochemistry"
+    },
+    {
+        "skill": "siRNA",
+        "synonyms": "Small Interfering RNA, Gene Knockdown",
+        "parent_skill": "Genetics, Molecular Biology"
+    },
+    {
+        "skill": "Six Sigma",
+        "synonyms": "Quality Improvement, Process Optimization",
+        "parent_skill": "Business Management, Engineering"
+    },
+    {
+        "skill": "Sleep Apnea",
+        "synonyms": "Obstructive Sleep Apnea, Breathing Disorders",
+        "parent_skill": "Pulmonology, Sleep Medicine"
+    },
+    {
+        "skill": "Sleep Disorders",
+        "synonyms": "Insomnia, Narcolepsy",
+        "parent_skill": "Sleep Medicine, Psychiatry"
+    },
+    {
+        "skill": "Sleep Medicine",
+        "synonyms": "Sleep Health, Sleep Disorder Treatment",
+        "parent_skill": "Medicine"
+    },
+    {
+        "skill": "Small Molecules",
+        "synonyms": "Low-Molecular-Weight Compounds, Drug Candidates",
+        "parent_skill": "Pharmaceuticals, Chemistry"
+    },
+    {
+        "skill": "Smoking Cessation",
+        "synonyms": "Quitting Smoking, Tobacco Addiction Treatment",
+        "parent_skill": "Public Health, Psychiatry"
+    },
+    {
+        "skill": "SOP (Standard Operating Procedures)",
+        "synonyms": "Operating Guidelines, Protocols",
+        "parent_skill": "Quality Assurance, Business Operations"
+    },
+    {
+        "skill": "SOP Authoring",
+        "synonyms": "SOP Writing, SOP Documentation",
+        "parent_skill": "Quality Assurance, Regulatory Affairs"
+    },
+    {
+        "skill": "SOP Development",
+        "synonyms": "SOP Design, Procedural Development",
+        "parent_skill": "Quality Assurance"
+    },
+    {
+        "skill": "SDS-PAGE (Sodium Dodecyl Sulfate\u2013Polyacrylamide Gel Electrophoresis)",
+        "synonyms": "Protein Separation, Electrophoretic Analysis",
+        "parent_skill": "Biochemistry, Laboratory Science"
+    },
+    {
+        "skill": "Spectroscopy",
+        "synonyms": "Spectrometric Analysis, Optical Spectroscopy",
+        "parent_skill": "Analytical Chemistry, Biophysics"
+    },
+    {
+        "skill": "Southern Blot",
+        "synonyms": "DNA Hybridization, DNA Analysis",
+        "parent_skill": "Molecular Biology, Genetics"
+    },
+    {
+        "skill": "Spirometry",
+        "synonyms": "Lung Function Test, Respiratory Assessment",
+        "parent_skill": "Pulmonology, Healthcare"
+    },
+    {
+        "skill": "Sports Medicine",
+        "synonyms": "Athletic Health, Injury Prevention",
+        "parent_skill": "Medicine, Rehabilitation Medicine"
+    },
+    {
+        "skill": "Spray Drying",
+        "synonyms": "Powder Production, Drying Technology",
+        "parent_skill": "Pharmaceuticals, Food Science"
+    },
+    {
+        "skill": "Stem Cells",
+        "synonyms": "Pluripotent Cells, Adult Stem Cells",
+        "parent_skill": "Cell Biology, Regenerative Medicine"
+    },
+    {
+        "skill": "Stem Cell Research",
+        "synonyms": "Regenerative Cell Studies, Stem Cell Therapy",
+        "parent_skill": "Research, Medicine"
+    },
+    {
+        "skill": "Statistical Modeling",
+        "synonyms": "Predictive Modeling, Quantitative Analysis",
+        "parent_skill": "Data Science, Statistics"
+    },
+    {
+        "skill": "Statistical Data Analysis",
+        "synonyms": "Data Interpretation, Statistical Testing",
+        "parent_skill": "Data Science, Research"
+    },
+    {
+        "skill": "Sterilization",
+        "synonyms": "Microbial Elimination, Aseptic Processing",
+        "parent_skill": "Healthcare, Laboratory Science"
+    },
+    {
+        "skill": "Sustainable Agriculture",
+        "synonyms": "Eco-Friendly Farming, Organic Farming Practices",
+        "parent_skill": "Agriculture, Environmental Science"
+    },
+    {
+        "skill": "Sustainable Development",
+        "synonyms": "Green Development, Eco-Initiatives",
+        "parent_skill": "Environmental Science, Public Policy"
+    },
+    {
+        "skill": "Sustainable Energy",
+        "synonyms": "Renewable Energy, Clean Energy Solutions",
+        "parent_skill": "Energy, Environmental Science"
+    },
+    {
+        "skill": "Synthetic Biology",
+        "synonyms": "Genetic Circuit Engineering, Biological Design",
+        "parent_skill": "Molecular Biology, Biotechnology"
+    },
+    {
+        "skill": "Sustainable Transport",
+        "synonyms": "Eco-Transportation, Green Mobility",
+        "parent_skill": "Environmental Science, Engineering"
+    },
+    {
+        "skill": "Supply Chain Optimization",
+        "synonyms": "Logistics Optimization, Supply Chain Efficiency",
+        "parent_skill": "Business Operations"
+    },
+    {
+        "skill": "Sustainability Consulting",
+        "synonyms": "Eco-Advisory, Environmental Consulting",
+        "parent_skill": "Environmental Science, Business"
+    },
+    {
+        "skill": "Systems Thinking",
+        "synonyms": "Holistic Analysis, Systemic Problem Solving",
+        "parent_skill": "Business Management, Engineering"
+    },
+    {
+        "skill": "Synthetic Organic Chemistry",
+        "synonyms": "Organic Compound Synthesis, Synthetic Methods",
+        "parent_skill": "Chemistry"
+    },
+    {
+        "skill": "Sustainable Architecture",
+        "synonyms": "Green Building Design, Eco-Friendly Construction",
+        "parent_skill": "Architecture, Environmental Science"
+    },
+    {
+        "skill": "Surveillance Detection",
+        "synonyms": "Security Monitoring, Threat Identification",
+        "parent_skill": "Cybersecurity, Public Safety"
+    },
+    {
+        "skill": "Surveillance Detection",
+        "synonyms": "Threat Identification, Security Monitoring",
+        "parent_skill": "Cybersecurity, Public Safety"
+    },
+    {
+        "skill": "Surgical Oncology",
+        "synonyms": "Cancer Surgery, Tumor Surgery",
+        "parent_skill": "Oncology, Surgery"
+    },
+    {
+        "skill": "Surgical Nursing",
+        "synonyms": "Operating Room Nursing, Perioperative Nursing",
+        "parent_skill": "Nursing, Surgery"
+    },
+    {
+        "skill": "Surface Chemistry",
+        "synonyms": "Interfacial Chemistry, Surface Reactions",
+        "parent_skill": "Chemistry, Material Science"
+    },
+    {
+        "skill": "Targeted Drug Delivery",
+        "synonyms": "Precision Drug Delivery, Controlled Release",
+        "parent_skill": "Pharmaceuticals, Medicine"
+    },
+    {
+        "skill": "Tax Compliance",
+        "synonyms": "Tax Filing, Tax Regulations",
+        "parent_skill": "Finance, Business"
+    },
+    {
+        "skill": "Technical Writing",
+        "synonyms": "Scientific Writing, Instructional Writing",
+        "parent_skill": "Writing, Communication"
+    },
+    {
+        "skill": "Therapeutic Crisis Intervention",
+        "synonyms": "Crisis De-escalation, Behavioral Intervention",
+        "parent_skill": "Psychiatry, Social Work"
+    },
+    {
+        "skill": "Therapeutic Massage",
+        "synonyms": "Massage Therapy, Healing Touch",
+        "parent_skill": "Alternative Medicine, Rehabilitation"
+    },
+    {
+        "skill": "Tissue Culture",
+        "synonyms": "Cell Culturing, In Vitro Growth",
+        "parent_skill": "Molecular Biology, Laboratory Science"
+    },
+    {
+        "skill": "Tissue Engineering",
+        "synonyms": "Regenerative Medicine, Biomaterial Development",
+        "parent_skill": "Biotechnology, Medicine"
+    },
+    {
+        "skill": "Thyroid Cancer",
+        "synonyms": "Thyroid Tumors, Endocrine Cancer",
+        "parent_skill": "Oncology, Endocrinology"
+    },
+    {
+        "skill": "Thyroid Surgery",
+        "synonyms": "Thyroidectomy, Endocrine Surgery",
+        "parent_skill": "Surgery, Endocrinology"
+    },
+    {
+        "skill": "Sustainable Energy",
+        "synonyms": "Renewable Energy, Green Energy Solutions",
+        "parent_skill": "Environmental Science, Energy"
+    },
+    {
+        "skill": "Tidal Power",
+        "synonyms": "Ocean Energy, Hydropower",
+        "parent_skill": "Energy, Environmental Science"
+    },
+    {
+        "skill": "Thermal Oxidation",
+        "synonyms": "High-Temperature Oxidation, Thermal Degradation",
+        "parent_skill": "Chemistry, Environmental Science"
+    },
+    {
+        "skill": "Thin Films",
+        "synonyms": "Nano-Coatings, Film Deposition",
+        "parent_skill": "Nanotechnology, Material Science"
+    },
+    {
+        "skill": "Timber Structures",
+        "synonyms": "Wooden Construction, Structural Timber",
+        "parent_skill": "Architecture, Engineering"
+    },
+    {
+        "skill": "Time-efficient",
+        "synonyms": "Efficient Time Management, Time Optimization",
+        "parent_skill": "Business, Productivity"
+    },
+    {
+        "skill": "Tissue Banking",
+        "synonyms": "Biobanking, Biological Storage",
+        "parent_skill": "Medicine, Biotechnology"
+    },
+    {
+        "skill": "Tissue Processing",
+        "synonyms": "Tissue Preparation, Sample Processing",
+        "parent_skill": "Pathology, Laboratory Science"
+    },
+    {
+        "skill": "Thoracic Outlet Syndrome",
+        "synonyms": "TOS, Nerve Compression Syndrome",
+        "parent_skill": "Neurology, Orthopedics"
+    },
+    {
+        "skill": "Titration",
+        "synonyms": "Chemical Quantification, Acid-Base Titration",
+        "parent_skill": "Chemistry, Laboratory Science"
+    },
+    {
+        "skill": "Thermodynamics",
+        "synonyms": "Heat Transfer, Energy Studies",
+        "parent_skill": "Physics, Chemistry"
+    },
+    {
+        "skill": "Tomography",
+        "synonyms": "Cross-Sectional Imaging, 3D Imaging",
+        "parent_skill": "Medical Imaging"
+    },
+    {
+        "skill": "ToF-MS",
+        "synonyms": "Time-of-Flight Mass Spectrometry, TOF Analysis",
+        "parent_skill": "Analytical Chemistry, Biophysics"
+    },
+    {
+        "skill": "Technology Transfer",
+        "synonyms": "Knowledge Transfer, Commercialization",
+        "parent_skill": "Research, Business"
+    },
+    {
+        "skill": "Technology Roadmapping",
+        "synonyms": "Strategic Planning, Innovation Roadmaps",
+        "parent_skill": "Business Management, Technology"
+    },
+    {
+        "skill": "Technical Documentation",
+        "synonyms": "Instruction Manuals, Product Documentation",
+        "parent_skill": "Writing, IT"
+    },
+    {
+        "skill": "Testing",
+        "synonyms": "Test Execution, Quality Testing",
+        "parent_skill": "Quality Assurance, IT"
+    },
+    {
+        "skill": "Test Automation",
+        "synonyms": "Automated Testing, Scripted Testing",
+        "parent_skill": "IT, Software Development"
+    },
+    {
+        "skill": "Thorough Research",
+        "synonyms": "In-Depth Study, Detailed Analysis",
+        "parent_skill": "Research"
+    },
+    {
+        "skill": "Three.js",
+        "synonyms": "WebGL Framework, 3D Web Graphics",
+        "parent_skill": "IT, Graphics Development"
+    },
+    {
+        "skill": "Toxicity",
+        "synonyms": "Chemical Toxicity, Biological Toxicity",
+        "parent_skill": "Toxicology, Environmental Science"
+    },
+    {
+        "skill": "Toxicogenomics",
+        "synonyms": "Toxicity Genomics, Genomic Toxicology",
+        "parent_skill": "Toxicology, Molecular Biology"
+    },
+    {
+        "skill": "Toxicokinetics",
+        "synonyms": "Toxic Compound Distribution, Pharmacokinetics",
+        "parent_skill": "Toxicology, Pharmacology"
+    },
+    {
+        "skill": "Toxicologic Pathology",
+        "synonyms": "Pathological Toxicity Studies, Toxin Pathology",
+        "parent_skill": "Pathology, Toxicology"
+    },
+    {
+        "skill": "Toxicology",
+        "synonyms": "Study of Toxins, Poison Research",
+        "parent_skill": "Medicine, Environmental Science"
+    },
+    {
+        "skill": "Toxins",
+        "synonyms": "Poisonous Compounds, Toxic Substances",
+        "parent_skill": "Chemistry, Biology"
+    },
+    {
+        "skill": "Transcranial Magnetic Stimulation",
+        "synonyms": "TMS, Neuromodulation",
+        "parent_skill": "Neurology, Psychiatry"
+    },
+    {
+        "skill": "Transesophageal Echocardiography",
+        "synonyms": "TEE, Heart Ultrasound",
+        "parent_skill": "Medical Imaging, Cardiology"
+    },
+    {
+        "skill": "Traumatic Brain Injury",
+        "synonyms": "TBI, Brain Trauma",
+        "parent_skill": "Neurology, Emergency Medicine"
+    },
+    {
+        "skill": "Treatment",
+        "synonyms": "Therapy, Medical Care",
+        "parent_skill": "Medicine"
+    },
+    {
+        "skill": "Trials",
+        "synonyms": "Clinical Studies, Research Trials",
+        "parent_skill": "Clinical Research"
+    },
+    {
+        "skill": "Tumor Immunology",
+        "synonyms": "Cancer Immunology, Tumor Microenvironment",
+        "parent_skill": "Oncology, Immunology"
+    },
+    {
+        "skill": "Tropical Diseases",
+        "synonyms": "Neglected Tropical Diseases, Infectious Diseases",
+        "parent_skill": "Public Health, Medicine"
+    },
+    {
+        "skill": "Tropical Medicine",
+        "synonyms": "Disease in Tropical Regions, Tropical Health",
+        "parent_skill": "Public Health, Infectious Diseases"
+    },
+    {
+        "skill": "TSCA",
+        "synonyms": "Toxic Substances Control Act, Chemical Regulation",
+        "parent_skill": "Regulatory Affairs"
+    },
+    {
+        "skill": "TUNEL",
+        "synonyms": "DNA Fragmentation Assay, Apoptosis Testing",
+        "parent_skill": "Molecular Biology, Laboratory Science"
+    },
+    {
+        "skill": "Urology",
+        "synonyms": "Urinary Tract Medicine, Male Reproductive Health",
+        "parent_skill": "Medicine"
+    },
+    {
+        "skill": "Ultrasound",
+        "synonyms": "Sonography, Ultrasonic Imaging",
+        "parent_skill": "Medical Imaging"
+    },
+    {
+        "skill": "Ultrasonics",
+        "synonyms": "High-Frequency Sound, Ultrasonic Applications",
+        "parent_skill": "Physics, Engineering"
+    },
+    {
+        "skill": "Ultrasonic Testing",
+        "synonyms": "Non-Destructive Testing, Ultrasonic Inspection",
+        "parent_skill": "Engineering, Quality Assurance"
+    },
+    {
+        "skill": "Urinalysis",
+        "synonyms": "Urine Testing, Urine Analysis",
+        "parent_skill": "Laboratory Science, Medicine"
+    },
+    {
+        "skill": "Urodynamics",
+        "synonyms": "Bladder Function Testing, Urinary System Testing",
+        "parent_skill": "Urology, Medicine"
+    },
+    {
+        "skill": "Urogynecology",
+        "synonyms": "Female Pelvic Medicine, Urinary Disorders",
+        "parent_skill": "Gynecology, Urology"
+    },
+    {
+        "skill": "Urgent Care",
+        "synonyms": "Immediate Healthcare, Walk-In Medicine",
+        "parent_skill": "Medicine, Healthcare"
+    },
+    {
+        "skill": "User Research",
+        "synonyms": "UX Research, User Experience Studies",
+        "parent_skill": "IT, Business"
+    },
+    {
+        "skill": "Use Case Analysis",
+        "synonyms": "Scenario Analysis, Business Case Development",
+        "parent_skill": "Business, IT"
+    },
+    {
+        "skill": "USP (United States Pharmacopeia)",
+        "synonyms": "Pharmaceutical Standards, Drug Quality Guidelines",
+        "parent_skill": "Regulatory Affairs, Pharmaceuticals"
+    },
+    {
+        "skill": "Vaccinations",
+        "synonyms": "Immunization, Vaccine Administration",
+        "parent_skill": "Medicine, Public Health"
+    },
+    {
+        "skill": "Vaccines",
+        "synonyms": "Immunizations, Preventive Medicine",
+        "parent_skill": "Medicine, Immunology"
+    },
+    {
+        "skill": "Validation",
+        "synonyms": "Process Verification, Equipment Qualification",
+        "parent_skill": "Quality Assurance, Regulatory Affairs"
+    },
+    {
+        "skill": "Vascular",
+        "synonyms": "Blood Vessels, Circulatory System",
+        "parent_skill": "Medicine, Anatomy"
+    },
+    {
+        "skill": "Vascular Biology",
+        "synonyms": "Blood Vessel Studies, Angiology",
+        "parent_skill": "Biology, Medicine"
+    },
+    {
+        "skill": "Vascular Medicine",
+        "synonyms": "Circulatory Medicine, Vascular Health",
+        "parent_skill": "Medicine"
+    },
+    {
+        "skill": "Vascular Surgery",
+        "synonyms": "Blood Vessel Surgery, Artery Repair Surgery",
+        "parent_skill": "Surgery, Medicine"
+    },
+    {
+        "skill": "Vasectomy",
+        "synonyms": "Male Sterilization, Contraceptive Surgery",
+        "parent_skill": "Urology, Surgery"
+    },
+    {
+        "skill": "Venipuncture",
+        "synonyms": "Phlebotomy, Blood Draw",
+        "parent_skill": "Nursing, Laboratory Science"
+    },
+    {
+        "skill": "Ventilators",
+        "synonyms": "Respiratory Support Machines, Mechanical Ventilation",
+        "parent_skill": "Medicine, Critical Care"
+    },
+    {
+        "skill": "Viral Hepatitis",
+        "synonyms": "Liver Infection, Hepatitis B and C",
+        "parent_skill": "Infectious Diseases, Medicine"
+    },
+    {
+        "skill": "Viral Vectors",
+        "synonyms": "Gene Delivery Systems, Recombinant Viruses",
+        "parent_skill": "Molecular Biology, Biotechnology"
+    },
+    {
+        "skill": "Virology",
+        "synonyms": "Viral Studies, Virus Research",
+        "parent_skill": "Microbiology, Medicine"
+    },
+    {
+        "skill": "Vitamins",
+        "synonyms": "Nutritional Supplements, Essential Nutrients",
+        "parent_skill": "Nutrition, Healthcare"
+    },
+    {
+        "skill": "Vivarium",
+        "synonyms": "Animal Research Facility, Controlled Environment",
+        "parent_skill": "Laboratory Science, Zoology"
+    },
+    {
+        "skill": "Waste Management",
+        "synonyms": "Waste Disposal, Refuse Management",
+        "parent_skill": "Environmental Science"
+    },
+    {
+        "skill": "Wastewater Treatment",
+        "synonyms": "Water Purification, Effluent Treatment",
+        "parent_skill": "Environmental Science, Engineering"
+    },
+    {
+        "skill": "Waste Disposal",
+        "synonyms": "Trash Removal, Waste Elimination",
+        "parent_skill": "Environmental Science"
+    },
+    {
+        "skill": "Waste Reduction",
+        "synonyms": "Zero Waste, Waste Minimization",
+        "parent_skill": "Environmental Science"
+    },
+    {
+        "skill": "Waste to Energy",
+        "synonyms": "Energy Recovery, Waste Conversion",
+        "parent_skill": "Environmental Science, Energy"
+    },
+    {
+        "skill": "Waste Treatment",
+        "synonyms": "Pollution Control, Waste Processing",
+        "parent_skill": "Environmental Science"
+    },
+    {
+        "skill": "Waste Water Treatment Plants",
+        "synonyms": "Effluent Treatment Plants, Water Purification Plants",
+        "parent_skill": "Environmental Engineering"
+    },
+    {
+        "skill": "Water Quality",
+        "synonyms": "Water Purity, Water Health",
+        "parent_skill": "Environmental Science"
+    },
+    {
+        "skill": "Water Resources",
+        "synonyms": "Water Management, Hydrology",
+        "parent_skill": "Environmental Science, Public Policy"
+    },
+    {
+        "skill": "Water Sampling",
+        "synonyms": "Water Testing, Aquatic Sample Collection",
+        "parent_skill": "Environmental Science"
+    },
+    {
+        "skill": "Water Treatment",
+        "synonyms": "Water Purification, Filtration Systems",
+        "parent_skill": "Environmental Science"
+    },
+    {
+        "skill": "Wellbeing",
+        "synonyms": "Mental and Physical Health, Quality of Life",
+        "parent_skill": "Public Health"
+    },
+    {
+        "skill": "Wellness",
+        "synonyms": "Health Promotion, Holistic Health",
+        "parent_skill": "Public Health, Healthcare"
+    },
+    {
+        "skill": "Wellness Coaching",
+        "synonyms": "Health Coaching, Lifestyle Guidance",
+        "parent_skill": "Public Health, Counseling"
+    },
+    {
+        "skill": "Western Blotting",
+        "synonyms": "Protein Analysis, Immunoblotting",
+        "parent_skill": "Molecular Biology, Laboratory Science"
+    },
+    {
+        "skill": "Wet Chemistry",
+        "synonyms": "Analytical Chemistry, Bench Chemistry",
+        "parent_skill": "Chemistry, Laboratory Science"
+    },
+    {
+        "skill": "Wet Lab",
+        "synonyms": "Experimental Lab, Chemical Lab",
+        "parent_skill": "Laboratory Science"
+    },
+    {
+        "skill": "Wheat",
+        "synonyms": "Grain Studies, Cereal Science",
+        "parent_skill": "Agriculture"
+    },
+    {
+        "skill": "Wilderness Medicine",
+        "synonyms": "Outdoor Medicine, Remote Area Healthcare",
+        "parent_skill": "Medicine, Emergency Medicine"
+    },
+    {
+        "skill": "Wildlife Biology",
+        "synonyms": "Animal Ecology, Conservation Science",
+        "parent_skill": "Biology, Environmental Science"
+    },
+    {
+        "skill": "Wildlife Conservation",
+        "synonyms": "Biodiversity Protection, Habitat Preservation",
+        "parent_skill": "Environmental Science, Biology"
+    },
+    {
+        "skill": "Women\u2019s Health",
+        "synonyms": "Female Health, Reproductive Health",
+        "parent_skill": "Medicine, Public Health"
+    },
+    {
+        "skill": "Wound Care",
+        "synonyms": "Injury Treatment, Wound Healing",
+        "parent_skill": "Nursing, Medicine"
+    },
+    {
+        "skill": "X-ray",
+        "synonyms": "Radiography, Medical Imaging",
+        "parent_skill": "Medical Imaging"
+    },
+    {
+        "skill": "X-ray Absorption Spectroscopy",
+        "synonyms": "XAS, Elemental Analysis",
+        "parent_skill": "Analytical Chemistry, Material Science"
+    },
+    {
+        "skill": "X-ray Crystallography",
+        "synonyms": "Crystal Structure Analysis, Molecular Imaging",
+        "parent_skill": "Biophysics, Chemistry"
+    },
+    {
+        "skill": "X-ray Diffraction Analysis",
+        "synonyms": "XRD, Crystal Structure Determination",
+        "parent_skill": "Analytical Chemistry, Material Science"
+    },
+    {
+        "skill": "X-ray Diffractometry",
+        "synonyms": "XRD Techniques, Crystal Diffractometry",
+        "parent_skill": "Analytical Chemistry, Physics"
+    },
+    {
+        "skill": "X-ray Microanalysis",
+        "synonyms": "Micro-X-ray Analysis, Elemental Microanalysis",
+        "parent_skill": "Analytical Chemistry, Material Science"
+    },
+    {
+        "skill": "X-ray Spectroscopy",
+        "synonyms": "X-ray Absorption Analysis, Spectrometric X-ray Studies",
+        "parent_skill": "Analytical Chemistry, Material Science"
+    },
+    {
+        "skill": "XRF",
+        "synonyms": "X-ray Fluorescence, Elemental Analysis",
+        "parent_skill": "Analytical Chemistry, Material Science"
+    },
+    {
+        "skill": "Yeast",
+        "synonyms": "Saccharomyces, Microbial Culturing",
+        "parent_skill": "Microbiology, Biotechnology"
+    },
+    {
+        "skill": "Yeast Two-Hybrid",
+        "synonyms": "Protein Interaction Analysis, Genetic Screening",
+        "parent_skill": "Molecular Biology, Genetics"
+    },
+    {
+        "skill": "Zebrafish",
+        "synonyms": "Danio rerio, Model Organism Research",
+        "parent_skill": "Molecular Biology, Developmental Biology"
+    },
+    {
+        "skill": "Zymography",
+        "synonyms": "Enzyme Activity Analysis, Gel-Based Enzyme Assays",
+        "parent_skill": "Molecular Biology, Biochemistry"
+    },
+    {
+        "skill": "Therapeutic Areas",
+        "synonyms": "Disease Specialties, Medical Focus Areas",
+        "parent_skill": "Medicine, Healthcare"
+    },
+    {
+        "skill": "Multiple Therapeutic Areas",
+        "synonyms": "Cross-Disease Focus, Broad Medical Expertise",
+        "parent_skill": "Medicine, Pharmaceuticals"
+    },
+    {
+        "skill": "Argus Safety",
+        "synonyms": "Pharmacovigilance Software, Drug Safety Monitoring",
+        "parent_skill": "Regulatory Affairs, IT"
+    },
+    {
+        "skill": "Advanced Therapy Medicinal Products (ATMPs)",
+        "synonyms": "Cell and Gene Therapies, Regenerative Medicines",
+        "parent_skill": "Biotechnology, Medicine"
+    },
+    {
+        "skill": "Bioanalytical Techniques",
+        "synonyms": "Biological Analysis Methods, Analytical Biochemistry",
+        "parent_skill": "Biochemistry, Laboratory Science"
+    },
+    {
+        "skill": "Biosimilars Development",
+        "synonyms": "Generic Biologics, Biologic Drug Development",
+        "parent_skill": "Pharmaceuticals, Biotechnology"
+    },
+    {
+        "skill": "Cell Therapy",
+        "synonyms": "Cellular Therapeutics, Stem Cell Therapy",
+        "parent_skill": "Medicine, Regenerative Medicine"
+    },
+    {
+        "skill": "Clinical Data Analysis",
+        "synonyms": "Clinical Trial Data Review, Medical Data Insights",
+        "parent_skill": "Clinical Research, Data Science"
+    },
+    {
+        "skill": "Clinical Endpoint Adjudication",
+        "synonyms": "Outcome Validation, Trial Endpoint Verification",
+        "parent_skill": "Clinical Research, Regulatory Affairs"
+    },
+    {
+        "skill": "Combination Products",
+        "synonyms": "Drug-Device Combinations, Biologic Combinations",
+        "parent_skill": "Pharmaceuticals, Medical Devices"
+    },
+    {
+        "skill": "Computational Genomics",
+        "synonyms": "Genomic Data Analysis, Bioinformatics",
+        "parent_skill": "Genetics, Data Science"
+    },
+    {
+        "skill": "Continuous Manufacturing in Pharmaceuticals",
+        "synonyms": "Pharma Process Continuity, Continuous Drug Production",
+        "parent_skill": "Manufacturing, Pharmaceuticals"
+    },
+    {
+        "skill": "CRISPR-Cas9 Gene Editing",
+        "synonyms": "Gene Editing, CRISPR Technology",
+        "parent_skill": "Genetics, Biotechnology"
+    },
+    {
+        "skill": "Data Integrity (FDA 21 CFR Part 11)",
+        "synonyms": "Compliance Data Integrity, FDA Data Standards",
+        "parent_skill": "Regulatory Affairs, IT"
+    },
+    {
+        "skill": "Data Visualization for Scientific Applications",
+        "synonyms": "Scientific Graphics, Visual Data Interpretation",
+        "parent_skill": "Data Science, Research"
+    },
+    {
+        "skill": "Design of Experiments (DOE)",
+        "synonyms": "Experimental Design, Statistical Experimentation",
+        "parent_skill": "Research, Data Science"
+    },
+    {
+        "skill": "Digital Biomarkers",
+        "synonyms": "Virtual Health Markers, Biometric Monitoring",
+        "parent_skill": "Medicine, Digital Health"
+    },
+    {
+        "skill": "Digital Therapeutics",
+        "synonyms": "Digital Health Tools, App-Based Therapies",
+        "parent_skill": "Medicine, Healthcare"
+    },
+    {
+        "skill": "Drug Repurposing",
+        "synonyms": "Drug Repositioning, New Use Discovery",
+        "parent_skill": "Pharmaceuticals, Clinical Research"
+    },
+    {
+        "skill": "eCTD (Electronic Common Technical Document)",
+        "synonyms": "Regulatory Submissions, Digital CTD Files",
+        "parent_skill": "Regulatory Affairs"
+    },
+    {
+        "skill": "Electronic Lab Notebooks (ELN)",
+        "synonyms": "Lab Data Digitization, ELN Platforms",
+        "parent_skill": "IT, Laboratory Science"
+    },
+    {
+        "skill": "Environmental Pharmacology",
+        "synonyms": "Ecopharmacology, Drug Impact on Environment",
+        "parent_skill": "Pharmacology, Environmental Science"
+    },
+    {
+        "skill": "Good Automated Manufacturing Practices (GAMP)",
+        "synonyms": "Automation Compliance, GMP for Automated Systems",
+        "parent_skill": "Regulatory Affairs, IT"
+    },
+    {
+        "skill": "Good Distribution Practices (GDP)",
+        "synonyms": "Supply Chain Compliance, Distribution Standards",
+        "parent_skill": "Regulatory Affairs"
+    },
+    {
+        "skill": "Health Technology Assessment (HTA)",
+        "synonyms": "Medical Technology Review, Value Assessments",
+        "parent_skill": "Healthcare, Public Policy"
+    },
+    {
+        "skill": "Human Factors Engineering (HFE) in Medical Devices",
+        "synonyms": "Usability Engineering, Device Interaction Design",
+        "parent_skill": "Engineering, Medical Devices"
+    },
+    {
+        "skill": "Immuno-Oncology",
+        "synonyms": "Cancer Immunotherapy, Tumor Immunology",
+        "parent_skill": "Oncology, Immunology"
+    },
+    {
+        "skill": "Lifecycle Management for Pharmaceuticals",
+        "synonyms": "Drug Lifecycle Planning, Pharma Lifecycle Strategies",
+        "parent_skill": "Pharmaceuticals"
+    },
+    {
+        "skill": "Mass Spectrometry Imaging (MSI)",
+        "synonyms": "MS-Based Imaging, Spatial Proteomics",
+        "parent_skill": "Analytical Chemistry, Biophysics"
+    },
+    {
+        "skill": "Metabolomics",
+        "synonyms": "Metabolic Profiling, Small Molecule Analysis",
+        "parent_skill": "Biochemistry, Molecular Biology"
+    },
+    {
+        "skill": "Microbiome Research",
+        "synonyms": "Gut Microbiome Studies, Microbial Ecology",
+        "parent_skill": "Microbiology, Medicine"
+    },
+    {
+        "skill": "Molecular Docking",
+        "synonyms": "Drug-Receptor Binding, Computational Docking",
+        "parent_skill": "Computational Biology, Drug Design"
+    },
+    {
+        "skill": "Multi-Omics Data Integration",
+        "synonyms": "Genomic Data Fusion, Systems Biology",
+        "parent_skill": "Bioinformatics, Data Science"
+    },
+    {
+        "skill": "Next-Generation Sequencing (NGS)",
+        "synonyms": "Genomic Sequencing, High-Throughput DNA Sequencing",
+        "parent_skill": "Genetics, Bioinformatics"
+    },
+    {
+        "skill": "Non-Clinical Development",
+        "synonyms": "Preclinical Research, Non-Human Studies",
+        "parent_skill": "Research, Pharmaceuticals"
+    },
+    {
+        "skill": "Pharmaceutical Product Lifecycle Management",
+        "synonyms": "Drug Lifecycle Strategies, Pharma Lifecycle Oversight",
+        "parent_skill": "Pharmaceuticals"
+    },
+    {
+        "skill": "Pharmacogenomics",
+        "synonyms": "Drug-Gene Interactions, Personalized Medicine",
+        "parent_skill": "Genetics, Pharmacology"
+    },
+    {
+        "skill": "Process Analytical Technology (PAT)",
+        "synonyms": "Real-Time Process Monitoring, Pharma Process Tools",
+        "parent_skill": "Manufacturing, Pharmaceuticals"
+    },
+    {
+        "skill": "Real-World Evidence (RWE)",
+        "synonyms": "Real-Life Data, Observational Study Outcomes",
+        "parent_skill": "Clinical Research, Healthcare"
+    },
+    {
+        "skill": "Regulatory CMC (Chemistry, Manufacturing, and Controls)",
+        "synonyms": "Pharma Manufacturing Compliance, Regulatory CMC Submissions",
+        "parent_skill": "Regulatory Affairs, Pharmaceuticals"
+    },
+    {
+        "skill": "Regulatory Intelligence",
+        "synonyms": "Regulatory Trends, Compliance Forecasting",
+        "parent_skill": "Regulatory Affairs"
+    },
+    {
+        "skill": "Risk-Based Monitoring in Clinical Trials",
+        "synonyms": "RBM, Adaptive Trial Monitoring",
+        "parent_skill": "Clinical Research, Quality Assurance"
+    },
+    {
+        "skill": "Scientific Data Management Systems (SDMS)",
+        "synonyms": "Data Repositories, Scientific Data Platforms",
+        "parent_skill": "IT, Laboratory Science"
+    },
+    {
+        "skill": "Single-Use Technologies in Bioprocessing",
+        "synonyms": "Disposable Bioprocess Equipment, Single-Use Systems",
+        "parent_skill": "Biotechnology, Manufacturing"
+    },
+    {
+        "skill": "Target Product Profile (TPP) Development",
+        "synonyms": "Product Vision, Drug Target Profile",
+        "parent_skill": "Pharmaceuticals, Business Strategy"
+    },
+    {
+        "skill": "Theranostics",
+        "synonyms": "Therapy and Diagnostics, Personalized Medicine",
+        "parent_skill": "Medicine, Molecular Imaging"
+    },
+    {
+        "skill": "Transcriptomics",
+        "synonyms": "RNA Profiling, Gene Expression Studies",
+        "parent_skill": "Molecular Biology, Bioinformatics"
+    },
+    {
+        "skill": "Vaccine Development",
+        "synonyms": "Immunization Development, Vaccine R&D",
+        "parent_skill": "Medicine, Immunology"
+    },
+    {
+        "skill": "Virtual and Augmented Reality in Life Sciences",
+        "synonyms": "VR/AR Applications, Immersive Technologies",
+        "parent_skill": "IT, Healthcare"
+    },
+    {
+        "skill": "Wearable Medical Devices",
+        "synonyms": "Health Wearables, Digital Health Devices",
+        "parent_skill": "Medicine, Digital Health"
+    },
+    {
+        "skill": "3D Bioprinting",
+        "synonyms": "Biofabrication, Tissue Printing",
+        "parent_skill": "Biotechnology, Regenerative Medicine"
+    },
+    {
+        "skill": "Advanced Imaging Techniques (e.g., Super-Resolution Microscopy)",
+        "synonyms": "High-Resolution Imaging, Enhanced Microscopy",
+        "parent_skill": "Medical Imaging, Laboratory Science"
+    },
+    {
+        "skill": "Artificial Intelligence in Drug Discovery",
+        "synonyms": "AI-Powered Drug Development, Machine Learning for Drug Discovery",
+        "parent_skill": "AI, Pharmaceuticals"
+    },
+    {
+        "skill": "Bioorthogonal Chemistry",
+        "synonyms": "Click Chemistry, Non-Disruptive Reactions",
+        "parent_skill": "Chemistry, Molecular Biology"
+    },
+    {
+        "skill": "Chimeric Antigen Receptor (CAR) T-Cell Therapy",
+        "synonyms": "CAR-T Therapy, Cellular Immunotherapy",
+        "parent_skill": "Oncology, Immunology"
+    },
+    {
+        "skill": "Chemical Biology",
+        "synonyms": "Chemistry in Biology, Small Molecule Interactions",
+        "parent_skill": "Biochemistry, Molecular Biology"
+    },
+    {
+        "skill": "Cryo-Electron Microscopy",
+        "synonyms": "Cryo-EM, High-Resolution Structural Biology",
+        "parent_skill": "Biophysics, Molecular Biology"
+    },
+    {
+        "skill": "Deep Learning for Genomic Analysis",
+        "synonyms": "AI in Genomics, Neural Networks for Genomic Data",
+        "parent_skill": "AI, Bioinformatics"
+    },
+    {
+        "skill": "Induced Pluripotent Stem Cells (iPSCs)",
+        "synonyms": "Reprogrammed Stem Cells, iPSC Technology",
+        "parent_skill": "Regenerative Medicine, Biotechnology"
+    },
+    {
+        "skill": "Organoid Culture Systems",
+        "synonyms": "Mini-Organ Cultures, 3D Tissue Models",
+        "parent_skill": "Molecular Biology, Biotechnology"
+    },
+    {
+        "skill": "Proteomics",
+        "synonyms": "Protein Profiling, Large-Scale Protein Analysis",
+        "parent_skill": "Molecular Biology, Biochemistry"
+    },
+    {
+        "skill": "RNA Therapeutics (e.g., siRNA, mRNA-based drugs)",
+        "synonyms": "RNA-Based Medicines, Gene Silencing Drugs",
+        "parent_skill": "Pharmaceuticals, Molecular Biology"
+    },
+    {
+        "skill": "Big Data Analytics in Life Sciences",
+        "synonyms": "Life Sciences Data Insights, Big Data in Biotech",
+        "parent_skill": "Data Science, Bioinformatics"
+    },
+    {
+        "skill": "Cloud Computing for Biotech",
+        "synonyms": "Cloud Infrastructure, Biotech IT Solutions",
+        "parent_skill": "IT, Biotechnology"
+    },
+    {
+        "skill": "Computational Drug Design",
+        "synonyms": "Drug Modeling, In Silico Drug Discovery",
+        "parent_skill": "Bioinformatics, Pharmaceuticals"
+    },
+    {
+        "skill": "Data Mining for Clinical Trials",
+        "synonyms": "Clinical Data Analysis, Data Exploration",
+        "parent_skill": "Data Science, Clinical Research"
+    },
+    {
+        "skill": "Electronic Patient-Reported Outcomes (ePRO)",
+        "synonyms": "Digital Patient Feedback, ePRO Systems",
+        "parent_skill": "Healthcare, Clinical Research"
+    },
+    {
+        "skill": "Genetic Data Privacy and Security",
+        "synonyms": "Genomic Data Protection, Data Compliance",
+        "parent_skill": "Bioinformatics, IT"
+    },
+    {
+        "skill": "Health Data Standards (e.g., HL7, FHIR)",
+        "synonyms": "Interoperability Standards, Data Exchange Protocols",
+        "parent_skill": "IT, Healthcare"
+    },
+    {
+        "skill": "Machine Learning in Clinical Data Analysis",
+        "synonyms": "AI for Clinical Insights, Predictive Analytics",
+        "parent_skill": "AI, Clinical Research"
+    },
+    {
+        "skill": "Brexit-Related Regulatory Affairs",
+        "synonyms": "Post-Brexit Compliance, UK-EU Regulations",
+        "parent_skill": "Regulatory Affairs"
+    },
+    {
+        "skill": "FDA Breakthrough Therapy Designation",
+        "synonyms": "Accelerated Drug Approval, FDA Fast-Track",
+        "parent_skill": "Regulatory Affairs"
+    },
+    {
+        "skill": "Health Canada Regulatory Pathways",
+        "synonyms": "Canadian Drug Approval Process, HC Compliance",
+        "parent_skill": "Regulatory Affairs"
+    },
+    {
+        "skill": "Regulatory Affairs for Emerging Markets (e.g., BRIC nations)",
+        "synonyms": "Developing Market Compliance, International Regulations",
+        "parent_skill": "Regulatory Affairs"
+    },
+    {
+        "skill": "Regulatory Compliance for Digital Health",
+        "synonyms": "Digital Health Standards, Device Compliance",
+        "parent_skill": "Regulatory Affairs, Digital Health"
+    },
+    {
+        "skill": "Risk Management Plans (RMP)",
+        "synonyms": "Risk Mitigation Plans, Pharmacovigilance Plans",
+        "parent_skill": "Regulatory Affairs, Quality Assurance"
+    },
+    {
+        "skill": "Safety Signal Detection",
+        "synonyms": "Adverse Event Monitoring, Drug Safety Signals",
+        "parent_skill": "Pharmacovigilance, Data Science"
+    },
+    {
+        "skill": "US IND and NDA Submissions",
+        "synonyms": "Investigational New Drug Applications, New Drug Applications",
+        "parent_skill": "Regulatory Affairs, Pharmaceuticals"
+    },
+    {
+        "skill": "Biopharma Sustainability Practices",
+        "synonyms": "Green Pharma Initiatives, Eco-Friendly Biotech",
+        "parent_skill": "Pharmaceuticals, Environmental Science"
+    },
+    {
+        "skill": "Decentralized Clinical Trials",
+        "synonyms": "Virtual Trials, Remote Patient Monitoring",
+        "parent_skill": "Clinical Research, Digital Health"
+    },
+    {
+        "skill": "Health Equity Research",
+        "synonyms": "Equity in Healthcare, Disparities Research",
+        "parent_skill": "Public Health, Social Science"
+    },
+    {
+        "skill": "Medical Cannabis Regulation",
+        "synonyms": "Cannabis Compliance, Medicinal Marijuana Policies",
+        "parent_skill": "Regulatory Affairs, Public Health"
+    },
+    {
+        "skill": "Precision Medicine",
+        "synonyms": "Personalized Medicine, Genomic Medicine",
+        "parent_skill": "Medicine, Genetics"
+    },
+    {
+        "skill": "Regenerative Medicine",
+        "synonyms": "Tissue Regeneration, Stem Cell Therapies",
+        "parent_skill": "Medicine, Biotechnology"
+    },
+    {
+        "skill": "Telemedicine Implementation",
+        "synonyms": "Virtual Healthcare, Remote Care Delivery",
+        "parent_skill": "Healthcare, Digital Health"
+    },
+    {
+        "skill": "Value-Based Pricing in Pharmaceuticals",
+        "synonyms": "Outcome-Driven Pricing, Pharma Cost Models",
+        "parent_skill": "Business, Pharmaceuticals"
+    },
+    {
+        "skill": "Knowledge Translation in Health Research",
+        "synonyms": "Research Dissemination, Evidence-Based Practice",
+        "parent_skill": "Research, Public Health"
+    },
+    {
+        "skill": "Public Health Advocacy",
+        "synonyms": "Healthcare Awareness Campaigns, Policy Advocacy",
+        "parent_skill": "Public Health, Social Justice"
+    },
+    {
+        "skill": "Stakeholder Engagement in Life Sciences",
+        "synonyms": "Collaboration in Biotech, Stakeholder Communication",
+        "parent_skill": "Business, Healthcare"
+    },
+    {
+        "skill": "Translational Research",
+        "synonyms": "Lab-to-Bedside Studies, Applied Research",
+        "parent_skill": "Medicine, Biotechnology"
+    },
+    {
+        "skill": "AI/ML Algorithm Validation for Regulatory Compliance",
+        "synonyms": "Machine Learning Validation, AI Compliance Standards",
+        "parent_skill": "AI, Regulatory Affairs"
+    },
+    {
+        "skill": "ISO 27001 for Information Security in Pharma",
+        "synonyms": "Pharma Information Security Standards, ISO Compliance",
+        "parent_skill": "IT, Regulatory Affairs"
+    },
+    {
+        "skill": "Pharmaceutical Serialization and Traceability",
+        "synonyms": "Drug Tracking, Serialization Standards",
+        "parent_skill": "Pharmaceuticals, Supply Chain"
+    },
+    {
+        "skill": "Post-Market Surveillance (PMS)",
+        "synonyms": "Product Monitoring, Post-Approval Surveillance",
+        "parent_skill": "Regulatory Affairs, Pharmacovigilance"
+    },
+    {
+        "skill": "Total Quality Management (TQM)",
+        "synonyms": "TQM Practices, Continuous Improvement",
+        "parent_skill": "Quality Assurance, Business"
+    },
+    {
+        "skill": "Bioethics in Clinical Research",
+        "synonyms": "Ethical Research Practices, Human Subject Protections",
+        "parent_skill": "Bioethics, Clinical Research"
+    },
+    {
+        "skill": "Intellectual Property Rights in Biotech",
+        "synonyms": "IP Protection, Biotech Patents",
+        "parent_skill": "Business, Regulatory Affairs"
+    },
+    {
+        "skill": "Patient-Centric Trial Designs",
+        "synonyms": "Patient-Focused Trials, Human-Centered Research",
+        "parent_skill": "Clinical Research"
+    },
+    {
+        "skill": "Technology Transfer Agreements",
+        "synonyms": "IP Licensing, Research Commercialization",
+        "parent_skill": "Business, Research"
+    },
+    {
+        "skill": "Antisense Oligonucleotide (ASO) Therapies",
+        "synonyms": "Gene Silencing Therapies, Nucleic Acid-Based Drugs",
+        "parent_skill": "Biotechnology, Pharmaceuticals"
+    },
+    {
+        "skill": "Artificial Intelligence in Medical Imaging",
+        "synonyms": "AI in Radiology, Automated Image Analysis",
+        "parent_skill": "AI, Medical Imaging"
+    },
+    {
+        "skill": "Automated High-Throughput Screening",
+        "synonyms": "HTS Automation, Drug Discovery Screening",
+        "parent_skill": "Laboratory Science, IT"
+    },
+    {
+        "skill": "Biofabrication",
+        "synonyms": "3D Bioprinting, Bio-Manufacturing",
+        "parent_skill": "Biotechnology, Regenerative Medicine"
+    },
+    {
+        "skill": "Clinical Genomics",
+        "synonyms": "Genomic Medicine, Precision Diagnostics",
+        "parent_skill": "Genetics, Medicine"
+    },
+    {
+        "skill": "Gene Therapy Manufacturing",
+        "synonyms": "Cell and Gene Therapy Production, Genetic Medicine Manufacturing",
+        "parent_skill": "Biotechnology, Pharmaceuticals"
+    },
+    {
+        "skill": "Liquid Biopsy Techniques",
+        "synonyms": "Non-Invasive Diagnostics, Circulating Tumor DNA Analysis",
+        "parent_skill": "Oncology, Molecular Biology"
+    },
+    {
+        "skill": "Microfluidics in Drug Development",
+        "synonyms": "Lab-on-a-Chip Technology, Drug Testing Platforms",
+        "parent_skill": "Biotechnology, Laboratory Science"
+    },
+    {
+        "skill": "Next-Generation Biologics",
+        "synonyms": "Advanced Biotherapeutics, Biopharma Innovations",
+        "parent_skill": "Pharmaceuticals, Biotechnology"
+    },
+    {
+        "skill": "Optogenetics",
+        "synonyms": "Light-Controlled Genetics, Neural Circuitry Studies",
+        "parent_skill": "Neuroscience, Molecular Biology"
+    },
+    {
+        "skill": "Precision Oncology",
+        "synonyms": "Targeted Cancer Therapies, Genomic Cancer Medicine",
+        "parent_skill": "Oncology, Genomics"
+    },
+    {
+        "skill": "Single-Cell RNA Sequencing (scRNA-seq)",
+        "synonyms": "Single-Cell Genomics, High-Resolution Transcriptomics",
+        "parent_skill": "Molecular Biology, Bioinformatics"
+    },
+    {
+        "skill": "Spatial Transcriptomics",
+        "synonyms": "Tissue Transcriptomics, Spatial Gene Expression",
+        "parent_skill": "Molecular Biology, Bioinformatics"
+    },
+    {
+        "skill": "Good Clinical Data Management Practices (GCDMP)",
+        "synonyms": "Clinical Data Quality Standards, CDM Guidelines",
+        "parent_skill": "Clinical Research, IT"
+    },
+    {
+        "skill": "Health Economics Market Access (HEMA)",
+        "synonyms": "HEOR, Market Access Strategies",
+        "parent_skill": "Economics, Healthcare"
+    },
+    {
+        "skill": "Post-Approval Change Management",
+        "synonyms": "Product Lifecycle Management, Regulatory Changes",
+        "parent_skill": "Regulatory Affairs, Quality Assurance"
+    },
+    {
+        "skill": "Regulatory Affairs for Advanced Therapies",
+        "synonyms": "ATMP Regulations, Cell and Gene Therapy Compliance",
+        "parent_skill": "Regulatory Affairs"
+    },
+    {
+        "skill": "Risk Management Frameworks for Biotech Startups",
+        "synonyms": "Biotech Risk Planning, Risk Mitigation",
+        "parent_skill": "Business, Biotechnology"
+    },
+    {
+        "skill": "US and EU Pediatric Investigation Plans (PIPs)",
+        "synonyms": "Pediatric Clinical Trials, Regulatory Submissions",
+        "parent_skill": "Regulatory Affairs"
+    },
+    {
+        "skill": "Behavioral Health in Clinical Research",
+        "synonyms": "Mental Health Studies, Behavioral Intervention Trials",
+        "parent_skill": "Psychiatry, Clinical Research"
+    },
+    {
+        "skill": "Digital Health Intervention Development",
+        "synonyms": "Digital Health Solutions, E-Health Applications",
+        "parent_skill": "Digital Health, IT"
+    },
+    {
+        "skill": "Integrated Personalized Medicine",
+        "synonyms": "Holistic Precision Medicine, Personalized Treatment Planning",
+        "parent_skill": "Medicine, Genomics"
+    },
+    {
+        "skill": "Mobile Health Applications in Clinical Trials",
+        "synonyms": "mHealth Tools, Digital Clinical Trials",
+        "parent_skill": "Digital Health, Clinical Research"
+    },
+    {
+        "skill": "Pharmacogenetic Testing in Primary Care",
+        "synonyms": "Genetic Testing in Medicine, Personalized Drug Selection",
+        "parent_skill": "Genomics, Primary Care"
+    },
+    {
+        "skill": "Federated Learning in Health Data",
+        "synonyms": "Decentralized AI Training, Distributed Health Data Analytics",
+        "parent_skill": "AI, Healthcare"
+    },
+    {
+        "skill": "Natural Language Processing in Clinical Research",
+        "synonyms": "NLP in Healthcare, Text Mining in Trials",
+        "parent_skill": "AI, Clinical Research"
+    },
+    {
+        "skill": "Quantum Computing Applications in Drug Discovery",
+        "synonyms": "Quantum Simulations, Molecular Design Optimization",
+        "parent_skill": "Computational Biology, AI"
+    },
+    {
+        "skill": "Biosecurity Risk Assessments",
+        "synonyms": "Biothreat Evaluations, Biohazard Management",
+        "parent_skill": "Public Health, Environmental Science"
+    },
+    {
+        "skill": "Digital Ethics in Healthcare Applications",
+        "synonyms": "AI Ethics, Data Ethics in Healthcare",
+        "parent_skill": "Ethics, IT"
+    },
+    {
+        "skill": "Global Health Regulations and Policies",
+        "synonyms": "International Health Laws, Public Health Compliance",
+        "parent_skill": "Public Health, Regulatory Affairs"
+    },
+    {
+        "skill": "Blockchain in Clinical Trials and Pharma Supply Chains",
+        "synonyms": "Distributed Ledger Technology, Secure Drug Tracking",
+        "parent_skill": "IT, Pharmaceuticals"
+    },
+    {
+        "skill": "Digital Twin Technologies in Life Sciences",
+        "synonyms": "Virtual Biological Models, Simulation Platforms",
+        "parent_skill": "Biotechnology, IT"
+    },
+    {
+        "skill": "Implementation Science in Healthcare",
+        "synonyms": "Healthcare Innovation Adoption, Applied Research",
+        "parent_skill": "Medicine, Public Health"
+    },
+    {
+        "skill": "Patient-Reported Outcome Measures (PROMs)",
+        "synonyms": "PROs, Patient Feedback in Trials",
+        "parent_skill": "Clinical Research, Healthcare"
+    },
+    {
+        "skill": "Wearable Biosensors in Chronic Disease Management",
+        "synonyms": "Health Monitoring Devices, Wearable Diagnostics",
+        "parent_skill": "Digital Health, Medicine"
+    },
+    {
+        "skill": "Circular Economy in Biopharma",
+        "synonyms": "Sustainable Pharma Practices, Eco-Friendly Drug Manufacturing",
+        "parent_skill": "Environmental Science, Pharmaceuticals"
+    },
+    {
+        "skill": "Climate Change Impact on Public Health",
+        "synonyms": "Environmental Health, Global Health Challenges",
+        "parent_skill": "Public Health, Environmental Science"
+    },
+    {
+        "skill": "Sustainable Drug Manufacturing",
+        "synonyms": "Green Pharma Production, Eco-Friendly Biomanufacturing",
+        "parent_skill": "Pharmaceuticals, Environmental Science"
+    }
+]

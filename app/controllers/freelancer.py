@@ -1,11 +1,13 @@
 import requests
 import os
+import json
 from dotenv import load_dotenv
 from app.utils.openai_client import generate_openai_response
 import json  # Import to parse JSON strings
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from constant import SKILL_JSON_PATH
 
-load_dotenv()
+load_dotenv()    
 
 GET_SKILL_API_URL = os.getenv("GET_SKILL_API_URL")
 GET_COUNTRY_API_URL = os.getenv("GET_COUNTRY_API_URL")
@@ -70,6 +72,21 @@ def process_single_chunk(chunk, input_skill):
     except Exception as e:
         print(f"Error processing chunk: {str(e)}")
         return []
+    
+def match_skills_from_json(user_query):
+    """Match user query with JSON skills and their synonyms."""
+    with open(SKILL_JSON_PATH, "r") as file:
+        skill_json = json.load(file)
+    
+    matched_skills = []
+    for skill_item in skill_json:
+        synonyms = skill_item["synonyms"].split(", ")
+        if any(synonym.lower() in user_query.lower() for synonym in synonyms):
+            matched_skills.append({
+                "skill": skill_item["skill"],
+                "parent_skill": skill_item["parent_skill"]
+            })
+    return matched_skills
 
 
 def process_skill_chunks_parallel(skill_chunks, input_skill):
@@ -105,13 +122,18 @@ def get_freelancer_response(user_query: str) -> str:
             raise Exception(f"Error fetching data from getskills API: {skill_response.status_code}")
         skill_data = skill_response.json()  # Parse as JSON
         skill_chunks = list(chunk_array_with_overlap(skill_data, max_length=500))
+        print("length of skill chunks", len(skill_chunks))
 
         # Step 1: Process each chunk to find the best matches in parallel
         filtered_skills = process_skill_chunks_parallel(skill_chunks, user_query)
         print("filtered_skills:: ", filtered_skills)
 
+        json_based_skills = match_skills_from_json(user_query)
+        combined_skills = filtered_skills + [item["skill"] for item in json_based_skills]
+        print("combined_skills", combined_skills)
+
         # Step 2: Aggregate results from all chunks
-        formatted_skills = ", ".join(filtered_skills)
+        formatted_skills = ", ".join(combined_skills)
         print("formatted_skills:: ", formatted_skills)
 
         # Step 3: Construct the prompt
@@ -132,7 +154,7 @@ def get_freelancer_response(user_query: str) -> str:
         Replace <ExampleKeyword>, <ExampleSkill>, <ExampleEarnings>, <ExampleProjectsWorked>, <ExampleLocation> and <ExampleRate> with generated values. If you think the user has not provided any value for a given key, keep that key blank.
         Based on the user query, provide simple string titles.
         I need the json object in response; do not send any other json or characters. I need to extract json from your response with json.loads() function in python.
-        note:- The keyword should be maximum one or two word only and that word will not in the skills
+        note:- The keyword should be maximum one or two word only and that word will not in the skills.
         Sample output:
         {{
         "keyword": "Frontend Developer",
@@ -146,6 +168,7 @@ def get_freelancer_response(user_query: str) -> str:
 
         # Generate OpenAI response
         final_response = generate_openai_response(PROMPT, user_query)
+        #print("final_response", final_response)
         return final_response
 
     except Exception as e:

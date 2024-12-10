@@ -1,0 +1,1 @@
+SKILL_JSON_PATH = "./asset/skills_data.json"
